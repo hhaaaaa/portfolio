@@ -35,7 +35,7 @@
     "eslint-plugin-react-hooks": "7.1.1",
     "eslint-plugin-react-jsx": "5.28.8",
     "eslint-plugin-react-x": "5.28.8",
-    "globals": "17.13.0",
+    "globals": "17.14.0",
     "prettier": "3.9.10",
     "typescript": "~5.9.3"
   },
