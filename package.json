@@ -37,7 +37,7 @@
     "eslint-plugin-react-x": "5.28.8",
     "globals": "17.13.0",
     "prettier": "3.9.10",
-    "typescript": "~5.9.3"
+    "typescript": "~7.0.2"
   },
   "overrides": {
     "minimatch@10": "11.0.5"
