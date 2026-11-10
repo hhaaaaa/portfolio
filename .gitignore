@@ -1,0 +1,35 @@
+# dependencies
+node_modules
+
+# env
+.env*
+!.env.example
+
+# next build
+.next/
+dist/
+out/
+.tools/
+
+# text / coverage
+coverage/
+
+# runtime logs (pm2, ai-search)
+logs/
+*.log
+
+# deploy
+deploy.config.*.sh
+docs/publish.config.local.sh
+README.html
+
+# typescript
+*.tsbuildinfo
+next-env.d.ts
+
+# editor / OS
+.cursor
+.vscode
+.DS_Store
+.history
+.pnpm-store

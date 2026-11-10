@@ -1,0 +1,45 @@
+{
+  "name": "portfolio",
+  "version": "0.1.0",
+  "private": true,
+  "scripts": {
+    "dev": "next dev",
+    "build": "next build",
+    "lint": "npm run lint:eslint",
+    "typecheck": "tsc --noEmit",
+    "check": "npm run lint && npm run typecheck",
+    "lint:eslint": "eslint src",
+    "format": "prettier --write",
+    "format:check": "prettier --check"
+  },
+  "engines": {
+    "node": ">=24.22.2 <25"
+  },
+  "dependencies": {
+    "next": "16.4.5",
+    "react": "19.3.1",
+    "react-dom": "19.3.1"
+  },
+  "devDependencies": {
+    "@next/eslint-plugin-next": "16.4.5",
+    "@types/node": "^24.0.0",
+    "@types/react": "^19.0.0",
+    "@types/react-dom": "^19.0.0",
+    "@typescript-eslint/eslint-plugin": "8.72.1",
+    "@typescript-eslint/parser": "8.72.1",
+    "eslint": "10.13.0",
+    "eslint-config-prettier": "10.1.8",
+    "eslint-plugin-import-x": "4.18.1",
+    "eslint-plugin-jsx-a11y-x": "0.2.0",
+    "eslint-plugin-react-dom": "5.28.8",
+    "eslint-plugin-react-hooks": "7.1.1",
+    "eslint-plugin-react-jsx": "5.28.8",
+    "eslint-plugin-react-x": "5.28.8",
+    "globals": "17.13.0",
+    "prettier": "3.9.10",
+    "typescript": "~5.9.3"
+  },
+  "overrides": {
+    "minimatch@10": "11.0.5"
+  }
+}

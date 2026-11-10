@@ -1,0 +1,4764 @@
+[
+  {
+    "tag": "div",
+    "attrs": {
+      "class": "container header-contianer"
+    },
+    "children": [
+      {
+        "tag": "div",
+        "attrs": {
+          "class": "row"
+        },
+        "children": [
+          "\n    ",
+          {
+            "tag": "div",
+            "attrs": {
+              "class": "col-xs-12 visible-xs-block text-right no-print lang-switch lang-switch--mobile"
+            },
+            "children": [
+              {
+                "tag": "a",
+                "attrs": {
+                  "href": "/"
+                },
+                "children": [
+                  "KOR"
+                ]
+              },
+              " | ",
+              {
+                "tag": "strong",
+                "attrs": {
+                  "class": "lang-switch--active"
+                },
+                "children": [
+                  "EN"
+                ]
+              }
+            ]
+          },
+          "\n    ",
+          {
+            "tag": "div",
+            "attrs": {
+              "class": "col-xs-12 col-sm-6 col-md-6 col-lg-8 header-left"
+            },
+            "children": [
+              "\n      ",
+              {
+                "tag": "br",
+                "attrs": {},
+                "children": []
+              },
+              "\n      ",
+              {
+                "tag": "h1",
+                "attrs": {},
+                "children": [
+                  "Ha Hyun"
+                ]
+              },
+              "\n      ",
+              {
+                "tag": "h2",
+                "attrs": {},
+                "children": [
+                  "Front-End Engineer"
+                ]
+              },
+              "\n    "
+            ]
+          },
+          "\n    ",
+          {
+            "tag": "div",
+            "attrs": {
+              "class": "col-xs-12 col-sm-6 col-md-6 col-lg-4 header-right"
+            },
+            "children": [
+              "\n      ",
+              {
+                "tag": "ul",
+                "attrs": {
+                  "class": "icons no-print"
+                },
+                "children": [
+                  "\n      "
+                ]
+              },
+              "\n      ",
+              {
+                "tag": "div",
+                "attrs": {
+                  "class": "hidden-xs no-print lang-switch lang-switch--desktop"
+                },
+                "children": [
+                  {
+                    "tag": "a",
+                    "attrs": {
+                      "href": "/"
+                    },
+                    "children": [
+                      "KOR"
+                    ]
+                  },
+                  " | ",
+                  {
+                    "tag": "strong",
+                    "attrs": {
+                      "class": "lang-switch--active"
+                    },
+                    "children": [
+                      "EN"
+                    ]
+                  }
+                ]
+              },
+              {
+                "tag": "table",
+                "attrs": {
+                  "style": "font-size: 1.5rem; font-weight: 600; width: 100%;"
+                },
+                "children": [
+                  " \n          ",
+                  {
+                    "tag": "tr",
+                    "attrs": {},
+                    "children": [
+                      "\n            ",
+                      {
+                        "tag": "td",
+                        "attrs": {
+                          "style": "border-bottom: none; text-align: center; width: 40%;"
+                        },
+                        "children": [
+                          "\n              Email\n            "
+                        ]
+                      },
+                      "\n            ",
+                      {
+                        "tag": "td",
+                        "attrs": {
+                          "style": "border-bottom: none; font-weight: normal; width: 60%;"
+                        },
+                        "children": [
+                          "\n              ",
+                          {
+                            "tag": "a",
+                            "attrs": {
+                              "href": "mailto:gkgusgkgus@gmail.com",
+                              "target": "_blank"
+                            },
+                            "children": [
+                              "gkgusgkgus@gmail.com"
+                            ]
+                          },
+                          "\n            "
+                        ]
+                      },
+                      "\n          "
+                    ]
+                  },
+                  "\n        "
+                ]
+              },
+              {
+                "tag": "table",
+                "attrs": {
+                  "style": "font-size: 1.5rem; font-weight: 600; width: 100%;"
+                },
+                "children": [
+                  "\n          ",
+                  {
+                    "tag": "tr",
+                    "attrs": {},
+                    "children": [
+                      "\n            ",
+                      {
+                        "tag": "td",
+                        "attrs": {
+                          "style": "border-bottom: none; text-align: center; width: 40%;"
+                        },
+                        "children": [
+                          "\n              Phone\n            "
+                        ]
+                      },
+                      "\n            ",
+                      {
+                        "tag": "td",
+                        "attrs": {
+                          "style": "border-bottom: none; font-weight: normal; width: 60%;"
+                        },
+                        "children": [
+                          "\n              010-6860-5012\n            "
+                        ]
+                      },
+                      "\n          "
+                    ]
+                  },
+                  "\n        "
+                ]
+              },
+              "\n    "
+            ]
+          },
+          "\n  "
+        ]
+      },
+      "\n"
+    ]
+  },
+  "\n",
+  {
+    "tag": "main",
+    "attrs": {
+      "class": "page-content",
+      "aria-label": "Content"
+    },
+    "children": [
+      "\n    ",
+      {
+        "tag": "div",
+        "attrs": {
+          "class": "wrapper"
+        },
+        "children": [
+          {
+            "tag": "div",
+            "attrs": {
+              "class": "container intro-container"
+            },
+            "children": [
+              {
+                "tag": "h3",
+                "attrs": {},
+                "children": [
+                  "About Me"
+                ]
+              },
+              "\n  ",
+              {
+                "tag": "div",
+                "attrs": {
+                  "class": "row clearfix"
+                },
+                "children": [
+                  {
+                    "tag": "div",
+                    "attrs": {
+                      "class": "col-xs-12 col-sm-4 col-md-3 no-print"
+                    },
+                    "children": [
+                      "\n        ",
+                      {
+                        "tag": "span",
+                        "attrs": {
+                          "class": "profile-img",
+                          "style": "background-image: url(/images/profile_hha.jpg)"
+                        },
+                        "children": []
+                      },
+                      "\n      "
+                    ]
+                  },
+                  {
+                    "tag": "div",
+                    "attrs": {
+                      "class": "about-content col-xs-12 col-sm-8 col-md-9 col-print-12"
+                    },
+                    "children": [
+                      "\n      ",
+                      {
+                        "tag": "p",
+                        "attrs": {
+                          "style": "font-size: 15px;"
+                        },
+                        "children": [
+                          "\n  Frontend engineer specializing in building scalable web applications and improving user experience.\n"
+                        ]
+                      },
+                      "\n",
+                      {
+                        "tag": "p",
+                        "attrs": {
+                          "style": "font-size: 15px;"
+                        },
+                        "children": [
+                          "\n  Experienced in end-to-end development of multiple production services, from architecture design to optimization.\n"
+                        ]
+                      },
+                      "\n\n",
+                      {
+                        "tag": "hr",
+                        "attrs": {},
+                        "children": []
+                      },
+                      "\n\n",
+                      {
+                        "tag": "p",
+                        "attrs": {},
+                        "children": [
+                          {
+                            "tag": "code",
+                            "attrs": {
+                              "class": "language-plaintext highlighter-rouge"
+                            },
+                            "children": [
+                              "Continuous Improvement"
+                            ]
+                          }
+                        ]
+                      },
+                      "\n\n",
+                      {
+                        "tag": "ul",
+                        "attrs": {},
+                        "children": [
+                          "\n  ",
+                          {
+                            "tag": "li",
+                            "attrs": {},
+                            "children": [
+                              "Chose frontend development to directly engage with users and enhance user experience."
+                            ]
+                          },
+                          "\n  ",
+                          {
+                            "tag": "li",
+                            "attrs": {},
+                            "children": [
+                              "Actively learn new technologies to improve skills and deliver better user-facing services."
+                            ]
+                          },
+                          "\n  ",
+                          {
+                            "tag": "li",
+                            "attrs": {},
+                            "children": [
+                              "Continuously refine code quality through iterative refactoring."
+                            ]
+                          },
+                          "\n"
+                        ]
+                      },
+                      "\n\n",
+                      {
+                        "tag": "p",
+                        "attrs": {},
+                        "children": [
+                          {
+                            "tag": "code",
+                            "attrs": {
+                              "class": "language-plaintext highlighter-rouge"
+                            },
+                            "children": [
+                              "Collaboration & Communication"
+                            ]
+                          }
+                        ]
+                      },
+                      "\n\n",
+                      {
+                        "tag": "ul",
+                        "attrs": {},
+                        "children": [
+                          "\n  ",
+                          {
+                            "tag": "li",
+                            "attrs": {},
+                            "children": [
+                              "Participates in planning, design, and development, contributing ideas through active collaboration."
+                            ]
+                          },
+                          "\n  ",
+                          {
+                            "tag": "li",
+                            "attrs": {},
+                            "children": [
+                              "Maintains and improves services based on user feedback, ensuring user needs are met."
+                            ]
+                          },
+                          "\n  ",
+                          {
+                            "tag": "li",
+                            "attrs": {},
+                            "children": [
+                              "Prioritizes communication with both team members and users to enhance overall user experience."
+                            ]
+                          },
+                          "\n"
+                        ]
+                      },
+                      "\n\n",
+                      {
+                        "tag": "p",
+                        "attrs": {},
+                        "children": [
+                          {
+                            "tag": "code",
+                            "attrs": {
+                              "class": "language-plaintext highlighter-rouge"
+                            },
+                            "children": [
+                              "Quality-Focused Development"
+                            ]
+                          }
+                        ]
+                      },
+                      "\n\n",
+                      {
+                        "tag": "ul",
+                        "attrs": {},
+                        "children": [
+                          "\n  ",
+                          {
+                            "tag": "li",
+                            "attrs": {},
+                            "children": [
+                              "Writes clean, maintainable, and readable code to support efficient collaboration."
+                            ]
+                          },
+                          "\n  ",
+                          {
+                            "tag": "li",
+                            "attrs": {},
+                            "children": [
+                              "Continuously explores and applies libraries, design patterns, and testing approaches."
+                            ]
+                          },
+                          "\n  ",
+                          {
+                            "tag": "li",
+                            "attrs": {},
+                            "children": [
+                              "Focuses on improving team productivity and user satisfaction through ongoing learning and improvement."
+                            ]
+                          },
+                          "\n"
+                        ]
+                      },
+                      "\n\n",
+                      {
+                        "tag": "hr",
+                        "attrs": {},
+                        "children": []
+                      },
+                      "\n\n",
+                      {
+                        "tag": "p",
+                        "attrs": {},
+                        "children": [
+                          "Areas of Interest: ",
+                          {
+                            "tag": "mark",
+                            "attrs": {},
+                            "children": [
+                              "Web"
+                            ]
+                          },
+                          ", ",
+                          {
+                            "tag": "mark",
+                            "attrs": {},
+                            "children": [
+                              "Front-End"
+                            ]
+                          },
+                          ", ",
+                          {
+                            "tag": "mark",
+                            "attrs": {},
+                            "children": [
+                              "WebView"
+                            ]
+                          }
+                        ]
+                      },
+                      "\n\n    "
+                    ]
+                  },
+                  "\n  "
+                ]
+              },
+              "\n"
+            ]
+          },
+          "\n\n          ",
+          {
+            "tag": "div",
+            "attrs": {
+              "class": "container list-container"
+            },
+            "children": [
+              "\n            ",
+              {
+                "tag": "h3",
+                "attrs": {},
+                "children": [
+                  "Skill"
+                ]
+              },
+              "\n            \n  ",
+              {
+                "tag": "div",
+                "attrs": {
+                  "class": "row clearfix layout layout-top-middle"
+                },
+                "children": [
+                  "\n    ",
+                  {
+                    "tag": "div",
+                    "attrs": {
+                      "class": "col-xs-12 col-sm-4 col-md-3 col-print-12 details"
+                    },
+                    "children": [
+                      "\n      ",
+                      {
+                        "tag": "h4",
+                        "attrs": {},
+                        "children": []
+                      },
+                      {
+                        "tag": "p",
+                        "attrs": {
+                          "class": "no-print aditional-links"
+                        },
+                        "children": [
+                          "\n        \n      "
+                        ]
+                      },
+                      "\n    "
+                    ]
+                  },
+                  "\n    ",
+                  {
+                    "tag": "div",
+                    "attrs": {
+                      "class": "col-xs-12 col-sm-8 col-md-9 col-print-12 content"
+                    },
+                    "children": [
+                      {
+                        "tag": "p",
+                        "attrs": {
+                          "class": "quote"
+                        },
+                        "children": [
+                          "Technologies and tools used in professional and project experience\n"
+                        ]
+                      },
+                      "\n\n    "
+                    ]
+                  },
+                  "\n  "
+                ]
+              },
+              "\n\n  ",
+              {
+                "tag": "div",
+                "attrs": {
+                  "class": "row clearfix layout layout-left"
+                },
+                "children": [
+                  "\n    ",
+                  {
+                    "tag": "div",
+                    "attrs": {
+                      "class": "col-xs-12 col-sm-4 col-md-3 col-print-12 details"
+                    },
+                    "children": [
+                      "\n      ",
+                      {
+                        "tag": "h4",
+                        "attrs": {},
+                        "children": []
+                      },
+                      {
+                        "tag": "p",
+                        "attrs": {},
+                        "children": [
+                          {
+                            "tag": "b",
+                            "attrs": {},
+                            "children": [
+                              "💻 Front-End 💻",
+                              {
+                                "tag": "br",
+                                "attrs": {},
+                                "children": []
+                              }
+                            ]
+                          }
+                        ]
+                      },
+                      {
+                        "tag": "p",
+                        "attrs": {
+                          "class": "no-print aditional-links"
+                        },
+                        "children": [
+                          "\n        \n      "
+                        ]
+                      },
+                      "\n    "
+                    ]
+                  },
+                  "\n    ",
+                  {
+                    "tag": "div",
+                    "attrs": {
+                      "class": "col-xs-12 col-sm-8 col-md-9 col-print-12 content"
+                    },
+                    "children": [
+                      {
+                        "tag": "ul",
+                        "attrs": {},
+                        "children": [
+                          "\n  ",
+                          {
+                            "tag": "li",
+                            "attrs": {},
+                            "children": [
+                              {
+                                "tag": "img",
+                                "attrs": {
+                                  "src": "https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=HTML5&logoColor=white",
+                                  "alt": "HTML5"
+                                },
+                                "children": []
+                              },
+                              "\n",
+                              {
+                                "tag": "img",
+                                "attrs": {
+                                  "src": "https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=CSS3&logoColor=white",
+                                  "alt": "CSS3"
+                                },
+                                "children": []
+                              },
+                              "\n",
+                              {
+                                "tag": "img",
+                                "attrs": {
+                                  "src": "https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=JavaScript&logoColor=black",
+                                  "alt": "JavaScript"
+                                },
+                                "children": []
+                              },
+                              "\n",
+                              {
+                                "tag": "img",
+                                "attrs": {
+                                  "src": "https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=TypeScript&logoColor=black",
+                                  "alt": "TypeScript"
+                                },
+                                "children": []
+                              },
+                              "\n",
+                              {
+                                "tag": "br",
+                                "attrs": {},
+                                "children": []
+                              }
+                            ]
+                          },
+                          "\n  ",
+                          {
+                            "tag": "li",
+                            "attrs": {},
+                            "children": [
+                              {
+                                "tag": "img",
+                                "attrs": {
+                                  "src": "https://img.shields.io/badge/jQuery-0769AD?style=flat-square&logo=jQuery&logoColor=white",
+                                  "alt": "jQuery"
+                                },
+                                "children": []
+                              },
+                              "\n",
+                              {
+                                "tag": "img",
+                                "attrs": {
+                                  "src": "https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=React&logoColor=black",
+                                  "alt": "React"
+                                },
+                                "children": []
+                              },
+                              "\n",
+                              {
+                                "tag": "img",
+                                "attrs": {
+                                  "src": "https://img.shields.io/badge/React--Router-CA4245?style=flat-square&logo=React%20Router&logoColor=white",
+                                  "alt": "React-Router"
+                                },
+                                "children": []
+                              },
+                              "\n",
+                              {
+                                "tag": "img",
+                                "attrs": {
+                                  "src": "https://img.shields.io/badge/Next.js-000000?style=flat-square&logo=Next.js&logoColor=white",
+                                  "alt": "Next.js"
+                                },
+                                "children": []
+                              }
+                            ]
+                          },
+                          "\n  ",
+                          {
+                            "tag": "li",
+                            "attrs": {},
+                            "children": [
+                              {
+                                "tag": "img",
+                                "attrs": {
+                                  "src": "https://img.shields.io/badge/Redux-764ABC?style=flat-square&logo=Redux&logoColor=white",
+                                  "alt": "Redux"
+                                },
+                                "children": []
+                              },
+                              "\n",
+                              {
+                                "tag": "img",
+                                "attrs": {
+                                  "src": "https://img.shields.io/badge/Redux--Saga-999999?style=flat-square&logo=Redux-Saga&logoColor=white",
+                                  "alt": "Redux-Saga"
+                                },
+                                "children": []
+                              },
+                              "\n",
+                              {
+                                "tag": "img",
+                                "attrs": {
+                                  "src": "https://img.shields.io/badge/Redux--Toolkit-764ABC?style=flat-square&logo=Redux&logoColor=white",
+                                  "alt": "Redux-Toolkit"
+                                },
+                                "children": []
+                              },
+                              "\n",
+                              {
+                                "tag": "img",
+                                "attrs": {
+                                  "src": "https://img.shields.io/badge/zustand-ECD53F?style=flat-square&logo=Zustand&logoColor=white",
+                                  "alt": "zustand"
+                                },
+                                "children": []
+                              },
+                              "\n",
+                              {
+                                "tag": "img",
+                                "attrs": {
+                                  "src": "https://img.shields.io/badge/React--Query-FF4154?style=flat-square&logo=React-Query&logoColor=white",
+                                  "alt": "React-Query"
+                                },
+                                "children": []
+                              },
+                              "\n",
+                              {
+                                "tag": "br",
+                                "attrs": {},
+                                "children": []
+                              }
+                            ]
+                          },
+                          "\n  ",
+                          {
+                            "tag": "li",
+                            "attrs": {},
+                            "children": [
+                              {
+                                "tag": "img",
+                                "attrs": {
+                                  "src": "https://img.shields.io/badge/Jest-C21325?style=flat-square&logo=Jest&logoColor=white",
+                                  "alt": "Jest"
+                                },
+                                "children": []
+                              },
+                              "\n",
+                              {
+                                "tag": "img",
+                                "attrs": {
+                                  "src": "https://img.shields.io/badge/Testing%20Library-E33332?style=flat-square&logo=Testing%20Library&logoColor=white",
+                                  "alt": "Testing Library"
+                                },
+                                "children": []
+                              },
+                              "\n",
+                              {
+                                "tag": "br",
+                                "attrs": {},
+                                "children": []
+                              }
+                            ]
+                          },
+                          "\n  ",
+                          {
+                            "tag": "li",
+                            "attrs": {},
+                            "children": [
+                              {
+                                "tag": "img",
+                                "attrs": {
+                                  "src": "https://img.shields.io/badge/styled--components-DB7093?style=flat-square&logo=styled-components&logoColor=white",
+                                  "alt": "styled-components"
+                                },
+                                "children": []
+                              },
+                              "\n",
+                              {
+                                "tag": "img",
+                                "attrs": {
+                                  "src": "https://img.shields.io/badge/emotion-DB7093?style=flat-square&logo=emotion&logoColor=white",
+                                  "alt": "emotion"
+                                },
+                                "children": []
+                              },
+                              "\n",
+                              {
+                                "tag": "img",
+                                "attrs": {
+                                  "src": "https://img.shields.io/badge/Material--UI-007FFF?style=flat-square&logo=mui&logoColor=white",
+                                  "alt": "Material-UI"
+                                },
+                                "children": []
+                              },
+                              "\n",
+                              {
+                                "tag": "img",
+                                "attrs": {
+                                  "src": "https://img.shields.io/badge/ESLint-4B32C3?style=flat-square&logo=ESLint&logoColor=white",
+                                  "alt": "ESLint"
+                                },
+                                "children": []
+                              },
+                              "\n",
+                              {
+                                "tag": "img",
+                                "attrs": {
+                                  "src": "https://img.shields.io/badge/Prettier-F7B93E?style=flat-square&logo=Prettier&logoColor=white",
+                                  "alt": "Prettier"
+                                },
+                                "children": []
+                              },
+                              "\n",
+                              {
+                                "tag": "br",
+                                "attrs": {},
+                                "children": []
+                              }
+                            ]
+                          },
+                          "\n  ",
+                          {
+                            "tag": "li",
+                            "attrs": {},
+                            "children": [
+                              {
+                                "tag": "img",
+                                "attrs": {
+                                  "src": "https://img.shields.io/badge/npm-CB3837?style=flat-square&logo=npm&logoColor=white",
+                                  "alt": "npm"
+                                },
+                                "children": []
+                              },
+                              "\n",
+                              {
+                                "tag": "img",
+                                "attrs": {
+                                  "src": "https://img.shields.io/badge/npm--workspace-CB3837?style=flat-square&logo=npm&logoColor=white",
+                                  "alt": "npm-workspace"
+                                },
+                                "children": []
+                              }
+                            ]
+                          },
+                          "\n"
+                        ]
+                      },
+                      "\n\n    "
+                    ]
+                  },
+                  "\n  "
+                ]
+              },
+              "\n\n  ",
+              {
+                "tag": "div",
+                "attrs": {
+                  "class": "row clearfix layout layout-left"
+                },
+                "children": [
+                  "\n    ",
+                  {
+                    "tag": "div",
+                    "attrs": {
+                      "class": "col-xs-12 col-sm-4 col-md-3 col-print-12 details"
+                    },
+                    "children": [
+                      "\n      ",
+                      {
+                        "tag": "h4",
+                        "attrs": {},
+                        "children": []
+                      },
+                      {
+                        "tag": "p",
+                        "attrs": {},
+                        "children": [
+                          {
+                            "tag": "b",
+                            "attrs": {},
+                            "children": [
+                              "🔑 Back-End 🔑",
+                              {
+                                "tag": "br",
+                                "attrs": {},
+                                "children": []
+                              }
+                            ]
+                          }
+                        ]
+                      },
+                      {
+                        "tag": "p",
+                        "attrs": {
+                          "class": "no-print aditional-links"
+                        },
+                        "children": [
+                          "\n        \n      "
+                        ]
+                      },
+                      "\n    "
+                    ]
+                  },
+                  "\n    ",
+                  {
+                    "tag": "div",
+                    "attrs": {
+                      "class": "col-xs-12 col-sm-8 col-md-9 col-print-12 content"
+                    },
+                    "children": [
+                      {
+                        "tag": "ul",
+                        "attrs": {},
+                        "children": [
+                          "\n  ",
+                          {
+                            "tag": "li",
+                            "attrs": {},
+                            "children": [
+                              {
+                                "tag": "img",
+                                "attrs": {
+                                  "src": "https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=Node.js&logoColor=white",
+                                  "alt": "Node.js"
+                                },
+                                "children": []
+                              },
+                              "\n",
+                              {
+                                "tag": "img",
+                                "attrs": {
+                                  "src": "https://img.shields.io/badge/Express-000000?style=flat-square&logo=Express&logoColor=white",
+                                  "alt": "Express"
+                                },
+                                "children": []
+                              },
+                              "\n",
+                              {
+                                "tag": "img",
+                                "attrs": {
+                                  "src": "https://img.shields.io/badge/NGINX-009639?style=flat-square&logo=nginx&logoColor=white",
+                                  "alt": "NGINX"
+                                },
+                                "children": []
+                              },
+                              "\n",
+                              {
+                                "tag": "img",
+                                "attrs": {
+                                  "src": "https://img.shields.io/badge/Amazon%20Web%20Services-232F3E?style=flat-square&logo=Amazon%20Web%20Services&logoColor=white",
+                                  "alt": "Amazon Web Services"
+                                },
+                                "children": []
+                              },
+                              "\n",
+                              {
+                                "tag": "br",
+                                "attrs": {},
+                                "children": []
+                              }
+                            ]
+                          },
+                          "\n  ",
+                          {
+                            "tag": "li",
+                            "attrs": {},
+                            "children": [
+                              {
+                                "tag": "img",
+                                "attrs": {
+                                  "src": "https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=MySQL&logoColor=white",
+                                  "alt": "MySQL"
+                                },
+                                "children": []
+                              },
+                              "\n",
+                              {
+                                "tag": "img",
+                                "attrs": {
+                                  "src": "https://img.shields.io/badge/Oracle-F80000?style=flat-square&logo=Oracle&logoColor=white",
+                                  "alt": "Oracle"
+                                },
+                                "children": []
+                              },
+                              "\n",
+                              {
+                                "tag": "img",
+                                "attrs": {
+                                  "src": "https://img.shields.io/badge/Apache2-D22128?style=flat-square&logo=Apache&logoColor=white",
+                                  "alt": "Apache2"
+                                },
+                                "children": []
+                              },
+                              "\n",
+                              {
+                                "tag": "img",
+                                "attrs": {
+                                  "src": "https://img.shields.io/badge/Swagger-85EA2D?style=flat-square&logo=Swagger&logoColor=white",
+                                  "alt": "Swagger"
+                                },
+                                "children": []
+                              },
+                              "\n",
+                              {
+                                "tag": "br",
+                                "attrs": {},
+                                "children": []
+                              }
+                            ]
+                          },
+                          "\n  ",
+                          {
+                            "tag": "li",
+                            "attrs": {},
+                            "children": [
+                              {
+                                "tag": "img",
+                                "attrs": {
+                                  "src": "https://img.shields.io/badge/Java-007396?style=flat-square&logo=Java&logoColor=white",
+                                  "alt": "Java"
+                                },
+                                "children": []
+                              },
+                              "\n",
+                              {
+                                "tag": "img",
+                                "attrs": {
+                                  "src": "https://img.shields.io/badge/JSP-333333?style=flat-square&logo=JSP&logoColor=white",
+                                  "alt": "JSP"
+                                },
+                                "children": []
+                              },
+                              "\n",
+                              {
+                                "tag": "img",
+                                "attrs": {
+                                  "src": "https://img.shields.io/badge/Spring-6DB33F?style=flat-square&logo=Spring&logoColor=white",
+                                  "alt": "Spring"
+                                },
+                                "children": []
+                              },
+                              "\n",
+                              {
+                                "tag": "img",
+                                "attrs": {
+                                  "src": "https://img.shields.io/badge/MyBatis-333333?style=flat-square&logo=MyBatis&logoColor=white",
+                                  "alt": "MyBatis"
+                                },
+                                "children": []
+                              },
+                              "\n",
+                              {
+                                "tag": "img",
+                                "attrs": {
+                                  "src": "https://img.shields.io/badge/Maven-C71A36?style=flat-square&logo=Apache%20Maven&logoColor=white",
+                                  "alt": "Maven"
+                                },
+                                "children": []
+                              }
+                            ]
+                          },
+                          "\n"
+                        ]
+                      },
+                      "\n\n    "
+                    ]
+                  },
+                  "\n  "
+                ]
+              },
+              "\n\n  ",
+              {
+                "tag": "div",
+                "attrs": {
+                  "class": "row clearfix layout layout-left"
+                },
+                "children": [
+                  "\n    ",
+                  {
+                    "tag": "div",
+                    "attrs": {
+                      "class": "col-xs-12 col-sm-4 col-md-3 col-print-12 details"
+                    },
+                    "children": [
+                      "\n      ",
+                      {
+                        "tag": "h4",
+                        "attrs": {},
+                        "children": []
+                      },
+                      {
+                        "tag": "p",
+                        "attrs": {},
+                        "children": [
+                          {
+                            "tag": "b",
+                            "attrs": {},
+                            "children": [
+                              "⚙️ Etc ⚙️",
+                              {
+                                "tag": "br",
+                                "attrs": {},
+                                "children": []
+                              }
+                            ]
+                          }
+                        ]
+                      },
+                      {
+                        "tag": "p",
+                        "attrs": {
+                          "class": "no-print aditional-links"
+                        },
+                        "children": [
+                          "\n        \n      "
+                        ]
+                      },
+                      "\n    "
+                    ]
+                  },
+                  "\n    ",
+                  {
+                    "tag": "div",
+                    "attrs": {
+                      "class": "col-xs-12 col-sm-8 col-md-9 col-print-12 content"
+                    },
+                    "children": [
+                      {
+                        "tag": "ul",
+                        "attrs": {},
+                        "children": [
+                          "\n  ",
+                          {
+                            "tag": "li",
+                            "attrs": {},
+                            "children": [
+                              {
+                                "tag": "img",
+                                "attrs": {
+                                  "src": "https://img.shields.io/badge/Git-F05032?style=flat-square&logo=Git&logoColor=white",
+                                  "alt": "Git"
+                                },
+                                "children": []
+                              },
+                              "\n",
+                              {
+                                "tag": "img",
+                                "attrs": {
+                                  "src": "https://img.shields.io/badge/Zeplin-F3B724?style=flat-square&logo=zeplin&logoColor=white",
+                                  "alt": "Zeplin"
+                                },
+                                "children": []
+                              },
+                              "\n",
+                              {
+                                "tag": "img",
+                                "attrs": {
+                                  "src": "https://img.shields.io/badge/Figma-F24E1E?style=flat-square&logo=Figma&logoColor=white",
+                                  "alt": "Figma"
+                                },
+                                "children": []
+                              },
+                              "\n",
+                              {
+                                "tag": "br",
+                                "attrs": {},
+                                "children": []
+                              }
+                            ]
+                          },
+                          "\n  ",
+                          {
+                            "tag": "li",
+                            "attrs": {},
+                            "children": [
+                              {
+                                "tag": "img",
+                                "attrs": {
+                                  "src": "https://img.shields.io/badge/C-A8B9CC?style=flat-square&logo=C&logoColor=white",
+                                  "alt": "C"
+                                },
+                                "children": []
+                              },
+                              "\n",
+                              {
+                                "tag": "img",
+                                "attrs": {
+                                  "src": "https://img.shields.io/badge/C++-00599C?style=flat-square&logo=C++&logoColor=white",
+                                  "alt": "C++"
+                                },
+                                "children": []
+                              },
+                              "\n",
+                              {
+                                "tag": "img",
+                                "attrs": {
+                                  "src": "https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=Python&logoColor=white",
+                                  "alt": "Python"
+                                },
+                                "children": []
+                              }
+                            ]
+                          },
+                          "\n"
+                        ]
+                      },
+                      "\n\n    "
+                    ]
+                  },
+                  "\n  "
+                ]
+              },
+              "\n\n\n          "
+            ]
+          },
+          "\n        \n          ",
+          {
+            "tag": "div",
+            "attrs": {
+              "class": "container list-container"
+            },
+            "children": [
+              "\n            ",
+              {
+                "tag": "h3",
+                "attrs": {},
+                "children": [
+                  "Project"
+                ]
+              },
+              "\n            \n  ",
+              {
+                "tag": "div",
+                "attrs": {
+                  "class": "row clearfix layout layout-top-middle"
+                },
+                "children": [
+                  "\n    ",
+                  {
+                    "tag": "div",
+                    "attrs": {
+                      "class": "col-xs-12 col-sm-4 col-md-3 col-print-12 details"
+                    },
+                    "children": [
+                      "\n      ",
+                      {
+                        "tag": "h4",
+                        "attrs": {},
+                        "children": []
+                      },
+                      {
+                        "tag": "p",
+                        "attrs": {
+                          "class": "no-print aditional-links"
+                        },
+                        "children": [
+                          "\n        \n      "
+                        ]
+                      },
+                      "\n    "
+                    ]
+                  },
+                  "\n    ",
+                  {
+                    "tag": "div",
+                    "attrs": {
+                      "class": "col-xs-12 col-sm-8 col-md-9 col-print-12 content"
+                    },
+                    "children": [
+                      {
+                        "tag": "p",
+                        "attrs": {
+                          "class": "quote"
+                        },
+                        "children": [
+                          "Key Projects",
+                          {
+                            "tag": "br",
+                            "attrs": {},
+                            "children": []
+                          },
+                          "(Sole frontend engineer responsible for end-to-end development of multiple production services, including architecture design, implementation, and continuous improvement.)\n"
+                        ]
+                      },
+                      "\n\n    "
+                    ]
+                  },
+                  "\n  "
+                ]
+              },
+              "\n\n  ",
+              {
+                "tag": "div",
+                "attrs": {
+                  "class": "row clearfix layout layout-left"
+                },
+                "children": [
+                  "\n    ",
+                  {
+                    "tag": "div",
+                    "attrs": {
+                      "class": "col-xs-12 col-sm-4 col-md-3 col-print-12 details"
+                    },
+                    "children": [
+                      "\n      ",
+                      {
+                        "tag": "h4",
+                        "attrs": {},
+                        "children": []
+                      },
+                      {
+                        "tag": "p",
+                        "attrs": {},
+                        "children": [
+                          {
+                            "tag": "b",
+                            "attrs": {},
+                            "children": [
+                              "Frontend Monorepo Setup",
+                              {
+                                "tag": "br",
+                                "attrs": {},
+                                "children": []
+                              }
+                            ]
+                          }
+                        ]
+                      },
+                      {
+                        "tag": "p",
+                        "attrs": {},
+                        "children": [
+                          "Wonderful Platform",
+                          {
+                            "tag": "br",
+                            "attrs": {},
+                            "children": []
+                          },
+                          "Dec 2, 2024 – Present"
+                        ]
+                      },
+                      {
+                        "tag": "p",
+                        "attrs": {
+                          "class": "no-print aditional-links"
+                        },
+                        "children": [
+                          "\n        \n      "
+                        ]
+                      },
+                      "\n    "
+                    ]
+                  },
+                  "\n    ",
+                  {
+                    "tag": "div",
+                    "attrs": {
+                      "class": "col-xs-12 col-sm-8 col-md-9 col-print-12 content"
+                    },
+                    "children": [
+                      {
+                        "tag": "p",
+                        "attrs": {},
+                        "children": [
+                          {
+                            "tag": "strong",
+                            "attrs": {},
+                            "children": [
+                              "❏ Project Overview"
+                            ]
+                          }
+                        ]
+                      },
+                      "\n",
+                      {
+                        "tag": "ul",
+                        "attrs": {},
+                        "children": [
+                          "\n  ",
+                          {
+                            "tag": "li",
+                            "attrs": {},
+                            "children": [
+                              "Established a frontend monorepo to improve development efficiency, shared resource management, and maintainability."
+                            ]
+                          },
+                          "\n"
+                        ]
+                      },
+                      "\n\n",
+                      {
+                        "tag": "p",
+                        "attrs": {},
+                        "children": [
+                          {
+                            "tag": "strong",
+                            "attrs": {},
+                            "children": [
+                              "❏ Responsibilities"
+                            ]
+                          }
+                        ]
+                      },
+                      "\n",
+                      {
+                        "tag": "ul",
+                        "attrs": {},
+                        "children": [
+                          "\n  ",
+                          {
+                            "tag": "li",
+                            "attrs": {},
+                            "children": [
+                              "Owned end-to-end implementation of a frontend monorepo using npm workspaces, improving development efficiency and maintainability."
+                            ]
+                          },
+                          "\n  ",
+                          {
+                            "tag": "li",
+                            "attrs": {},
+                            "children": [
+                              "Migrated frontend projects and extracted shared resources."
+                            ]
+                          },
+                          "\n  ",
+                          {
+                            "tag": "li",
+                            "attrs": {},
+                            "children": [
+                              "Designed and implemented deployment processes for each project."
+                            ]
+                          },
+                          "\n"
+                        ]
+                      },
+                      "\n\n",
+                      {
+                        "tag": "p",
+                        "attrs": {},
+                        "children": [
+                          {
+                            "tag": "strong",
+                            "attrs": {},
+                            "children": [
+                              "❏ Technologies Used"
+                            ]
+                          }
+                        ]
+                      },
+                      "\n",
+                      {
+                        "tag": "ul",
+                        "attrs": {},
+                        "children": [
+                          "\n  ",
+                          {
+                            "tag": "li",
+                            "attrs": {},
+                            "children": [
+                              {
+                                "tag": "img",
+                                "attrs": {
+                                  "src": "https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=HTML5&logoColor=white",
+                                  "alt": "HTML5"
+                                },
+                                "children": []
+                              },
+                              "\n  ",
+                              {
+                                "tag": "img",
+                                "attrs": {
+                                  "src": "https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=CSS3&logoColor=white",
+                                  "alt": "CSS3"
+                                },
+                                "children": []
+                              },
+                              "\n  ",
+                              {
+                                "tag": "img",
+                                "attrs": {
+                                  "src": "https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=JavaScript&logoColor=black",
+                                  "alt": "JavaScript"
+                                },
+                                "children": []
+                              },
+                              "\n  ",
+                              {
+                                "tag": "img",
+                                "attrs": {
+                                  "src": "https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=TypeScript&logoColor=black",
+                                  "alt": "TypeScript"
+                                },
+                                "children": []
+                              }
+                            ]
+                          },
+                          "\n  ",
+                          {
+                            "tag": "li",
+                            "attrs": {},
+                            "children": [
+                              {
+                                "tag": "img",
+                                "attrs": {
+                                  "src": "https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=React&logoColor=black",
+                                  "alt": "React"
+                                },
+                                "children": []
+                              },
+                              "\n  ",
+                              {
+                                "tag": "img",
+                                "attrs": {
+                                  "src": "https://img.shields.io/badge/Next.js-000000?style=flat-square&logo=Next.js&logoColor=white",
+                                  "alt": "Next.js"
+                                },
+                                "children": []
+                              }
+                            ]
+                          },
+                          "\n  ",
+                          {
+                            "tag": "li",
+                            "attrs": {},
+                            "children": [
+                              {
+                                "tag": "img",
+                                "attrs": {
+                                  "src": "https://img.shields.io/badge/Redux-764ABC?style=flat-square&logo=Redux&logoColor=white",
+                                  "alt": "Redux"
+                                },
+                                "children": []
+                              },
+                              "\n  ",
+                              {
+                                "tag": "img",
+                                "attrs": {
+                                  "src": "https://img.shields.io/badge/Redux--Saga-999999?style=flat-square&logo=Redux-Saga&logoColor=white",
+                                  "alt": "Redux-Saga"
+                                },
+                                "children": []
+                              },
+                              "\n  ",
+                              {
+                                "tag": "img",
+                                "attrs": {
+                                  "src": "https://img.shields.io/badge/Redux--Toolkit-764ABC?style=flat-square&logo=Redux&logoColor=white",
+                                  "alt": "Redux-Toolkit"
+                                },
+                                "children": []
+                              },
+                              "\n  ",
+                              {
+                                "tag": "img",
+                                "attrs": {
+                                  "src": "https://img.shields.io/badge/zustand-ECD53F?style=flat-square&logo=Zustand&logoColor=white",
+                                  "alt": "zustand"
+                                },
+                                "children": []
+                              },
+                              "\n  ",
+                              {
+                                "tag": "img",
+                                "attrs": {
+                                  "src": "https://img.shields.io/badge/React--Query-FF4154?style=flat-square&logo=React-Query&logoColor=white",
+                                  "alt": "React-Query"
+                                },
+                                "children": []
+                              }
+                            ]
+                          },
+                          "\n  ",
+                          {
+                            "tag": "li",
+                            "attrs": {},
+                            "children": [
+                              {
+                                "tag": "img",
+                                "attrs": {
+                                  "src": "https://img.shields.io/badge/styled--components-DB7093?style=flat-square&logo=styled%20components&logoColor=white",
+                                  "alt": "styled-components"
+                                },
+                                "children": []
+                              },
+                              "\n  ",
+                              {
+                                "tag": "img",
+                                "attrs": {
+                                  "src": "https://img.shields.io/badge/ESLint-4B32C3?style=flat-square&logo=ESLint&logoColor=white",
+                                  "alt": "ESLint"
+                                },
+                                "children": []
+                              },
+                              "\n  ",
+                              {
+                                "tag": "img",
+                                "attrs": {
+                                  "src": "https://img.shields.io/badge/Prettier-F7B93E?style=flat-square&logo=Prettier&logoColor=white",
+                                  "alt": "Prettier"
+                                },
+                                "children": []
+                              }
+                            ]
+                          },
+                          "\n  ",
+                          {
+                            "tag": "li",
+                            "attrs": {},
+                            "children": [
+                              {
+                                "tag": "img",
+                                "attrs": {
+                                  "src": "https://img.shields.io/badge/npm-CB3837?style=flat-square&logo=npm&logoColor=white",
+                                  "alt": "npm"
+                                },
+                                "children": []
+                              },
+                              "\n  ",
+                              {
+                                "tag": "img",
+                                "attrs": {
+                                  "src": "https://img.shields.io/badge/npm--workspace-CB3837?style=flat-square&logo=npm&logoColor=white",
+                                  "alt": "npm-workspace"
+                                },
+                                "children": []
+                              },
+                              "\n  ",
+                              {
+                                "tag": "img",
+                                "attrs": {
+                                  "src": "https://img.shields.io/badge/NGINX-009639?style=flat-square&logo=nginx&logoColor=white",
+                                  "alt": "NGINX"
+                                },
+                                "children": []
+                              }
+                            ]
+                          },
+                          "\n"
+                        ]
+                      },
+                      "\n\n    "
+                    ]
+                  },
+                  "\n  "
+                ]
+              },
+              "\n\n  ",
+              {
+                "tag": "div",
+                "attrs": {
+                  "class": "row clearfix layout layout-left"
+                },
+                "children": [
+                  "\n    ",
+                  {
+                    "tag": "div",
+                    "attrs": {
+                      "class": "col-xs-12 col-sm-4 col-md-3 col-print-12 details"
+                    },
+                    "children": [
+                      "\n      ",
+                      {
+                        "tag": "h4",
+                        "attrs": {},
+                        "children": []
+                      },
+                      {
+                        "tag": "p",
+                        "attrs": {},
+                        "children": [
+                          {
+                            "tag": "b",
+                            "attrs": {},
+                            "children": [
+                              "Conversational Experience Web App with Avadin",
+                              {
+                                "tag": "br",
+                                "attrs": {},
+                                "children": []
+                              }
+                            ]
+                          }
+                        ]
+                      },
+                      {
+                        "tag": "p",
+                        "attrs": {},
+                        "children": [
+                          "Wonderful Platform",
+                          {
+                            "tag": "br",
+                            "attrs": {},
+                            "children": []
+                          },
+                          "Oct 23, 2023 – Nov 10, 2023"
+                        ]
+                      },
+                      {
+                        "tag": "p",
+                        "attrs": {
+                          "class": "no-print aditional-links"
+                        },
+                        "children": [
+                          "\n        \n      "
+                        ]
+                      },
+                      "\n    "
+                    ]
+                  },
+                  "\n    ",
+                  {
+                    "tag": "div",
+                    "attrs": {
+                      "class": "col-xs-12 col-sm-8 col-md-9 col-print-12 content"
+                    },
+                    "children": [
+                      {
+                        "tag": "p",
+                        "attrs": {},
+                        "children": [
+                          {
+                            "tag": "strong",
+                            "attrs": {},
+                            "children": [
+                              "❏ Project Overview"
+                            ]
+                          }
+                        ]
+                      },
+                      "\n",
+                      {
+                        "tag": "ul",
+                        "attrs": {},
+                        "children": [
+                          "\n  ",
+                          {
+                            "tag": "li",
+                            "attrs": {},
+                            "children": [
+                              "Developed a web application enabling users to experience conversations with an AI care robot powered by ChatGPT."
+                            ]
+                          },
+                          "\n"
+                        ]
+                      },
+                      "\n\n",
+                      {
+                        "tag": "p",
+                        "attrs": {},
+                        "children": [
+                          {
+                            "tag": "strong",
+                            "attrs": {},
+                            "children": [
+                              "❏ Responsibilities"
+                            ]
+                          }
+                        ]
+                      },
+                      "\n",
+                      {
+                        "tag": "ul",
+                        "attrs": {},
+                        "children": [
+                          "\n  ",
+                          {
+                            "tag": "li",
+                            "attrs": {},
+                            "children": [
+                              "Implemented a web application for conversational interaction with an AI care robot."
+                            ]
+                          },
+                          "\n  ",
+                          {
+                            "tag": "li",
+                            "attrs": {},
+                            "children": [
+                              "Built and deployed the frontend for the Avadin conversational experience web app."
+                            ]
+                          },
+                          "\n"
+                        ]
+                      },
+                      "\n\n",
+                      {
+                        "tag": "p",
+                        "attrs": {},
+                        "children": [
+                          {
+                            "tag": "strong",
+                            "attrs": {},
+                            "children": [
+                              "❏ Technologies Used"
+                            ]
+                          }
+                        ]
+                      },
+                      "\n",
+                      {
+                        "tag": "ul",
+                        "attrs": {},
+                        "children": [
+                          "\n  ",
+                          {
+                            "tag": "li",
+                            "attrs": {},
+                            "children": [
+                              {
+                                "tag": "img",
+                                "attrs": {
+                                  "src": "https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=HTML5&logoColor=white",
+                                  "alt": "HTML5"
+                                },
+                                "children": []
+                              },
+                              "\n  ",
+                              {
+                                "tag": "img",
+                                "attrs": {
+                                  "src": "https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=CSS3&logoColor=white",
+                                  "alt": "CSS3"
+                                },
+                                "children": []
+                              },
+                              "\n  ",
+                              {
+                                "tag": "img",
+                                "attrs": {
+                                  "src": "https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=JavaScript&logoColor=black",
+                                  "alt": "JavaScript"
+                                },
+                                "children": []
+                              },
+                              "\n  ",
+                              {
+                                "tag": "img",
+                                "attrs": {
+                                  "src": "https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=TypeScript&logoColor=black",
+                                  "alt": "TypeScript"
+                                },
+                                "children": []
+                              }
+                            ]
+                          },
+                          "\n  ",
+                          {
+                            "tag": "li",
+                            "attrs": {},
+                            "children": [
+                              {
+                                "tag": "img",
+                                "attrs": {
+                                  "src": "https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=React&logoColor=black",
+                                  "alt": "React"
+                                },
+                                "children": []
+                              },
+                              "\n  ",
+                              {
+                                "tag": "img",
+                                "attrs": {
+                                  "src": "https://img.shields.io/badge/Next.js-000000?style=flat-square&logo=Next.js&logoColor=white",
+                                  "alt": "Next.js"
+                                },
+                                "children": []
+                              },
+                              "\n  ",
+                              {
+                                "tag": "img",
+                                "attrs": {
+                                  "src": "https://img.shields.io/badge/Redux-764ABC?style=flat-square&logo=Redux&logoColor=white",
+                                  "alt": "Redux"
+                                },
+                                "children": []
+                              },
+                              "\n  ",
+                              {
+                                "tag": "img",
+                                "attrs": {
+                                  "src": "https://img.shields.io/badge/Redux--Saga-999999?style=flat-square&logo=Redux-Saga&logoColor=white",
+                                  "alt": "Redux-Saga"
+                                },
+                                "children": []
+                              }
+                            ]
+                          },
+                          "\n  ",
+                          {
+                            "tag": "li",
+                            "attrs": {},
+                            "children": [
+                              {
+                                "tag": "img",
+                                "attrs": {
+                                  "src": "https://img.shields.io/badge/styled--components-DB7093?style=flat-square&logo=styled%20components&logoColor=white",
+                                  "alt": "styled-components"
+                                },
+                                "children": []
+                              },
+                              "\n  ",
+                              {
+                                "tag": "img",
+                                "attrs": {
+                                  "src": "https://img.shields.io/badge/ESLint-4B32C3?style=flat-square&logo=ESLint&logoColor=white",
+                                  "alt": "ESLint"
+                                },
+                                "children": []
+                              },
+                              "\n  ",
+                              {
+                                "tag": "img",
+                                "attrs": {
+                                  "src": "https://img.shields.io/badge/Prettier-F7B93E?style=flat-square&logo=Prettier&logoColor=white",
+                                  "alt": "Prettier"
+                                },
+                                "children": []
+                              }
+                            ]
+                          },
+                          "\n  ",
+                          {
+                            "tag": "li",
+                            "attrs": {},
+                            "children": [
+                              {
+                                "tag": "img",
+                                "attrs": {
+                                  "src": "https://img.shields.io/badge/npm-CB3837?style=flat-square&logo=npm&logoColor=white",
+                                  "alt": "npm"
+                                },
+                                "children": []
+                              },
+                              "\n  ",
+                              {
+                                "tag": "img",
+                                "attrs": {
+                                  "src": "https://img.shields.io/badge/NGINX-009639?style=flat-square&logo=nginx&logoColor=white",
+                                  "alt": "NGINX"
+                                },
+                                "children": []
+                              }
+                            ]
+                          },
+                          "\n"
+                        ]
+                      },
+                      "\n\n    "
+                    ]
+                  },
+                  "\n  "
+                ]
+              },
+              "\n\n  ",
+              {
+                "tag": "div",
+                "attrs": {
+                  "class": "row clearfix layout layout-left"
+                },
+                "children": [
+                  "\n    ",
+                  {
+                    "tag": "div",
+                    "attrs": {
+                      "class": "col-xs-12 col-sm-4 col-md-3 col-print-12 details"
+                    },
+                    "children": [
+                      "\n      ",
+                      {
+                        "tag": "h4",
+                        "attrs": {},
+                        "children": []
+                      },
+                      {
+                        "tag": "p",
+                        "attrs": {},
+                        "children": [
+                          {
+                            "tag": "b",
+                            "attrs": {},
+                            "children": [
+                              "Admin Dashboard for Oxygen Therapy Device Users",
+                              {
+                                "tag": "br",
+                                "attrs": {},
+                                "children": []
+                              }
+                            ]
+                          }
+                        ]
+                      },
+                      {
+                        "tag": "p",
+                        "attrs": {},
+                        "children": [
+                          "Wonderful Platform",
+                          {
+                            "tag": "br",
+                            "attrs": {},
+                            "children": []
+                          },
+                          "Jul 26, 2023 – Apr 2, 2025"
+                        ]
+                      },
+                      {
+                        "tag": "p",
+                        "attrs": {
+                          "class": "no-print aditional-links"
+                        },
+                        "children": [
+                          "\n        \n      "
+                        ]
+                      },
+                      "\n    "
+                    ]
+                  },
+                  "\n    ",
+                  {
+                    "tag": "div",
+                    "attrs": {
+                      "class": "col-xs-12 col-sm-8 col-md-9 col-print-12 content"
+                    },
+                    "children": [
+                      {
+                        "tag": "p",
+                        "attrs": {},
+                        "children": [
+                          {
+                            "tag": "strong",
+                            "attrs": {},
+                            "children": [
+                              "❏ Project Overview"
+                            ]
+                          }
+                        ]
+                      },
+                      "\n",
+                      {
+                        "tag": "ul",
+                        "attrs": {},
+                        "children": [
+                          "\n  ",
+                          {
+                            "tag": "li",
+                            "attrs": {},
+                            "children": [
+                              "Implemented an admin dashboard for managing oxygen therapy device users and monitoring patient data (service discontinued)."
+                            ]
+                          },
+                          "\n  ",
+                          {
+                            "tag": "li",
+                            "attrs": {},
+                            "children": [
+                              "Provided features including patient data management, video calls, analytics dashboards, and notification delivery."
+                            ]
+                          },
+                          "\n  ",
+                          {
+                            "tag": "li",
+                            "attrs": {},
+                            "children": [
+                              "Managed connectivity status between patients and AI care robots."
+                            ]
+                          },
+                          "\n"
+                        ]
+                      },
+                      "\n\n",
+                      {
+                        "tag": "p",
+                        "attrs": {},
+                        "children": [
+                          {
+                            "tag": "strong",
+                            "attrs": {},
+                            "children": [
+                              "❏ Responsibilities"
+                            ]
+                          }
+                        ]
+                      },
+                      "\n",
+                      {
+                        "tag": "ul",
+                        "attrs": {},
+                        "children": [
+                          "\n  ",
+                          {
+                            "tag": "li",
+                            "attrs": {},
+                            "children": [
+                              "Developed an admin dashboard to manage patients using AI care robots and monitor related data."
+                            ]
+                          },
+                          "\n  ",
+                          {
+                            "tag": "li",
+                            "attrs": {},
+                            "children": [
+                              "Built WebView-based home tab for a caregiver app to display patient details and lifelog data."
+                            ]
+                          },
+                          "\n  ",
+                          {
+                            "tag": "li",
+                            "attrs": {},
+                            "children": [
+                              "Built WebView-based health management tab to track oxygen therapy and healthcare device usage."
+                            ]
+                          },
+                          "\n  ",
+                          {
+                            "tag": "li",
+                            "attrs": {},
+                            "children": [
+                              "Built and deployed the frontend for both the admin dashboard and caregiver app WebView."
+                            ]
+                          },
+                          "\n  ",
+                          {
+                            "tag": "li",
+                            "attrs": {},
+                            "children": [
+                              "Collaborated with designers using Zeplin to refine UX."
+                            ]
+                          },
+                          "\n  ",
+                          {
+                            "tag": "li",
+                            "attrs": {},
+                            "children": [
+                              "Participated in planning and feature design using Figma."
+                            ]
+                          },
+                          "\n  ",
+                          {
+                            "tag": "li",
+                            "attrs": {},
+                            "children": [
+                              "Led the migration of global state management from Redux to Zustand, improving maintainability and reducing complexity."
+                            ]
+                          },
+                          "\n  ",
+                          {
+                            "tag": "li",
+                            "attrs": {},
+                            "children": [
+                              "Replaced Redux-Saga with React Query for server state management."
+                            ]
+                          },
+                          "\n"
+                        ]
+                      },
+                      "\n\n",
+                      {
+                        "tag": "p",
+                        "attrs": {},
+                        "children": [
+                          {
+                            "tag": "strong",
+                            "attrs": {},
+                            "children": [
+                              "❏ Technologies Used"
+                            ]
+                          }
+                        ]
+                      },
+                      "\n",
+                      {
+                        "tag": "ul",
+                        "attrs": {},
+                        "children": [
+                          "\n  ",
+                          {
+                            "tag": "li",
+                            "attrs": {},
+                            "children": [
+                              {
+                                "tag": "img",
+                                "attrs": {
+                                  "src": "https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=HTML5&logoColor=white",
+                                  "alt": "HTML5"
+                                },
+                                "children": []
+                              },
+                              "\n  ",
+                              {
+                                "tag": "img",
+                                "attrs": {
+                                  "src": "https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=CSS3&logoColor=white",
+                                  "alt": "CSS3"
+                                },
+                                "children": []
+                              },
+                              "\n  ",
+                              {
+                                "tag": "img",
+                                "attrs": {
+                                  "src": "https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=JavaScript&logoColor=black",
+                                  "alt": "JavaScript"
+                                },
+                                "children": []
+                              },
+                              "\n  ",
+                              {
+                                "tag": "img",
+                                "attrs": {
+                                  "src": "https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=TypeScript&logoColor=black",
+                                  "alt": "TypeScript"
+                                },
+                                "children": []
+                              }
+                            ]
+                          },
+                          "\n  ",
+                          {
+                            "tag": "li",
+                            "attrs": {},
+                            "children": [
+                              {
+                                "tag": "img",
+                                "attrs": {
+                                  "src": "https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=React&logoColor=black",
+                                  "alt": "React"
+                                },
+                                "children": []
+                              },
+                              "\n  ",
+                              {
+                                "tag": "img",
+                                "attrs": {
+                                  "src": "https://img.shields.io/badge/Next.js-000000?style=flat-square&logo=Next.js&logoColor=white",
+                                  "alt": "Next.js"
+                                },
+                                "children": []
+                              },
+                              "\n  ",
+                              {
+                                "tag": "img",
+                                "attrs": {
+                                  "src": "https://img.shields.io/badge/zustand-ECD53F?style=flat-square&logo=Zustand&logoColor=white",
+                                  "alt": "zustand"
+                                },
+                                "children": []
+                              },
+                              "\n  ",
+                              {
+                                "tag": "img",
+                                "attrs": {
+                                  "src": "https://img.shields.io/badge/React--Query-FF4154?style=flat-square&logo=React-Query&logoColor=white",
+                                  "alt": "React-Query"
+                                },
+                                "children": []
+                              }
+                            ]
+                          },
+                          "\n  ",
+                          {
+                            "tag": "li",
+                            "attrs": {},
+                            "children": [
+                              {
+                                "tag": "img",
+                                "attrs": {
+                                  "src": "https://img.shields.io/badge/styled--components-DB7093?style=flat-square&logo=styled%20components&logoColor=white",
+                                  "alt": "styled-components"
+                                },
+                                "children": []
+                              },
+                              "\n  ",
+                              {
+                                "tag": "img",
+                                "attrs": {
+                                  "src": "https://img.shields.io/badge/Material--UI-0081CB?style=flat-square&logo=mui&logoColor=white",
+                                  "alt": "Material-UI"
+                                },
+                                "children": []
+                              },
+                              "\n  ",
+                              {
+                                "tag": "img",
+                                "attrs": {
+                                  "src": "https://img.shields.io/badge/ESLint-4B32C3?style=flat-square&logo=ESLint&logoColor=white",
+                                  "alt": "ESLint"
+                                },
+                                "children": []
+                              },
+                              "\n  ",
+                              {
+                                "tag": "img",
+                                "attrs": {
+                                  "src": "https://img.shields.io/badge/Prettier-F7B93E?style=flat-square&logo=Prettier&logoColor=white",
+                                  "alt": "Prettier"
+                                },
+                                "children": []
+                              }
+                            ]
+                          },
+                          "\n  ",
+                          {
+                            "tag": "li",
+                            "attrs": {},
+                            "children": [
+                              {
+                                "tag": "img",
+                                "attrs": {
+                                  "src": "https://img.shields.io/badge/npm-CB3837?style=flat-square&logo=npm&logoColor=white",
+                                  "alt": "npm"
+                                },
+                                "children": []
+                              },
+                              "\n  ",
+                              {
+                                "tag": "img",
+                                "attrs": {
+                                  "src": "https://img.shields.io/badge/NGINX-009639?style=flat-square&logo=nginx&logoColor=white",
+                                  "alt": "NGINX"
+                                },
+                                "children": []
+                              }
+                            ]
+                          },
+                          "\n"
+                        ]
+                      },
+                      "\n\n    "
+                    ]
+                  },
+                  "\n  "
+                ]
+              },
+              "\n\n  ",
+              {
+                "tag": "div",
+                "attrs": {
+                  "class": "row clearfix layout layout-left"
+                },
+                "children": [
+                  "\n    ",
+                  {
+                    "tag": "div",
+                    "attrs": {
+                      "class": "col-xs-12 col-sm-4 col-md-3 col-print-12 details"
+                    },
+                    "children": [
+                      "\n      ",
+                      {
+                        "tag": "h4",
+                        "attrs": {},
+                        "children": []
+                      },
+                      {
+                        "tag": "p",
+                        "attrs": {},
+                        "children": [
+                          {
+                            "tag": "b",
+                            "attrs": {},
+                            "children": [
+                              "Corporate Website",
+                              {
+                                "tag": "br",
+                                "attrs": {},
+                                "children": []
+                              }
+                            ]
+                          }
+                        ]
+                      },
+                      {
+                        "tag": "p",
+                        "attrs": {},
+                        "children": [
+                          "Wonderful Platform",
+                          {
+                            "tag": "br",
+                            "attrs": {},
+                            "children": []
+                          },
+                          "Jan 4, 2022 – Present"
+                        ]
+                      },
+                      {
+                        "tag": "p",
+                        "attrs": {
+                          "class": "no-print aditional-links"
+                        },
+                        "children": [
+                          "\n        \n      "
+                        ]
+                      },
+                      "\n    "
+                    ]
+                  },
+                  "\n    ",
+                  {
+                    "tag": "div",
+                    "attrs": {
+                      "class": "col-xs-12 col-sm-8 col-md-9 col-print-12 content"
+                    },
+                    "children": [
+                      {
+                        "tag": "p",
+                        "attrs": {},
+                        "children": [
+                          {
+                            "tag": "strong",
+                            "attrs": {},
+                            "children": [
+                              "❏ Project Overview"
+                            ]
+                          }
+                        ]
+                      },
+                      "\n",
+                      {
+                        "tag": "ul",
+                        "attrs": {},
+                        "children": [
+                          "\n  ",
+                          {
+                            "tag": "li",
+                            "attrs": {},
+                            "children": [
+                              "Developed a corporate website to deliver company information, share updates, and introduce products and services."
+                            ]
+                          },
+                          "\n"
+                        ]
+                      },
+                      "\n\n",
+                      {
+                        "tag": "p",
+                        "attrs": {},
+                        "children": [
+                          {
+                            "tag": "strong",
+                            "attrs": {},
+                            "children": [
+                              "❏ Responsibilities"
+                            ]
+                          }
+                        ]
+                      },
+                      "\n",
+                      {
+                        "tag": "ul",
+                        "attrs": {},
+                        "children": [
+                          "\n  ",
+                          {
+                            "tag": "li",
+                            "attrs": {},
+                            "children": [
+                              "Developed and maintained the corporate website."
+                            ]
+                          },
+                          "\n  ",
+                          {
+                            "tag": "li",
+                            "attrs": {},
+                            "children": [
+                              "Introduced unit testing processes prior to commits."
+                            ]
+                          },
+                          "\n  ",
+                          {
+                            "tag": "li",
+                            "attrs": {},
+                            "children": [
+                              "Built and deployed the frontend for the website."
+                            ]
+                          },
+                          "\n  ",
+                          {
+                            "tag": "li",
+                            "attrs": {},
+                            "children": [
+                              "Implemented SEO optimization for Naver search."
+                            ]
+                          },
+                          "\n"
+                        ]
+                      },
+                      "\n\n",
+                      {
+                        "tag": "p",
+                        "attrs": {},
+                        "children": [
+                          {
+                            "tag": "strong",
+                            "attrs": {},
+                            "children": [
+                              "❏ Technologies Used"
+                            ]
+                          }
+                        ]
+                      },
+                      "\n",
+                      {
+                        "tag": "ul",
+                        "attrs": {},
+                        "children": [
+                          "\n  ",
+                          {
+                            "tag": "li",
+                            "attrs": {},
+                            "children": [
+                              {
+                                "tag": "img",
+                                "attrs": {
+                                  "src": "https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=HTML5&logoColor=white",
+                                  "alt": "HTML5"
+                                },
+                                "children": []
+                              },
+                              "\n  ",
+                              {
+                                "tag": "img",
+                                "attrs": {
+                                  "src": "https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=CSS3&logoColor=white",
+                                  "alt": "CSS3"
+                                },
+                                "children": []
+                              },
+                              "\n  ",
+                              {
+                                "tag": "img",
+                                "attrs": {
+                                  "src": "https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=JavaScript&logoColor=black",
+                                  "alt": "JavaScript"
+                                },
+                                "children": []
+                              },
+                              "\n  ",
+                              {
+                                "tag": "img",
+                                "attrs": {
+                                  "src": "https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=TypeScript&logoColor=black",
+                                  "alt": "TypeScript"
+                                },
+                                "children": []
+                              }
+                            ]
+                          },
+                          "\n  ",
+                          {
+                            "tag": "li",
+                            "attrs": {},
+                            "children": [
+                              {
+                                "tag": "img",
+                                "attrs": {
+                                  "src": "https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=React&logoColor=black",
+                                  "alt": "React"
+                                },
+                                "children": []
+                              },
+                              "\n  ",
+                              {
+                                "tag": "img",
+                                "attrs": {
+                                  "src": "https://img.shields.io/badge/Next.js-000000?style=flat-square&logo=Next.js&logoColor=white",
+                                  "alt": "Next.js"
+                                },
+                                "children": []
+                              },
+                              "\n  ",
+                              {
+                                "tag": "img",
+                                "attrs": {
+                                  "src": "https://img.shields.io/badge/Redux-764ABC?style=flat-square&logo=Redux&logoColor=white",
+                                  "alt": "Redux"
+                                },
+                                "children": []
+                              },
+                              "\n  ",
+                              {
+                                "tag": "img",
+                                "attrs": {
+                                  "src": "https://img.shields.io/badge/Redux--Saga-999999?style=flat-square&logo=Redux-Saga&logoColor=white",
+                                  "alt": "Redux-Saga"
+                                },
+                                "children": []
+                              }
+                            ]
+                          },
+                          "\n  ",
+                          {
+                            "tag": "li",
+                            "attrs": {},
+                            "children": [
+                              {
+                                "tag": "img",
+                                "attrs": {
+                                  "src": "https://img.shields.io/badge/Jest-C21325?style=flat-square&logo=Jest&logoColor=white",
+                                  "alt": "Jest"
+                                },
+                                "children": []
+                              },
+                              "\n  ",
+                              {
+                                "tag": "img",
+                                "attrs": {
+                                  "src": "https://img.shields.io/badge/Testing%20Library-E33332?style=flat-square&logo=Testing%20Library&logoColor=white",
+                                  "alt": "Testing Library"
+                                },
+                                "children": []
+                              }
+                            ]
+                          },
+                          "\n  ",
+                          {
+                            "tag": "li",
+                            "attrs": {},
+                            "children": [
+                              {
+                                "tag": "img",
+                                "attrs": {
+                                  "src": "https://img.shields.io/badge/styled--components-DB7093?style=flat-square&logo=styled%20components&logoColor=white",
+                                  "alt": "styled-components"
+                                },
+                                "children": []
+                              },
+                              "\n  ",
+                              {
+                                "tag": "img",
+                                "attrs": {
+                                  "src": "https://img.shields.io/badge/Material--UI-0081CB?style=flat-square&logo=mui&logoColor=white",
+                                  "alt": "Material-UI"
+                                },
+                                "children": []
+                              },
+                              "\n  ",
+                              {
+                                "tag": "img",
+                                "attrs": {
+                                  "src": "https://img.shields.io/badge/ESLint-4B32C3?style=flat-square&logo=ESLint&logoColor=white",
+                                  "alt": "ESLint"
+                                },
+                                "children": []
+                              },
+                              "\n  ",
+                              {
+                                "tag": "img",
+                                "attrs": {
+                                  "src": "https://img.shields.io/badge/Prettier-F7B93E?style=flat-square&logo=Prettier&logoColor=white",
+                                  "alt": "Prettier"
+                                },
+                                "children": []
+                              }
+                            ]
+                          },
+                          "\n  ",
+                          {
+                            "tag": "li",
+                            "attrs": {},
+                            "children": [
+                              {
+                                "tag": "img",
+                                "attrs": {
+                                  "src": "https://img.shields.io/badge/npm-CB3837?style=flat-square&logo=npm&logoColor=white",
+                                  "alt": "npm"
+                                },
+                                "children": []
+                              },
+                              "\n  ",
+                              {
+                                "tag": "img",
+                                "attrs": {
+                                  "src": "https://img.shields.io/badge/NGINX-009639?style=flat-square&logo=nginx&logoColor=white",
+                                  "alt": "NGINX"
+                                },
+                                "children": []
+                              }
+                            ]
+                          },
+                          "\n"
+                        ]
+                      },
+                      "\n\n    "
+                    ]
+                  },
+                  "\n  "
+                ]
+              },
+              "\n\n  ",
+              {
+                "tag": "div",
+                "attrs": {
+                  "class": "row clearfix layout layout-left"
+                },
+                "children": [
+                  "\n    ",
+                  {
+                    "tag": "div",
+                    "attrs": {
+                      "class": "col-xs-12 col-sm-4 col-md-3 col-print-12 details"
+                    },
+                    "children": [
+                      "\n      ",
+                      {
+                        "tag": "h4",
+                        "attrs": {},
+                        "children": []
+                      },
+                      {
+                        "tag": "p",
+                        "attrs": {},
+                        "children": [
+                          {
+                            "tag": "b",
+                            "attrs": {},
+                            "children": [
+                              "Local Government Admin Dashboard",
+                              {
+                                "tag": "br",
+                                "attrs": {},
+                                "children": []
+                              }
+                            ]
+                          }
+                        ]
+                      },
+                      {
+                        "tag": "p",
+                        "attrs": {},
+                        "children": [
+                          "Wonderful Platform",
+                          {
+                            "tag": "br",
+                            "attrs": {},
+                            "children": []
+                          },
+                          "Nov 4, 2021 – Present"
+                        ]
+                      },
+                      {
+                        "tag": "p",
+                        "attrs": {
+                          "class": "no-print aditional-links"
+                        },
+                        "children": [
+                          "\n        \n      "
+                        ]
+                      },
+                      "\n    "
+                    ]
+                  },
+                  "\n    ",
+                  {
+                    "tag": "div",
+                    "attrs": {
+                      "class": "col-xs-12 col-sm-8 col-md-9 col-print-12 content"
+                    },
+                    "children": [
+                      {
+                        "tag": "p",
+                        "attrs": {},
+                        "children": [
+                          {
+                            "tag": "strong",
+                            "attrs": {},
+                            "children": [
+                              "❏ Project Overview"
+                            ]
+                          }
+                        ]
+                      },
+                      "\n",
+                      {
+                        "tag": "ul",
+                        "attrs": {},
+                        "children": [
+                          "\n  ",
+                          {
+                            "tag": "li",
+                            "attrs": {},
+                            "children": [
+                              "Implemented an admin dashboard to manage senior users and monitor data within local government programs."
+                            ]
+                          },
+                          "\n  ",
+                          {
+                            "tag": "li",
+                            "attrs": {},
+                            "children": [
+                              "Provided features including senior data management, video calls, analytics dashboards, notification delivery, and emergency monitoring."
+                            ]
+                          },
+                          "\n  ",
+                          {
+                            "tag": "li",
+                            "attrs": {},
+                            "children": [
+                              "Managed content for local governments operating smart senior center programs."
+                            ]
+                          },
+                          "\n"
+                        ]
+                      },
+                      "\n\n",
+                      {
+                        "tag": "p",
+                        "attrs": {},
+                        "children": [
+                          {
+                            "tag": "strong",
+                            "attrs": {},
+                            "children": [
+                              "❏ Responsibilities"
+                            ]
+                          }
+                        ]
+                      },
+                      "\n",
+                      {
+                        "tag": "ul",
+                        "attrs": {},
+                        "children": [
+                          "\n  ",
+                          {
+                            "tag": "li",
+                            "attrs": {},
+                            "children": [
+                              "Developed an admin dashboard to manage seniors using AI care robots and care apps, and monitor related data."
+                            ]
+                          },
+                          "\n  ",
+                          {
+                            "tag": "li",
+                            "attrs": {},
+                            "children": [
+                              "Built and deployed the frontend for the local government admin dashboard."
+                            ]
+                          },
+                          "\n  ",
+                          {
+                            "tag": "li",
+                            "attrs": {},
+                            "children": [
+                              "Collaborated with designers using Zeplin to refine UX."
+                            ]
+                          },
+                          "\n  ",
+                          {
+                            "tag": "li",
+                            "attrs": {},
+                            "children": [
+                              "Participated in planning and feature design using Figma."
+                            ]
+                          },
+                          "\n"
+                        ]
+                      },
+                      "\n\n",
+                      {
+                        "tag": "p",
+                        "attrs": {},
+                        "children": [
+                          {
+                            "tag": "strong",
+                            "attrs": {},
+                            "children": [
+                              "❏ Technologies Used"
+                            ]
+                          }
+                        ]
+                      },
+                      "\n",
+                      {
+                        "tag": "ul",
+                        "attrs": {},
+                        "children": [
+                          "\n  ",
+                          {
+                            "tag": "li",
+                            "attrs": {},
+                            "children": [
+                              {
+                                "tag": "img",
+                                "attrs": {
+                                  "src": "https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=HTML5&logoColor=white",
+                                  "alt": "HTML5"
+                                },
+                                "children": []
+                              },
+                              "\n  ",
+                              {
+                                "tag": "img",
+                                "attrs": {
+                                  "src": "https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=CSS3&logoColor=white",
+                                  "alt": "CSS3"
+                                },
+                                "children": []
+                              },
+                              "\n  ",
+                              {
+                                "tag": "img",
+                                "attrs": {
+                                  "src": "https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=JavaScript&logoColor=black",
+                                  "alt": "JavaScript"
+                                },
+                                "children": []
+                              },
+                              "\n  ",
+                              {
+                                "tag": "img",
+                                "attrs": {
+                                  "src": "https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=TypeScript&logoColor=black",
+                                  "alt": "TypeScript"
+                                },
+                                "children": []
+                              }
+                            ]
+                          },
+                          "\n  ",
+                          {
+                            "tag": "li",
+                            "attrs": {},
+                            "children": [
+                              {
+                                "tag": "img",
+                                "attrs": {
+                                  "src": "https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=React&logoColor=black",
+                                  "alt": "React"
+                                },
+                                "children": []
+                              },
+                              "\n  ",
+                              {
+                                "tag": "img",
+                                "attrs": {
+                                  "src": "https://img.shields.io/badge/Next.js-000000?style=flat-square&logo=Next.js&logoColor=white",
+                                  "alt": "Next.js"
+                                },
+                                "children": []
+                              },
+                              "\n  ",
+                              {
+                                "tag": "img",
+                                "attrs": {
+                                  "src": "https://img.shields.io/badge/Redux--Toolkit-764ABC?style=flat-square&logo=Redux&logoColor=white",
+                                  "alt": "Redux-Toolkit"
+                                },
+                                "children": []
+                              },
+                              "\n  ",
+                              {
+                                "tag": "img",
+                                "attrs": {
+                                  "src": "https://img.shields.io/badge/Redux--Saga-999999?style=flat-square&logo=Redux-Saga&logoColor=white",
+                                  "alt": "Redux-Saga"
+                                },
+                                "children": []
+                              }
+                            ]
+                          },
+                          "\n  ",
+                          {
+                            "tag": "li",
+                            "attrs": {},
+                            "children": [
+                              {
+                                "tag": "img",
+                                "attrs": {
+                                  "src": "https://img.shields.io/badge/styled--components-DB7093?style=flat-square&logo=styled%20components&logoColor=white",
+                                  "alt": "styled-components"
+                                },
+                                "children": []
+                              },
+                              "\n  ",
+                              {
+                                "tag": "img",
+                                "attrs": {
+                                  "src": "https://img.shields.io/badge/Material--UI-0081CB?style=flat-square&logo=mui&logoColor=white",
+                                  "alt": "Material-UI"
+                                },
+                                "children": []
+                              },
+                              "\n  ",
+                              {
+                                "tag": "img",
+                                "attrs": {
+                                  "src": "https://img.shields.io/badge/ESLint-4B32C3?style=flat-square&logo=ESLint&logoColor=white",
+                                  "alt": "ESLint"
+                                },
+                                "children": []
+                              },
+                              "\n  ",
+                              {
+                                "tag": "img",
+                                "attrs": {
+                                  "src": "https://img.shields.io/badge/Prettier-F7B93E?style=flat-square&logo=Prettier&logoColor=white",
+                                  "alt": "Prettier"
+                                },
+                                "children": []
+                              }
+                            ]
+                          },
+                          "\n  ",
+                          {
+                            "tag": "li",
+                            "attrs": {},
+                            "children": [
+                              {
+                                "tag": "img",
+                                "attrs": {
+                                  "src": "https://img.shields.io/badge/npm-CB3837?style=flat-square&logo=npm&logoColor=white",
+                                  "alt": "npm"
+                                },
+                                "children": []
+                              },
+                              "\n  ",
+                              {
+                                "tag": "img",
+                                "attrs": {
+                                  "src": "https://img.shields.io/badge/NGINX-009639?style=flat-square&logo=nginx&logoColor=white",
+                                  "alt": "NGINX"
+                                },
+                                "children": []
+                              }
+                            ]
+                          },
+                          "\n"
+                        ]
+                      },
+                      "\n\n    "
+                    ]
+                  },
+                  "\n  "
+                ]
+              },
+              "\n\n  ",
+              {
+                "tag": "div",
+                "attrs": {
+                  "class": "row clearfix layout layout-left"
+                },
+                "children": [
+                  "\n    ",
+                  {
+                    "tag": "div",
+                    "attrs": {
+                      "class": "col-xs-12 col-sm-4 col-md-3 col-print-12 details"
+                    },
+                    "children": [
+                      "\n      ",
+                      {
+                        "tag": "h4",
+                        "attrs": {},
+                        "children": []
+                      },
+                      {
+                        "tag": "p",
+                        "attrs": {},
+                        "children": [
+                          {
+                            "tag": "b",
+                            "attrs": {},
+                            "children": [
+                              "Avadin Family App - WebView",
+                              {
+                                "tag": "br",
+                                "attrs": {},
+                                "children": []
+                              }
+                            ]
+                          }
+                        ]
+                      },
+                      {
+                        "tag": "p",
+                        "attrs": {},
+                        "children": [
+                          "Wonderful Platform",
+                          {
+                            "tag": "br",
+                            "attrs": {},
+                            "children": []
+                          },
+                          "Jun 24, 2021 – Present"
+                        ]
+                      },
+                      {
+                        "tag": "p",
+                        "attrs": {
+                          "class": "no-print aditional-links"
+                        },
+                        "children": [
+                          "\n        \n      "
+                        ]
+                      },
+                      "\n    "
+                    ]
+                  },
+                  "\n    ",
+                  {
+                    "tag": "div",
+                    "attrs": {
+                      "class": "col-xs-12 col-sm-8 col-md-9 col-print-12 content"
+                    },
+                    "children": [
+                      {
+                        "tag": "p",
+                        "attrs": {},
+                        "children": [
+                          {
+                            "tag": "strong",
+                            "attrs": {},
+                            "children": [
+                              "❏ Project Overview"
+                            ]
+                          }
+                        ]
+                      },
+                      "\n",
+                      {
+                        "tag": "ul",
+                        "attrs": {},
+                        "children": [
+                          "\n  ",
+                          {
+                            "tag": "li",
+                            "attrs": {},
+                            "children": [
+                              "Provides family members and local administrators with a range of services to manage care recipients."
+                            ]
+                          },
+                          "\n  ",
+                          {
+                            "tag": "li",
+                            "attrs": {},
+                            "children": [
+                              "Delivered features including conversation history tracking, video calls, messaging, medication and schedule reminders, and emergency monitoring."
+                            ]
+                          },
+                          "\n"
+                        ]
+                      },
+                      "\n\n",
+                      {
+                        "tag": "p",
+                        "attrs": {},
+                        "children": [
+                          {
+                            "tag": "strong",
+                            "attrs": {},
+                            "children": [
+                              "❏ Responsibilities"
+                            ]
+                          }
+                        ]
+                      },
+                      "\n",
+                      {
+                        "tag": "ul",
+                        "attrs": {},
+                        "children": [
+                          "\n  ",
+                          {
+                            "tag": "li",
+                            "attrs": {},
+                            "children": [
+                              "Implemented the home tab to display daily data of care recipients."
+                            ]
+                          },
+                          "\n  ",
+                          {
+                            "tag": "li",
+                            "attrs": {},
+                            "children": [
+                              "Built the health management tab to monitor healthcare data collected from integrated devices."
+                            ]
+                          },
+                          "\n  ",
+                          {
+                            "tag": "li",
+                            "attrs": {},
+                            "children": [
+                              "Developed a dedicated interface for blood glucose monitoring with timeline-based data visualization."
+                            ]
+                          },
+                          "\n  ",
+                          {
+                            "tag": "li",
+                            "attrs": {},
+                            "children": [
+                              "Built and deployed the frontend for the Avadin Family App WebView."
+                            ]
+                          },
+                          "\n  ",
+                          {
+                            "tag": "li",
+                            "attrs": {},
+                            "children": [
+                              "Collaborated with designers using Zeplin to refine UX."
+                            ]
+                          },
+                          "\n"
+                        ]
+                      },
+                      "\n\n",
+                      {
+                        "tag": "p",
+                        "attrs": {},
+                        "children": [
+                          {
+                            "tag": "strong",
+                            "attrs": {},
+                            "children": [
+                              "❏ Technologies Used"
+                            ]
+                          }
+                        ]
+                      },
+                      "\n",
+                      {
+                        "tag": "ul",
+                        "attrs": {},
+                        "children": [
+                          "\n  ",
+                          {
+                            "tag": "li",
+                            "attrs": {},
+                            "children": [
+                              {
+                                "tag": "img",
+                                "attrs": {
+                                  "src": "https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=HTML5&logoColor=white",
+                                  "alt": "HTML5"
+                                },
+                                "children": []
+                              },
+                              "\n  ",
+                              {
+                                "tag": "img",
+                                "attrs": {
+                                  "src": "https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=CSS3&logoColor=white",
+                                  "alt": "CSS3"
+                                },
+                                "children": []
+                              },
+                              "\n  ",
+                              {
+                                "tag": "img",
+                                "attrs": {
+                                  "src": "https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=JavaScript&logoColor=black",
+                                  "alt": "JavaScript"
+                                },
+                                "children": []
+                              },
+                              "\n  ",
+                              {
+                                "tag": "img",
+                                "attrs": {
+                                  "src": "https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=TypeScript&logoColor=black",
+                                  "alt": "TypeScript"
+                                },
+                                "children": []
+                              }
+                            ]
+                          },
+                          "\n  ",
+                          {
+                            "tag": "li",
+                            "attrs": {},
+                            "children": [
+                              {
+                                "tag": "img",
+                                "attrs": {
+                                  "src": "https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=React&logoColor=black",
+                                  "alt": "React"
+                                },
+                                "children": []
+                              },
+                              "\n  ",
+                              {
+                                "tag": "img",
+                                "attrs": {
+                                  "src": "https://img.shields.io/badge/Next.js-000000?style=flat-square&logo=Next.js&logoColor=white",
+                                  "alt": "Next.js"
+                                },
+                                "children": []
+                              },
+                              "\n  ",
+                              {
+                                "tag": "img",
+                                "attrs": {
+                                  "src": "https://img.shields.io/badge/Redux-764ABC?style=flat-square&logo=Redux&logoColor=white",
+                                  "alt": "Redux"
+                                },
+                                "children": []
+                              },
+                              "\n  ",
+                              {
+                                "tag": "img",
+                                "attrs": {
+                                  "src": "https://img.shields.io/badge/Redux--Saga-999999?style=flat-square&logo=Redux-Saga&logoColor=white",
+                                  "alt": "Redux-Saga"
+                                },
+                                "children": []
+                              }
+                            ]
+                          },
+                          "\n  ",
+                          {
+                            "tag": "li",
+                            "attrs": {},
+                            "children": [
+                              {
+                                "tag": "img",
+                                "attrs": {
+                                  "src": "https://img.shields.io/badge/emotion-DB7093?style=flat-square&logo=emotion&logoColor=white",
+                                  "alt": "emotion"
+                                },
+                                "children": []
+                              },
+                              "\n  ",
+                              {
+                                "tag": "img",
+                                "attrs": {
+                                  "src": "https://img.shields.io/badge/Material--UI-0081CB?style=flat-square&logo=mui&logoColor=white",
+                                  "alt": "Material-UI"
+                                },
+                                "children": []
+                              },
+                              "\n  ",
+                              {
+                                "tag": "img",
+                                "attrs": {
+                                  "src": "https://img.shields.io/badge/ESLint-4B32C3?style=flat-square&logo=ESLint&logoColor=white",
+                                  "alt": "ESLint"
+                                },
+                                "children": []
+                              },
+                              "\n  ",
+                              {
+                                "tag": "img",
+                                "attrs": {
+                                  "src": "https://img.shields.io/badge/Prettier-F7B93E?style=flat-square&logo=Prettier&logoColor=white",
+                                  "alt": "Prettier"
+                                },
+                                "children": []
+                              }
+                            ]
+                          },
+                          "\n  ",
+                          {
+                            "tag": "li",
+                            "attrs": {},
+                            "children": [
+                              {
+                                "tag": "img",
+                                "attrs": {
+                                  "src": "https://img.shields.io/badge/npm-CB3837?style=flat-square&logo=npm&logoColor=white",
+                                  "alt": "npm"
+                                },
+                                "children": []
+                              },
+                              "\n  ",
+                              {
+                                "tag": "img",
+                                "attrs": {
+                                  "src": "https://img.shields.io/badge/NGINX-009639?style=flat-square&logo=nginx&logoColor=white",
+                                  "alt": "NGINX"
+                                },
+                                "children": []
+                              }
+                            ]
+                          },
+                          "\n"
+                        ]
+                      },
+                      "\n\n    "
+                    ]
+                  },
+                  "\n  "
+                ]
+              },
+              "\n\n  ",
+              {
+                "tag": "div",
+                "attrs": {
+                  "class": "row clearfix layout layout-left"
+                },
+                "children": [
+                  "\n    ",
+                  {
+                    "tag": "div",
+                    "attrs": {
+                      "class": "col-xs-12 col-sm-4 col-md-3 col-print-12 details"
+                    },
+                    "children": [
+                      "\n      ",
+                      {
+                        "tag": "h4",
+                        "attrs": {},
+                        "children": []
+                      },
+                      {
+                        "tag": "p",
+                        "attrs": {},
+                        "children": [
+                          {
+                            "tag": "b",
+                            "attrs": {},
+                            "children": [
+                              "Admin Dashboard for Global Operations",
+                              {
+                                "tag": "br",
+                                "attrs": {},
+                                "children": []
+                              }
+                            ]
+                          }
+                        ]
+                      },
+                      {
+                        "tag": "p",
+                        "attrs": {},
+                        "children": [
+                          "Wonderful Platform",
+                          {
+                            "tag": "br",
+                            "attrs": {},
+                            "children": []
+                          },
+                          "May 31, 2021 – Present"
+                        ]
+                      },
+                      {
+                        "tag": "p",
+                        "attrs": {
+                          "class": "no-print aditional-links"
+                        },
+                        "children": [
+                          "\n        \n      "
+                        ]
+                      },
+                      "\n    "
+                    ]
+                  },
+                  "\n    ",
+                  {
+                    "tag": "div",
+                    "attrs": {
+                      "class": "col-xs-12 col-sm-8 col-md-9 col-print-12 content"
+                    },
+                    "children": [
+                      {
+                        "tag": "p",
+                        "attrs": {},
+                        "children": [
+                          {
+                            "tag": "strong",
+                            "attrs": {},
+                            "children": [
+                              "❏ Project Overview"
+                            ]
+                          }
+                        ]
+                      },
+                      "\n",
+                      {
+                        "tag": "ul",
+                        "attrs": {},
+                        "children": [
+                          "\n  ",
+                          {
+                            "tag": "li",
+                            "attrs": {},
+                            "children": [
+                              "Developed an admin dashboard to manage clients and caregivers using care services and monitor related data."
+                            ]
+                          },
+                          "\n  ",
+                          {
+                            "tag": "li",
+                            "attrs": {},
+                            "children": [
+                              "Provided features including data management for clients and caregivers, video calls, analytics dashboards, notification delivery, and emergency monitoring."
+                            ]
+                          },
+                          "\n"
+                        ]
+                      },
+                      "\n\n",
+                      {
+                        "tag": "p",
+                        "attrs": {},
+                        "children": [
+                          {
+                            "tag": "strong",
+                            "attrs": {},
+                            "children": [
+                              "❏ Responsibilities"
+                            ]
+                          }
+                        ]
+                      },
+                      "\n",
+                      {
+                        "tag": "ul",
+                        "attrs": {},
+                        "children": [
+                          "\n  ",
+                          {
+                            "tag": "li",
+                            "attrs": {},
+                            "children": [
+                              "Developed an admin dashboard to manage clients using AI care robots and care apps, along with caregivers using dedicated care service apps."
+                            ]
+                          },
+                          "\n  ",
+                          {
+                            "tag": "li",
+                            "attrs": {},
+                            "children": [
+                              "Built and deployed the frontend for the global admin dashboard."
+                            ]
+                          },
+                          "\n  ",
+                          {
+                            "tag": "li",
+                            "attrs": {},
+                            "children": [
+                              "Collaborated with designers using Zeplin to refine UX."
+                            ]
+                          },
+                          "\n  ",
+                          {
+                            "tag": "li",
+                            "attrs": {},
+                            "children": [
+                              "Participated in planning and feature design using Figma."
+                            ]
+                          },
+                          "\n  ",
+                          {
+                            "tag": "li",
+                            "attrs": {},
+                            "children": [
+                              "Migrated the application from React to Next.js."
+                            ]
+                          },
+                          "\n  ",
+                          {
+                            "tag": "li",
+                            "attrs": {},
+                            "children": [
+                              "Evolved global state management from Props Drilling to Context API, Redux, and Redux Toolkit."
+                            ]
+                          },
+                          "\n  ",
+                          {
+                            "tag": "li",
+                            "attrs": {},
+                            "children": [
+                              "Migrated the codebase from JavaScript to TypeScript."
+                            ]
+                          },
+                          "\n  ",
+                          {
+                            "tag": "li",
+                            "attrs": {},
+                            "children": [
+                              "Implemented SEO optimization for Google search."
+                            ]
+                          },
+                          "\n"
+                        ]
+                      },
+                      "\n\n",
+                      {
+                        "tag": "p",
+                        "attrs": {},
+                        "children": [
+                          {
+                            "tag": "strong",
+                            "attrs": {},
+                            "children": [
+                              "❏ Technologies Used"
+                            ]
+                          }
+                        ]
+                      },
+                      "\n",
+                      {
+                        "tag": "ul",
+                        "attrs": {},
+                        "children": [
+                          "\n  ",
+                          {
+                            "tag": "li",
+                            "attrs": {},
+                            "children": [
+                              {
+                                "tag": "img",
+                                "attrs": {
+                                  "src": "https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=HTML5&logoColor=white",
+                                  "alt": "HTML5"
+                                },
+                                "children": []
+                              },
+                              "\n  ",
+                              {
+                                "tag": "img",
+                                "attrs": {
+                                  "src": "https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=CSS3&logoColor=white",
+                                  "alt": "CSS3"
+                                },
+                                "children": []
+                              },
+                              "\n  ",
+                              {
+                                "tag": "img",
+                                "attrs": {
+                                  "src": "https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=JavaScript&logoColor=black",
+                                  "alt": "JavaScript"
+                                },
+                                "children": []
+                              },
+                              "\n  ",
+                              {
+                                "tag": "img",
+                                "attrs": {
+                                  "src": "https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=TypeScript&logoColor=black",
+                                  "alt": "TypeScript"
+                                },
+                                "children": []
+                              }
+                            ]
+                          },
+                          "\n  ",
+                          {
+                            "tag": "li",
+                            "attrs": {},
+                            "children": [
+                              {
+                                "tag": "img",
+                                "attrs": {
+                                  "src": "https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=React&logoColor=black",
+                                  "alt": "React"
+                                },
+                                "children": []
+                              },
+                              "\n  ",
+                              {
+                                "tag": "img",
+                                "attrs": {
+                                  "src": "https://img.shields.io/badge/Next.js-000000?style=flat-square&logo=Next.js&logoColor=white",
+                                  "alt": "Next.js"
+                                },
+                                "children": []
+                              },
+                              "\n  ",
+                              {
+                                "tag": "img",
+                                "attrs": {
+                                  "src": "https://img.shields.io/badge/Redux--Toolkit-764ABC?style=flat-square&logo=Redux&logoColor=white",
+                                  "alt": "Redux-Toolkit"
+                                },
+                                "children": []
+                              },
+                              "\n  ",
+                              {
+                                "tag": "img",
+                                "attrs": {
+                                  "src": "https://img.shields.io/badge/Redux--Saga-999999?style=flat-square&logo=Redux-Saga&logoColor=white",
+                                  "alt": "Redux-Saga"
+                                },
+                                "children": []
+                              }
+                            ]
+                          },
+                          "\n  ",
+                          {
+                            "tag": "li",
+                            "attrs": {},
+                            "children": [
+                              {
+                                "tag": "img",
+                                "attrs": {
+                                  "src": "https://img.shields.io/badge/styled--components-DB7093?style=flat-square&logo=styled%20components&logoColor=white",
+                                  "alt": "styled-components"
+                                },
+                                "children": []
+                              },
+                              "\n  ",
+                              {
+                                "tag": "img",
+                                "attrs": {
+                                  "src": "https://img.shields.io/badge/Material--UI-0081CB?style=flat-square&logo=mui&logoColor=white",
+                                  "alt": "Material-UI"
+                                },
+                                "children": []
+                              },
+                              "\n  ",
+                              {
+                                "tag": "img",
+                                "attrs": {
+                                  "src": "https://img.shields.io/badge/ESLint-4B32C3?style=flat-square&logo=ESLint&logoColor=white",
+                                  "alt": "ESLint"
+                                },
+                                "children": []
+                              },
+                              "\n  ",
+                              {
+                                "tag": "img",
+                                "attrs": {
+                                  "src": "https://img.shields.io/badge/Prettier-F7B93E?style=flat-square&logo=Prettier&logoColor=white",
+                                  "alt": "Prettier"
+                                },
+                                "children": []
+                              }
+                            ]
+                          },
+                          "\n  ",
+                          {
+                            "tag": "li",
+                            "attrs": {},
+                            "children": [
+                              {
+                                "tag": "img",
+                                "attrs": {
+                                  "src": "https://img.shields.io/badge/npm-CB3837?style=flat-square&logo=npm&logoColor=white",
+                                  "alt": "npm"
+                                },
+                                "children": []
+                              },
+                              "\n  ",
+                              {
+                                "tag": "img",
+                                "attrs": {
+                                  "src": "https://img.shields.io/badge/NGINX-009639?style=flat-square&logo=nginx&logoColor=white",
+                                  "alt": "NGINX"
+                                },
+                                "children": []
+                              }
+                            ]
+                          },
+                          "\n"
+                        ]
+                      },
+                      "\n\n    "
+                    ]
+                  },
+                  "\n  "
+                ]
+              },
+              "\n\n  ",
+              {
+                "tag": "div",
+                "attrs": {
+                  "class": "row clearfix layout layout-left"
+                },
+                "children": [
+                  "\n    ",
+                  {
+                    "tag": "div",
+                    "attrs": {
+                      "class": "col-xs-12 col-sm-4 col-md-3 col-print-12 details"
+                    },
+                    "children": [
+                      "\n      ",
+                      {
+                        "tag": "h4",
+                        "attrs": {},
+                        "children": []
+                      },
+                      {
+                        "tag": "p",
+                        "attrs": {},
+                        "children": [
+                          {
+                            "tag": "b",
+                            "attrs": {},
+                            "children": [
+                              "Parenting AI App - WebView",
+                              {
+                                "tag": "br",
+                                "attrs": {},
+                                "children": []
+                              }
+                            ]
+                          }
+                        ]
+                      },
+                      {
+                        "tag": "p",
+                        "attrs": {},
+                        "children": [
+                          "Wonderful Platform",
+                          {
+                            "tag": "br",
+                            "attrs": {},
+                            "children": []
+                          },
+                          "Dec 31, 2020 – Feb 1, 2022"
+                        ]
+                      },
+                      {
+                        "tag": "p",
+                        "attrs": {
+                          "class": "no-print aditional-links"
+                        },
+                        "children": [
+                          "\n        \n      "
+                        ]
+                      },
+                      "\n    "
+                    ]
+                  },
+                  "\n    ",
+                  {
+                    "tag": "div",
+                    "attrs": {
+                      "class": "col-xs-12 col-sm-8 col-md-9 col-print-12 content"
+                    },
+                    "children": [
+                      {
+                        "tag": "p",
+                        "attrs": {},
+                        "children": [
+                          {
+                            "tag": "strong",
+                            "attrs": {},
+                            "children": [
+                              "❏ Project Overview"
+                            ]
+                          }
+                        ]
+                      },
+                      "\n",
+                      {
+                        "tag": "ul",
+                        "attrs": {},
+                        "children": [
+                          "\n  ",
+                          {
+                            "tag": "li",
+                            "attrs": {},
+                            "children": [
+                              "Developed an application supporting AI-based parenting consultation services (service discontinued)."
+                            ]
+                          },
+                          "\n  ",
+                          {
+                            "tag": "li",
+                            "attrs": {},
+                            "children": [
+                              "Delivered personalized parenting guidance through interactive communication between parents and an AI avatar modeled after developmental psychology experts."
+                            ]
+                          },
+                          "\n"
+                        ]
+                      },
+                      "\n\n",
+                      {
+                        "tag": "p",
+                        "attrs": {},
+                        "children": [
+                          {
+                            "tag": "strong",
+                            "attrs": {},
+                            "children": [
+                              "❏ Responsibilities"
+                            ]
+                          }
+                        ]
+                      },
+                      "\n",
+                      {
+                        "tag": "ul",
+                        "attrs": {},
+                        "children": [
+                          "\n  ",
+                          {
+                            "tag": "li",
+                            "attrs": {},
+                            "children": [
+                              "Implemented the community tab to enable interactive communication between experts and parents through posts and comments."
+                            ]
+                          },
+                          "\n  ",
+                          {
+                            "tag": "li",
+                            "attrs": {},
+                            "children": [
+                              "Built and deployed the frontend for the app WebView."
+                            ]
+                          },
+                          "\n"
+                        ]
+                      },
+                      "\n\n",
+                      {
+                        "tag": "p",
+                        "attrs": {},
+                        "children": [
+                          {
+                            "tag": "strong",
+                            "attrs": {},
+                            "children": [
+                              "❏ Technologies Used"
+                            ]
+                          }
+                        ]
+                      },
+                      "\n",
+                      {
+                        "tag": "ul",
+                        "attrs": {},
+                        "children": [
+                          "\n  ",
+                          {
+                            "tag": "li",
+                            "attrs": {},
+                            "children": [
+                              {
+                                "tag": "img",
+                                "attrs": {
+                                  "src": "https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=HTML5&logoColor=white",
+                                  "alt": "HTML5"
+                                },
+                                "children": []
+                              },
+                              "\n  ",
+                              {
+                                "tag": "img",
+                                "attrs": {
+                                  "src": "https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=CSS3&logoColor=white",
+                                  "alt": "CSS3"
+                                },
+                                "children": []
+                              },
+                              "\n  ",
+                              {
+                                "tag": "img",
+                                "attrs": {
+                                  "src": "https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=JavaScript&logoColor=black",
+                                  "alt": "JavaScript"
+                                },
+                                "children": []
+                              }
+                            ]
+                          },
+                          "\n  ",
+                          {
+                            "tag": "li",
+                            "attrs": {},
+                            "children": [
+                              {
+                                "tag": "img",
+                                "attrs": {
+                                  "src": "https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=React&logoColor=black",
+                                  "alt": "React"
+                                },
+                                "children": []
+                              },
+                              "\n  ",
+                              {
+                                "tag": "img",
+                                "attrs": {
+                                  "src": "https://img.shields.io/badge/React--Router-CA4245?style=flat-square&logo=React%20Router&logoColor=white",
+                                  "alt": "React-Router"
+                                },
+                                "children": []
+                              }
+                            ]
+                          },
+                          "\n  ",
+                          {
+                            "tag": "li",
+                            "attrs": {},
+                            "children": [
+                              {
+                                "tag": "img",
+                                "attrs": {
+                                  "src": "https://img.shields.io/badge/Material--UI-0081CB?style=flat-square&logo=mui&logoColor=white",
+                                  "alt": "Material-UI"
+                                },
+                                "children": []
+                              },
+                              "\n  ",
+                              {
+                                "tag": "img",
+                                "attrs": {
+                                  "src": "https://img.shields.io/badge/ESLint-4B32C3?style=flat-square&logo=ESLint&logoColor=white",
+                                  "alt": "ESLint"
+                                },
+                                "children": []
+                              },
+                              "\n  ",
+                              {
+                                "tag": "img",
+                                "attrs": {
+                                  "src": "https://img.shields.io/badge/Prettier-F7B93E?style=flat-square&logo=Prettier&logoColor=white",
+                                  "alt": "Prettier"
+                                },
+                                "children": []
+                              }
+                            ]
+                          },
+                          "\n  ",
+                          {
+                            "tag": "li",
+                            "attrs": {},
+                            "children": [
+                              {
+                                "tag": "img",
+                                "attrs": {
+                                  "src": "https://img.shields.io/badge/npm-CB3837?style=flat-square&logo=npm&logoColor=white",
+                                  "alt": "npm"
+                                },
+                                "children": []
+                              },
+                              "\n  ",
+                              {
+                                "tag": "img",
+                                "attrs": {
+                                  "src": "https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=Node.js&logoColor=white",
+                                  "alt": "Node.js"
+                                },
+                                "children": []
+                              },
+                              "\n  ",
+                              {
+                                "tag": "img",
+                                "attrs": {
+                                  "src": "https://img.shields.io/badge/Express-000000?style=flat-square&logo=Express&logoColor=white",
+                                  "alt": "Express"
+                                },
+                                "children": []
+                              },
+                              "\n  ",
+                              {
+                                "tag": "img",
+                                "attrs": {
+                                  "src": "https://img.shields.io/badge/NGINX-009639?style=flat-square&logo=nginx&logoColor=white",
+                                  "alt": "NGINX"
+                                },
+                                "children": []
+                              }
+                            ]
+                          },
+                          "\n"
+                        ]
+                      },
+                      "\n\n    "
+                    ]
+                  },
+                  "\n  "
+                ]
+              },
+              "\n\n  ",
+              {
+                "tag": "div",
+                "attrs": {
+                  "class": "row clearfix layout layout-left"
+                },
+                "children": [
+                  "\n    ",
+                  {
+                    "tag": "div",
+                    "attrs": {
+                      "class": "col-xs-12 col-sm-4 col-md-3 col-print-12 details"
+                    },
+                    "children": [
+                      "\n      ",
+                      {
+                        "tag": "h4",
+                        "attrs": {},
+                        "children": []
+                      },
+                      {
+                        "tag": "p",
+                        "attrs": {},
+                        "children": [
+                          {
+                            "tag": "b",
+                            "attrs": {},
+                            "children": [
+                              "Avadin Works App - WebView",
+                              {
+                                "tag": "br",
+                                "attrs": {},
+                                "children": []
+                              }
+                            ]
+                          }
+                        ]
+                      },
+                      {
+                        "tag": "p",
+                        "attrs": {},
+                        "children": [
+                          "Wonderful Platform",
+                          {
+                            "tag": "br",
+                            "attrs": {},
+                            "children": []
+                          },
+                          "Dec 14, 2020 – May 31, 2021"
+                        ]
+                      },
+                      {
+                        "tag": "p",
+                        "attrs": {
+                          "class": "no-print aditional-links"
+                        },
+                        "children": [
+                          "\n        \n      "
+                        ]
+                      },
+                      "\n    "
+                    ]
+                  },
+                  "\n    ",
+                  {
+                    "tag": "div",
+                    "attrs": {
+                      "class": "col-xs-12 col-sm-8 col-md-9 col-print-12 content"
+                    },
+                    "children": [
+                      {
+                        "tag": "p",
+                        "attrs": {},
+                        "children": [
+                          {
+                            "tag": "strong",
+                            "attrs": {},
+                            "children": [
+                              "❏ Project Overview"
+                            ]
+                          }
+                        ]
+                      },
+                      "\n",
+                      {
+                        "tag": "ul",
+                        "attrs": {},
+                        "children": [
+                          "\n  ",
+                          {
+                            "tag": "li",
+                            "attrs": {},
+                            "children": [
+                              "Developed an application to manage employee attendance and improve work efficiency in remote work environments."
+                            ]
+                          },
+                          "\n  ",
+                          {
+                            "tag": "li",
+                            "attrs": {},
+                            "children": [
+                              "Implemented features such as face recognition-based tracking and absence detection."
+                            ]
+                          },
+                          "\n  ",
+                          {
+                            "tag": "li",
+                            "attrs": {},
+                            "children": [
+                              "Provided simplified reporting for employees and efficient attendance management for administrators."
+                            ]
+                          },
+                          "\n"
+                        ]
+                      },
+                      "\n\n",
+                      {
+                        "tag": "p",
+                        "attrs": {},
+                        "children": [
+                          {
+                            "tag": "strong",
+                            "attrs": {},
+                            "children": [
+                              "❏ Responsibilities"
+                            ]
+                          }
+                        ]
+                      },
+                      "\n",
+                      {
+                        "tag": "ul",
+                        "attrs": {},
+                        "children": [
+                          "\n  ",
+                          {
+                            "tag": "li",
+                            "attrs": {},
+                            "children": [
+                              "Developed the admin view to monitor team attendance status and analytics."
+                            ]
+                          },
+                          "\n  ",
+                          {
+                            "tag": "li",
+                            "attrs": {},
+                            "children": [
+                              "Built the team detail view for managing teams and members, including team assignment and configuration."
+                            ]
+                          },
+                          "\n  ",
+                          {
+                            "tag": "li",
+                            "attrs": {},
+                            "children": [
+                              "Implemented the work log interface for creating and editing attendance records."
+                            ]
+                          },
+                          "\n  ",
+                          {
+                            "tag": "li",
+                            "attrs": {},
+                            "children": [
+                              "Built and deployed the frontend for the Avadin Works app WebView."
+                            ]
+                          },
+                          "\n"
+                        ]
+                      },
+                      "\n\n",
+                      {
+                        "tag": "p",
+                        "attrs": {},
+                        "children": [
+                          {
+                            "tag": "strong",
+                            "attrs": {},
+                            "children": [
+                              "❏ Technologies Used"
+                            ]
+                          }
+                        ]
+                      },
+                      "\n",
+                      {
+                        "tag": "ul",
+                        "attrs": {},
+                        "children": [
+                          "\n  ",
+                          {
+                            "tag": "li",
+                            "attrs": {},
+                            "children": [
+                              {
+                                "tag": "img",
+                                "attrs": {
+                                  "src": "https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=HTML5&logoColor=white",
+                                  "alt": "HTML5"
+                                },
+                                "children": []
+                              },
+                              "\n  ",
+                              {
+                                "tag": "img",
+                                "attrs": {
+                                  "src": "https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=CSS3&logoColor=white",
+                                  "alt": "CSS3"
+                                },
+                                "children": []
+                              },
+                              "\n  ",
+                              {
+                                "tag": "img",
+                                "attrs": {
+                                  "src": "https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=JavaScript&logoColor=black",
+                                  "alt": "JavaScript"
+                                },
+                                "children": []
+                              }
+                            ]
+                          },
+                          "\n  ",
+                          {
+                            "tag": "li",
+                            "attrs": {},
+                            "children": [
+                              {
+                                "tag": "img",
+                                "attrs": {
+                                  "src": "https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=React&logoColor=black",
+                                  "alt": "React"
+                                },
+                                "children": []
+                              },
+                              "\n  ",
+                              {
+                                "tag": "img",
+                                "attrs": {
+                                  "src": "https://img.shields.io/badge/React--Router-CA4245?style=flat-square&logo=React%20Router&logoColor=white",
+                                  "alt": "React-Router"
+                                },
+                                "children": []
+                              }
+                            ]
+                          },
+                          "\n  ",
+                          {
+                            "tag": "li",
+                            "attrs": {},
+                            "children": [
+                              {
+                                "tag": "img",
+                                "attrs": {
+                                  "src": "https://img.shields.io/badge/Material--UI-0081CB?style=flat-square&logo=mui&logoColor=white",
+                                  "alt": "Material-UI"
+                                },
+                                "children": []
+                              },
+                              "\n  ",
+                              {
+                                "tag": "img",
+                                "attrs": {
+                                  "src": "https://img.shields.io/badge/ESLint-4B32C3?style=flat-square&logo=ESLint&logoColor=white",
+                                  "alt": "ESLint"
+                                },
+                                "children": []
+                              },
+                              "\n  ",
+                              {
+                                "tag": "img",
+                                "attrs": {
+                                  "src": "https://img.shields.io/badge/Prettier-F7B93E?style=flat-square&logo=Prettier&logoColor=white",
+                                  "alt": "Prettier"
+                                },
+                                "children": []
+                              }
+                            ]
+                          },
+                          "\n  ",
+                          {
+                            "tag": "li",
+                            "attrs": {},
+                            "children": [
+                              {
+                                "tag": "img",
+                                "attrs": {
+                                  "src": "https://img.shields.io/badge/npm-CB3837?style=flat-square&logo=npm&logoColor=white",
+                                  "alt": "npm"
+                                },
+                                "children": []
+                              },
+                              "\n  ",
+                              {
+                                "tag": "img",
+                                "attrs": {
+                                  "src": "https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=Node.js&logoColor=white",
+                                  "alt": "Node.js"
+                                },
+                                "children": []
+                              },
+                              "\n  ",
+                              {
+                                "tag": "img",
+                                "attrs": {
+                                  "src": "https://img.shields.io/badge/Express-000000?style=flat-square&logo=Express&logoColor=white",
+                                  "alt": "Express"
+                                },
+                                "children": []
+                              },
+                              "\n  ",
+                              {
+                                "tag": "img",
+                                "attrs": {
+                                  "src": "https://img.shields.io/badge/NGINX-009639?style=flat-square&logo=nginx&logoColor=white",
+                                  "alt": "NGINX"
+                                },
+                                "children": []
+                              }
+                            ]
+                          },
+                          "\n"
+                        ]
+                      },
+                      "\n\n    "
+                    ]
+                  },
+                  "\n  "
+                ]
+              },
+              "\n\n\n          "
+            ]
+          },
+          "\n        \n          ",
+          {
+            "tag": "div",
+            "attrs": {
+              "class": "container list-container"
+            },
+            "children": [
+              "\n            ",
+              {
+                "tag": "h3",
+                "attrs": {},
+                "children": [
+                  "Experience"
+                ]
+              },
+              "\n            \n  ",
+              {
+                "tag": "div",
+                "attrs": {
+                  "class": "row clearfix layout layout-left"
+                },
+                "children": [
+                  "\n    ",
+                  {
+                    "tag": "div",
+                    "attrs": {
+                      "class": "col-xs-12 col-sm-4 col-md-3 col-print-12 details"
+                    },
+                    "children": [
+                      "\n      ",
+                      {
+                        "tag": "h4",
+                        "attrs": {},
+                        "children": []
+                      },
+                      {
+                        "tag": "p",
+                        "attrs": {},
+                        "children": [
+                          {
+                            "tag": "b",
+                            "attrs": {},
+                            "children": [
+                              "Wonderful Platform"
+                            ]
+                          }
+                        ]
+                      },
+                      {
+                        "tag": "p",
+                        "attrs": {},
+                        "children": [
+                          "Data Team",
+                          {
+                            "tag": "br",
+                            "attrs": {},
+                            "children": []
+                          },
+                          "Jun 11, 2021 – Present"
+                        ]
+                      },
+                      {
+                        "tag": "p",
+                        "attrs": {
+                          "class": "no-print aditional-links"
+                        },
+                        "children": [
+                          "\n        \n      "
+                        ]
+                      },
+                      "\n    "
+                    ]
+                  },
+                  "\n    ",
+                  {
+                    "tag": "div",
+                    "attrs": {
+                      "class": "col-xs-12 col-sm-8 col-md-9 col-print-12 content"
+                    },
+                    "children": [
+                      {
+                        "tag": "ul",
+                        "attrs": {},
+                        "children": [
+                          "\n  ",
+                          {
+                            "tag": "li",
+                            "attrs": {},
+                            "children": [
+                              "Sole frontend developer responsible for multiple production services."
+                            ]
+                          },
+                          "\n  ",
+                          {
+                            "tag": "li",
+                            "attrs": {},
+                            "children": [
+                              "Led end-to-end development of admin dashboards, WebView applications, and corporate website."
+                            ]
+                          },
+                          "\n  ",
+                          {
+                            "tag": "li",
+                            "attrs": {},
+                            "children": [
+                              "Improved maintainability by introducing a monorepo architecture."
+                            ]
+                          },
+                          "\n"
+                        ]
+                      },
+                      "\n\n    "
+                    ]
+                  },
+                  "\n  "
+                ]
+              },
+              "\n\n  ",
+              {
+                "tag": "div",
+                "attrs": {
+                  "class": "row clearfix layout layout-left"
+                },
+                "children": [
+                  "\n    ",
+                  {
+                    "tag": "div",
+                    "attrs": {
+                      "class": "col-xs-12 col-sm-4 col-md-3 col-print-12 details"
+                    },
+                    "children": [
+                      "\n      ",
+                      {
+                        "tag": "h4",
+                        "attrs": {},
+                        "children": []
+                      },
+                      {
+                        "tag": "p",
+                        "attrs": {},
+                        "children": [
+                          {
+                            "tag": "b",
+                            "attrs": {},
+                            "children": [
+                              "Wonderful Platform"
+                            ]
+                          }
+                        ]
+                      },
+                      {
+                        "tag": "p",
+                        "attrs": {},
+                        "children": [
+                          "Intern",
+                          {
+                            "tag": "br",
+                            "attrs": {},
+                            "children": []
+                          },
+                          "Dec 11, 2020 – Jun 10, 2021"
+                        ]
+                      },
+                      {
+                        "tag": "p",
+                        "attrs": {
+                          "class": "no-print aditional-links"
+                        },
+                        "children": [
+                          "\n        \n      "
+                        ]
+                      },
+                      "\n    "
+                    ]
+                  },
+                  "\n    ",
+                  {
+                    "tag": "div",
+                    "attrs": {
+                      "class": "col-xs-12 col-sm-8 col-md-9 col-print-12 content"
+                    },
+                    "children": [
+                      {
+                        "tag": "ul",
+                        "attrs": {},
+                        "children": [
+                          "\n  ",
+                          {
+                            "tag": "li",
+                            "attrs": {},
+                            "children": [
+                              "Designed the architecture of the global admin dashboard."
+                            ]
+                          },
+                          "\n  ",
+                          {
+                            "tag": "li",
+                            "attrs": {},
+                            "children": [
+                              "Developed and maintained the Avadin Works app WebView."
+                            ]
+                          },
+                          "\n  ",
+                          {
+                            "tag": "li",
+                            "attrs": {},
+                            "children": [
+                              "Built and maintained a parenting AI app WebView."
+                            ]
+                          },
+                          "\n"
+                        ]
+                      },
+                      "\n\n    "
+                    ]
+                  },
+                  "\n  "
+                ]
+              },
+              "\n\n  ",
+              {
+                "tag": "div",
+                "attrs": {
+                  "class": "row clearfix layout layout-left"
+                },
+                "children": [
+                  "\n    ",
+                  {
+                    "tag": "div",
+                    "attrs": {
+                      "class": "col-xs-12 col-sm-4 col-md-3 col-print-12 details"
+                    },
+                    "children": [
+                      "\n      ",
+                      {
+                        "tag": "h4",
+                        "attrs": {},
+                        "children": []
+                      },
+                      {
+                        "tag": "p",
+                        "attrs": {},
+                        "children": [
+                          {
+                            "tag": "b",
+                            "attrs": {},
+                            "children": [
+                              "Soldesk IT Academy"
+                            ]
+                          }
+                        ]
+                      },
+                      {
+                        "tag": "p",
+                        "attrs": {},
+                        "children": [
+                          "Oct 16, 2018 – Apr 11, 2019"
+                        ]
+                      },
+                      {
+                        "tag": "p",
+                        "attrs": {
+                          "class": "no-print aditional-links"
+                        },
+                        "children": [
+                          "\n        \n      "
+                        ]
+                      },
+                      "\n    "
+                    ]
+                  },
+                  "\n    ",
+                  {
+                    "tag": "div",
+                    "attrs": {
+                      "class": "col-xs-12 col-sm-8 col-md-9 col-print-12 content"
+                    },
+                    "children": [
+                      {
+                        "tag": "ul",
+                        "attrs": {},
+                        "children": [
+                          "\n  ",
+                          {
+                            "tag": "li",
+                            "attrs": {},
+                            "children": [
+                              "Completed a Big Data developer training program based on Java secure coding."
+                            ]
+                          },
+                          "\n  ",
+                          {
+                            "tag": "li",
+                            "attrs": {},
+                            "children": [
+                              "Implemented a web application to improve user experience in travel planning, including accommodation and restaurant selection."
+                            ]
+                          },
+                          "\n"
+                        ]
+                      },
+                      "\n\n    "
+                    ]
+                  },
+                  "\n  "
+                ]
+              },
+              "\n\n\n          "
+            ]
+          },
+          "\n        \n      "
+        ]
+      },
+      "\n  "
+    ]
+  },
+  {
+    "tag": "div",
+    "attrs": {
+      "class": "container footer-container"
+    },
+    "children": [
+      {
+        "tag": "p",
+        "attrs": {},
+        "children": [
+          "\n    Ha Hyun -\n    ",
+          {
+            "tag": "a",
+            "attrs": {
+              "href": "mailto:gkgusgkgus@gmail.com",
+              "target": "_blank"
+            },
+            "children": [
+              "gkgusgkgus@gmail.com"
+            ]
+          },
+          " - References on request"
+        ]
+      },
+      "\n"
+    ]
+  },
+  "\n"
+]

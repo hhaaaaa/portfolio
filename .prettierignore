@@ -1,0 +1,9 @@
+node_modules
+.next
+out
+build
+dist
+coverage
+.tools
+public/assets/legacy.css
+src/data/legacy

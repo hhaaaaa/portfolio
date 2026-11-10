@@ -1,0 +1,4806 @@
+[
+  {
+    "tag": "div",
+    "attrs": {
+      "class": "container header-contianer"
+    },
+    "children": [
+      {
+        "tag": "div",
+        "attrs": {
+          "class": "row"
+        },
+        "children": [
+          "\n    ",
+          {
+            "tag": "div",
+            "attrs": {
+              "class": "col-xs-12 visible-xs-block text-right no-print lang-switch lang-switch--mobile"
+            },
+            "children": [
+              {
+                "tag": "strong",
+                "attrs": {
+                  "class": "lang-switch--active"
+                },
+                "children": [
+                  "KOR"
+                ]
+              },
+              " | ",
+              {
+                "tag": "a",
+                "attrs": {
+                  "href": "/en/"
+                },
+                "children": [
+                  "EN"
+                ]
+              }
+            ]
+          },
+          "\n    ",
+          {
+            "tag": "div",
+            "attrs": {
+              "class": "col-xs-12 col-sm-6 col-md-6 col-lg-8 header-left"
+            },
+            "children": [
+              "\n      ",
+              {
+                "tag": "br",
+                "attrs": {},
+                "children": []
+              },
+              "\n      ",
+              {
+                "tag": "h1",
+                "attrs": {},
+                "children": [
+                  "하  현"
+                ]
+              },
+              "\n      ",
+              {
+                "tag": "h2",
+                "attrs": {},
+                "children": [
+                  "Front-End Engineer"
+                ]
+              },
+              "\n    "
+            ]
+          },
+          "\n    ",
+          {
+            "tag": "div",
+            "attrs": {
+              "class": "col-xs-12 col-sm-6 col-md-6 col-lg-4 header-right"
+            },
+            "children": [
+              "\n      ",
+              {
+                "tag": "ul",
+                "attrs": {
+                  "class": "icons no-print"
+                },
+                "children": [
+                  "\n      "
+                ]
+              },
+              "\n      ",
+              {
+                "tag": "div",
+                "attrs": {
+                  "class": "hidden-xs no-print lang-switch lang-switch--desktop"
+                },
+                "children": [
+                  {
+                    "tag": "strong",
+                    "attrs": {
+                      "class": "lang-switch--active"
+                    },
+                    "children": [
+                      "KOR"
+                    ]
+                  },
+                  " | ",
+                  {
+                    "tag": "a",
+                    "attrs": {
+                      "href": "/en/"
+                    },
+                    "children": [
+                      "EN"
+                    ]
+                  }
+                ]
+              },
+              {
+                "tag": "table",
+                "attrs": {
+                  "style": "font-size: 1.5rem; font-weight: 600; width: 100%;"
+                },
+                "children": [
+                  " \n          ",
+                  {
+                    "tag": "tr",
+                    "attrs": {},
+                    "children": [
+                      "\n            ",
+                      {
+                        "tag": "td",
+                        "attrs": {
+                          "style": "border-bottom: none; text-align: center; width: 40%;"
+                        },
+                        "children": [
+                          "\n              Email\n            "
+                        ]
+                      },
+                      "\n            ",
+                      {
+                        "tag": "td",
+                        "attrs": {
+                          "style": "border-bottom: none; font-weight: normal; width: 60%;"
+                        },
+                        "children": [
+                          "\n              ",
+                          {
+                            "tag": "a",
+                            "attrs": {
+                              "href": "mailto:gkgusgkgus@gmail.com",
+                              "target": "_blank"
+                            },
+                            "children": [
+                              "gkgusgkgus@gmail.com"
+                            ]
+                          },
+                          "\n            "
+                        ]
+                      },
+                      "\n          "
+                    ]
+                  },
+                  "\n        "
+                ]
+              },
+              {
+                "tag": "table",
+                "attrs": {
+                  "style": "font-size: 1.5rem; font-weight: 600; width: 100%;"
+                },
+                "children": [
+                  "\n          ",
+                  {
+                    "tag": "tr",
+                    "attrs": {},
+                    "children": [
+                      "\n            ",
+                      {
+                        "tag": "td",
+                        "attrs": {
+                          "style": "border-bottom: none; text-align: center; width: 40%;"
+                        },
+                        "children": [
+                          "\n              Phone\n            "
+                        ]
+                      },
+                      "\n            ",
+                      {
+                        "tag": "td",
+                        "attrs": {
+                          "style": "border-bottom: none; font-weight: normal; width: 60%;"
+                        },
+                        "children": [
+                          "\n              010-6860-5012\n            "
+                        ]
+                      },
+                      "\n          "
+                    ]
+                  },
+                  "\n        "
+                ]
+              },
+              "\n    "
+            ]
+          },
+          "\n  "
+        ]
+      },
+      "\n"
+    ]
+  },
+  "\n",
+  {
+    "tag": "main",
+    "attrs": {
+      "class": "page-content",
+      "aria-label": "Content"
+    },
+    "children": [
+      "\n    ",
+      {
+        "tag": "div",
+        "attrs": {
+          "class": "wrapper"
+        },
+        "children": [
+          {
+            "tag": "div",
+            "attrs": {
+              "class": "container intro-container"
+            },
+            "children": [
+              {
+                "tag": "h3",
+                "attrs": {},
+                "children": [
+                  "About Me"
+                ]
+              },
+              "\n  ",
+              {
+                "tag": "div",
+                "attrs": {
+                  "class": "row clearfix"
+                },
+                "children": [
+                  {
+                    "tag": "div",
+                    "attrs": {
+                      "class": "col-xs-12 col-sm-4 col-md-3 no-print"
+                    },
+                    "children": [
+                      "\n        ",
+                      {
+                        "tag": "span",
+                        "attrs": {
+                          "class": "profile-img",
+                          "style": "background-image: url(/images/profile_hha.jpg)"
+                        },
+                        "children": []
+                      },
+                      "\n      "
+                    ]
+                  },
+                  {
+                    "tag": "div",
+                    "attrs": {
+                      "class": "about-content col-xs-12 col-sm-8 col-md-9 col-print-12"
+                    },
+                    "children": [
+                      "\n      ",
+                      {
+                        "tag": "p",
+                        "attrs": {
+                          "style": "font-size: 15px;"
+                        },
+                        "children": [
+                          "\n  계속해서 성장해 나가고 싶은 프론트엔드 개발자 하현입니다.\n"
+                        ]
+                      },
+                      "\n",
+                      {
+                        "tag": "p",
+                        "attrs": {
+                          "style": "font-size: 15px;"
+                        },
+                        "children": [
+                          "\n  자기 발전을 위해 끊임없이 학습하고, 함께 성장해 나가도록 하겠습니다.\n"
+                        ]
+                      },
+                      "\n\n",
+                      {
+                        "tag": "hr",
+                        "attrs": {},
+                        "children": []
+                      },
+                      "\n\n",
+                      {
+                        "tag": "p",
+                        "attrs": {},
+                        "children": [
+                          {
+                            "tag": "code",
+                            "attrs": {
+                              "class": "language-plaintext highlighter-rouge"
+                            },
+                            "children": [
+                              "부족한 부분을 하나씩 채워가며 조금씩 성장하고 있습니다."
+                            ]
+                          }
+                        ]
+                      },
+                      "\n\n",
+                      {
+                        "tag": "ul",
+                        "attrs": {},
+                        "children": [
+                          "\n  ",
+                          {
+                            "tag": "li",
+                            "attrs": {},
+                            "children": [
+                              "사용자와 직접 상호작용할 수 있고 사용자 경험을 강화할 수 있다는 점에 끌려 Front-End 개발자가 됐습니다."
+                            ]
+                          },
+                          "\n  ",
+                          {
+                            "tag": "li",
+                            "attrs": {},
+                            "children": [
+                              "새로운 것을 학습해 부족한 부분을 보완하며 사용자에게 보다 나은 서비스를 제공하기 위해 노력합니다."
+                            ]
+                          },
+                          "\n  ",
+                          {
+                            "tag": "li",
+                            "attrs": {},
+                            "children": [
+                              "리팩토링 과정의 반복을 통해 코드를 지속적으로 개선하고. 이를 체득해가며 성장하고 있습니다."
+                            ]
+                          },
+                          "\n"
+                        ]
+                      },
+                      "\n\n",
+                      {
+                        "tag": "p",
+                        "attrs": {},
+                        "children": [
+                          {
+                            "tag": "code",
+                            "attrs": {
+                              "class": "language-plaintext highlighter-rouge"
+                            },
+                            "children": [
+                              "동료들, 유저들과 소통하며 즐겁게 업무에 임하고 있습니다."
+                            ]
+                          }
+                        ]
+                      },
+                      "\n\n",
+                      {
+                        "tag": "ul",
+                        "attrs": {},
+                        "children": [
+                          "\n  ",
+                          {
+                            "tag": "li",
+                            "attrs": {},
+                            "children": [
+                              "프로젝트의 기획, 디자인, 개발 단계에 참여해 동료들과 자유롭게 의견을 나누며 작업합니다."
+                            ]
+                          },
+                          "\n  ",
+                          {
+                            "tag": "li",
+                            "attrs": {},
+                            "children": [
+                              "사용자의 피드백을 바탕으로 유지보수를 담당하며, 니즈를 충족하는 과정에서 뿌듯함을 느낍니다."
+                            ]
+                          },
+                          "\n  ",
+                          {
+                            "tag": "li",
+                            "attrs": {},
+                            "children": [
+                              "보다 좋은 사용자 경험을 끌어내기 위해 동료들과 소통하고 사용자의 의견에 귀 기울이고 있습니다."
+                            ]
+                          },
+                          "\n"
+                        ]
+                      },
+                      "\n\n",
+                      {
+                        "tag": "p",
+                        "attrs": {},
+                        "children": [
+                          {
+                            "tag": "code",
+                            "attrs": {
+                              "class": "language-plaintext highlighter-rouge"
+                            },
+                            "children": [
+                              "보다 좋은 결과물을 위해 노력합니다."
+                            ]
+                          }
+                        ]
+                      },
+                      "\n\n",
+                      {
+                        "tag": "ul",
+                        "attrs": {},
+                        "children": [
+                          "\n  ",
+                          {
+                            "tag": "li",
+                            "attrs": {},
+                            "children": [
+                              "동료들과의 협업을 위해 관리가 용이하고 가독성이 좋은 코드를 작성하려 노력합니다."
+                            ]
+                          },
+                          "\n  ",
+                          {
+                            "tag": "li",
+                            "attrs": {},
+                            "children": [
+                              "외부 라이브러리, 디자인 패턴, 테스트 방식 등을 꾸준히 학습하고 적용해보며 사용자들의 편의를 위해 노력합니다."
+                            ]
+                          },
+                          "\n  ",
+                          {
+                            "tag": "li",
+                            "attrs": {},
+                            "children": [
+                              "동료들의 작업 효율과 사용자 만족도 향상을 위해 고민하고, 학습하고, 발전하는 Front-End 개발자가 되겠습니다."
+                            ]
+                          },
+                          "\n"
+                        ]
+                      },
+                      "\n\n",
+                      {
+                        "tag": "hr",
+                        "attrs": {},
+                        "children": []
+                      },
+                      "\n\n",
+                      {
+                        "tag": "p",
+                        "attrs": {},
+                        "children": [
+                          "주요 관심 파트 : ",
+                          {
+                            "tag": "mark",
+                            "attrs": {},
+                            "children": [
+                              "WEB"
+                            ]
+                          },
+                          " , ",
+                          {
+                            "tag": "mark",
+                            "attrs": {},
+                            "children": [
+                              "Front-End"
+                            ]
+                          },
+                          " , ",
+                          {
+                            "tag": "mark",
+                            "attrs": {},
+                            "children": [
+                              "WebView"
+                            ]
+                          }
+                        ]
+                      },
+                      "\n\n    "
+                    ]
+                  },
+                  "\n  "
+                ]
+              },
+              "\n"
+            ]
+          },
+          "\n\n          ",
+          {
+            "tag": "div",
+            "attrs": {
+              "class": "container list-container"
+            },
+            "children": [
+              "\n            ",
+              {
+                "tag": "h3",
+                "attrs": {},
+                "children": [
+                  "Skill"
+                ]
+              },
+              "\n            \n  ",
+              {
+                "tag": "div",
+                "attrs": {
+                  "class": "row clearfix layout layout-top-middle"
+                },
+                "children": [
+                  "\n    ",
+                  {
+                    "tag": "div",
+                    "attrs": {
+                      "class": "col-xs-12 col-sm-4 col-md-3 col-print-12 details"
+                    },
+                    "children": [
+                      "\n      ",
+                      {
+                        "tag": "h4",
+                        "attrs": {},
+                        "children": []
+                      },
+                      {
+                        "tag": "p",
+                        "attrs": {
+                          "class": "no-print aditional-links"
+                        },
+                        "children": [
+                          "\n        \n      "
+                        ]
+                      },
+                      "\n    "
+                    ]
+                  },
+                  "\n    ",
+                  {
+                    "tag": "div",
+                    "attrs": {
+                      "class": "col-xs-12 col-sm-8 col-md-9 col-print-12 content"
+                    },
+                    "children": [
+                      {
+                        "tag": "p",
+                        "attrs": {
+                          "class": "quote"
+                        },
+                        "children": [
+                          "업무 혹은 프로젝트 경험에 사용했던 기술 혹은 도구들입니다.\n"
+                        ]
+                      },
+                      "\n\n    "
+                    ]
+                  },
+                  "\n  "
+                ]
+              },
+              "\n\n  ",
+              {
+                "tag": "div",
+                "attrs": {
+                  "class": "row clearfix layout layout-left"
+                },
+                "children": [
+                  "\n    ",
+                  {
+                    "tag": "div",
+                    "attrs": {
+                      "class": "col-xs-12 col-sm-4 col-md-3 col-print-12 details"
+                    },
+                    "children": [
+                      "\n      ",
+                      {
+                        "tag": "h4",
+                        "attrs": {},
+                        "children": []
+                      },
+                      {
+                        "tag": "p",
+                        "attrs": {},
+                        "children": [
+                          {
+                            "tag": "b",
+                            "attrs": {},
+                            "children": [
+                              "💻 Front-End 💻",
+                              {
+                                "tag": "br",
+                                "attrs": {},
+                                "children": []
+                              }
+                            ]
+                          }
+                        ]
+                      },
+                      {
+                        "tag": "p",
+                        "attrs": {
+                          "class": "no-print aditional-links"
+                        },
+                        "children": [
+                          "\n        \n      "
+                        ]
+                      },
+                      "\n    "
+                    ]
+                  },
+                  "\n    ",
+                  {
+                    "tag": "div",
+                    "attrs": {
+                      "class": "col-xs-12 col-sm-8 col-md-9 col-print-12 content"
+                    },
+                    "children": [
+                      {
+                        "tag": "ul",
+                        "attrs": {},
+                        "children": [
+                          "\n  ",
+                          {
+                            "tag": "li",
+                            "attrs": {},
+                            "children": [
+                              {
+                                "tag": "img",
+                                "attrs": {
+                                  "src": "https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=HTML5&logoColor=white",
+                                  "alt": "HTML5"
+                                },
+                                "children": []
+                              },
+                              "\n",
+                              {
+                                "tag": "img",
+                                "attrs": {
+                                  "src": "https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=CSS3&logoColor=white",
+                                  "alt": "CSS3"
+                                },
+                                "children": []
+                              },
+                              "\n",
+                              {
+                                "tag": "img",
+                                "attrs": {
+                                  "src": "https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=JavaScript&logoColor=black",
+                                  "alt": "JavaScript"
+                                },
+                                "children": []
+                              },
+                              "\n",
+                              {
+                                "tag": "img",
+                                "attrs": {
+                                  "src": "https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=TypeScript&logoColor=black",
+                                  "alt": "TypeScript"
+                                },
+                                "children": []
+                              },
+                              "\n",
+                              {
+                                "tag": "br",
+                                "attrs": {},
+                                "children": []
+                              }
+                            ]
+                          },
+                          "\n  ",
+                          {
+                            "tag": "li",
+                            "attrs": {},
+                            "children": [
+                              {
+                                "tag": "img",
+                                "attrs": {
+                                  "src": "https://img.shields.io/badge/jQuery-0769AD?style=flat-square&logo=jQuery&logoColor=white",
+                                  "alt": "jQuery"
+                                },
+                                "children": []
+                              },
+                              "\n",
+                              {
+                                "tag": "img",
+                                "attrs": {
+                                  "src": "https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=React&logoColor=black",
+                                  "alt": "React"
+                                },
+                                "children": []
+                              },
+                              "\n",
+                              {
+                                "tag": "img",
+                                "attrs": {
+                                  "src": "https://img.shields.io/badge/React--Router-CA4245?style=flat-square&logo=React%20Router&logoColor=white",
+                                  "alt": "React-Router"
+                                },
+                                "children": []
+                              },
+                              "\n",
+                              {
+                                "tag": "img",
+                                "attrs": {
+                                  "src": "https://img.shields.io/badge/Next.js-000000?style=flat-square&logo=Next.js&logoColor=white",
+                                  "alt": "Next.js"
+                                },
+                                "children": []
+                              }
+                            ]
+                          },
+                          "\n  ",
+                          {
+                            "tag": "li",
+                            "attrs": {},
+                            "children": [
+                              {
+                                "tag": "img",
+                                "attrs": {
+                                  "src": "https://img.shields.io/badge/Redux-764ABC?style=flat-square&logo=Redux&logoColor=white",
+                                  "alt": "Redux"
+                                },
+                                "children": []
+                              },
+                              "\n",
+                              {
+                                "tag": "img",
+                                "attrs": {
+                                  "src": "https://img.shields.io/badge/Redux--Saga-999999?style=flat-square&logo=Redux-Saga&logoColor=white",
+                                  "alt": "Redux-Saga"
+                                },
+                                "children": []
+                              },
+                              "\n",
+                              {
+                                "tag": "img",
+                                "attrs": {
+                                  "src": "https://img.shields.io/badge/Redux--Toolkit-764ABC?style=flat-square&logo=Redux&logoColor=white",
+                                  "alt": "Redux-Toolkit"
+                                },
+                                "children": []
+                              },
+                              "\n",
+                              {
+                                "tag": "img",
+                                "attrs": {
+                                  "src": "https://img.shields.io/badge/zustand-ECD53F?style=flat-square&logo=Zustand&logoColor=white",
+                                  "alt": "zustand"
+                                },
+                                "children": []
+                              },
+                              "\n",
+                              {
+                                "tag": "img",
+                                "attrs": {
+                                  "src": "https://img.shields.io/badge/React--Query-FF4154?style=flat-square&logo=React-Query&logoColor=white",
+                                  "alt": "React-Query"
+                                },
+                                "children": []
+                              },
+                              "\n",
+                              {
+                                "tag": "br",
+                                "attrs": {},
+                                "children": []
+                              }
+                            ]
+                          },
+                          "\n  ",
+                          {
+                            "tag": "li",
+                            "attrs": {},
+                            "children": [
+                              {
+                                "tag": "img",
+                                "attrs": {
+                                  "src": "https://img.shields.io/badge/Jest-C21325?style=flat-square&logo=Jest&logoColor=white",
+                                  "alt": "Jest"
+                                },
+                                "children": []
+                              },
+                              "\n",
+                              {
+                                "tag": "img",
+                                "attrs": {
+                                  "src": "https://img.shields.io/badge/Testing%20Library-E33332?style=flat-square&logo=Testing%20Library&logoColor=white",
+                                  "alt": "Testing Library"
+                                },
+                                "children": []
+                              },
+                              "\n",
+                              {
+                                "tag": "br",
+                                "attrs": {},
+                                "children": []
+                              }
+                            ]
+                          },
+                          "\n  ",
+                          {
+                            "tag": "li",
+                            "attrs": {},
+                            "children": [
+                              {
+                                "tag": "img",
+                                "attrs": {
+                                  "src": "https://img.shields.io/badge/styled--components-DB7093?style=flat-square&logo=styled-components&logoColor=white",
+                                  "alt": "styled-components"
+                                },
+                                "children": []
+                              },
+                              "\n",
+                              {
+                                "tag": "img",
+                                "attrs": {
+                                  "src": "https://img.shields.io/badge/emotion-DB7093?style=flat-square&logo=emotion&logoColor=white",
+                                  "alt": "emotion"
+                                },
+                                "children": []
+                              },
+                              "\n",
+                              {
+                                "tag": "img",
+                                "attrs": {
+                                  "src": "https://img.shields.io/badge/Material--UI-007FFF?style=flat-square&logo=mui&logoColor=white",
+                                  "alt": "Material-UI"
+                                },
+                                "children": []
+                              },
+                              "\n",
+                              {
+                                "tag": "img",
+                                "attrs": {
+                                  "src": "https://img.shields.io/badge/ESLint-4B32C3?style=flat-square&logo=ESLint&logoColor=white",
+                                  "alt": "ESLint"
+                                },
+                                "children": []
+                              },
+                              "\n",
+                              {
+                                "tag": "img",
+                                "attrs": {
+                                  "src": "https://img.shields.io/badge/Prettier-F7B93E?style=flat-square&logo=Prettier&logoColor=white",
+                                  "alt": "Prettier"
+                                },
+                                "children": []
+                              },
+                              "\n",
+                              {
+                                "tag": "br",
+                                "attrs": {},
+                                "children": []
+                              }
+                            ]
+                          },
+                          "\n  ",
+                          {
+                            "tag": "li",
+                            "attrs": {},
+                            "children": [
+                              {
+                                "tag": "img",
+                                "attrs": {
+                                  "src": "https://img.shields.io/badge/npm-CB3837?style=flat-square&logo=npm&logoColor=white",
+                                  "alt": "npm"
+                                },
+                                "children": []
+                              },
+                              "\n",
+                              {
+                                "tag": "img",
+                                "attrs": {
+                                  "src": "https://img.shields.io/badge/npm--workspace-CB3837?style=flat-square&logo=npm&logoColor=white",
+                                  "alt": "npm-workspace"
+                                },
+                                "children": []
+                              }
+                            ]
+                          },
+                          "\n"
+                        ]
+                      },
+                      "\n\n    "
+                    ]
+                  },
+                  "\n  "
+                ]
+              },
+              "\n\n  ",
+              {
+                "tag": "div",
+                "attrs": {
+                  "class": "row clearfix layout layout-left"
+                },
+                "children": [
+                  "\n    ",
+                  {
+                    "tag": "div",
+                    "attrs": {
+                      "class": "col-xs-12 col-sm-4 col-md-3 col-print-12 details"
+                    },
+                    "children": [
+                      "\n      ",
+                      {
+                        "tag": "h4",
+                        "attrs": {},
+                        "children": []
+                      },
+                      {
+                        "tag": "p",
+                        "attrs": {},
+                        "children": [
+                          {
+                            "tag": "b",
+                            "attrs": {},
+                            "children": [
+                              "🔑 Back-End 🔑",
+                              {
+                                "tag": "br",
+                                "attrs": {},
+                                "children": []
+                              }
+                            ]
+                          }
+                        ]
+                      },
+                      {
+                        "tag": "p",
+                        "attrs": {
+                          "class": "no-print aditional-links"
+                        },
+                        "children": [
+                          "\n        \n      "
+                        ]
+                      },
+                      "\n    "
+                    ]
+                  },
+                  "\n    ",
+                  {
+                    "tag": "div",
+                    "attrs": {
+                      "class": "col-xs-12 col-sm-8 col-md-9 col-print-12 content"
+                    },
+                    "children": [
+                      {
+                        "tag": "ul",
+                        "attrs": {},
+                        "children": [
+                          "\n  ",
+                          {
+                            "tag": "li",
+                            "attrs": {},
+                            "children": [
+                              {
+                                "tag": "img",
+                                "attrs": {
+                                  "src": "https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=Node.js&logoColor=white",
+                                  "alt": "Node.js"
+                                },
+                                "children": []
+                              },
+                              "\n",
+                              {
+                                "tag": "img",
+                                "attrs": {
+                                  "src": "https://img.shields.io/badge/Express-000000?style=flat-square&logo=Express&logoColor=white",
+                                  "alt": "Express"
+                                },
+                                "children": []
+                              },
+                              "\n",
+                              {
+                                "tag": "img",
+                                "attrs": {
+                                  "src": "https://img.shields.io/badge/NGINX-009639?style=flat-square&logo=nginx&logoColor=white",
+                                  "alt": "NGINX"
+                                },
+                                "children": []
+                              },
+                              "\n",
+                              {
+                                "tag": "img",
+                                "attrs": {
+                                  "src": "https://img.shields.io/badge/Amazon%20Web%20Services-232F3E?style=flat-square&logo=Amazon%20Web%20Services&logoColor=white",
+                                  "alt": "Amazon Web Services"
+                                },
+                                "children": []
+                              },
+                              "\n",
+                              {
+                                "tag": "br",
+                                "attrs": {},
+                                "children": []
+                              }
+                            ]
+                          },
+                          "\n  ",
+                          {
+                            "tag": "li",
+                            "attrs": {},
+                            "children": [
+                              {
+                                "tag": "img",
+                                "attrs": {
+                                  "src": "https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=MySQL&logoColor=white",
+                                  "alt": "MySQL"
+                                },
+                                "children": []
+                              },
+                              "\n",
+                              {
+                                "tag": "img",
+                                "attrs": {
+                                  "src": "https://img.shields.io/badge/Oracle-F80000?style=flat-square&logo=Oracle&logoColor=white",
+                                  "alt": "Oracle"
+                                },
+                                "children": []
+                              },
+                              "\n",
+                              {
+                                "tag": "img",
+                                "attrs": {
+                                  "src": "https://img.shields.io/badge/Apache2-D22128?style=flat-square&logo=Apache&logoColor=white",
+                                  "alt": "Apache2"
+                                },
+                                "children": []
+                              },
+                              "\n",
+                              {
+                                "tag": "img",
+                                "attrs": {
+                                  "src": "https://img.shields.io/badge/Swagger-85EA2D?style=flat-square&logo=Swagger&logoColor=white",
+                                  "alt": "Swagger"
+                                },
+                                "children": []
+                              },
+                              "\n",
+                              {
+                                "tag": "br",
+                                "attrs": {},
+                                "children": []
+                              }
+                            ]
+                          },
+                          "\n  ",
+                          {
+                            "tag": "li",
+                            "attrs": {},
+                            "children": [
+                              {
+                                "tag": "img",
+                                "attrs": {
+                                  "src": "https://img.shields.io/badge/Java-007396?style=flat-square&logo=Java&logoColor=white",
+                                  "alt": "Java"
+                                },
+                                "children": []
+                              },
+                              "\n",
+                              {
+                                "tag": "img",
+                                "attrs": {
+                                  "src": "https://img.shields.io/badge/JSP-333333?style=flat-square&logo=JSP&logoColor=white",
+                                  "alt": "JSP"
+                                },
+                                "children": []
+                              },
+                              "\n",
+                              {
+                                "tag": "img",
+                                "attrs": {
+                                  "src": "https://img.shields.io/badge/Spring-6DB33F?style=flat-square&logo=Spring&logoColor=white",
+                                  "alt": "Spring"
+                                },
+                                "children": []
+                              },
+                              "\n",
+                              {
+                                "tag": "img",
+                                "attrs": {
+                                  "src": "https://img.shields.io/badge/MyBatis-333333?style=flat-square&logo=MyBatis&logoColor=white",
+                                  "alt": "MyBatis"
+                                },
+                                "children": []
+                              },
+                              "\n",
+                              {
+                                "tag": "img",
+                                "attrs": {
+                                  "src": "https://img.shields.io/badge/Maven-C71A36?style=flat-square&logo=Apache%20Maven&logoColor=white",
+                                  "alt": "Maven"
+                                },
+                                "children": []
+                              }
+                            ]
+                          },
+                          "\n"
+                        ]
+                      },
+                      "\n\n    "
+                    ]
+                  },
+                  "\n  "
+                ]
+              },
+              "\n\n  ",
+              {
+                "tag": "div",
+                "attrs": {
+                  "class": "row clearfix layout layout-left"
+                },
+                "children": [
+                  "\n    ",
+                  {
+                    "tag": "div",
+                    "attrs": {
+                      "class": "col-xs-12 col-sm-4 col-md-3 col-print-12 details"
+                    },
+                    "children": [
+                      "\n      ",
+                      {
+                        "tag": "h4",
+                        "attrs": {},
+                        "children": []
+                      },
+                      {
+                        "tag": "p",
+                        "attrs": {},
+                        "children": [
+                          {
+                            "tag": "b",
+                            "attrs": {},
+                            "children": [
+                              "⚙️ Etc ⚙️",
+                              {
+                                "tag": "br",
+                                "attrs": {},
+                                "children": []
+                              }
+                            ]
+                          }
+                        ]
+                      },
+                      {
+                        "tag": "p",
+                        "attrs": {
+                          "class": "no-print aditional-links"
+                        },
+                        "children": [
+                          "\n        \n      "
+                        ]
+                      },
+                      "\n    "
+                    ]
+                  },
+                  "\n    ",
+                  {
+                    "tag": "div",
+                    "attrs": {
+                      "class": "col-xs-12 col-sm-8 col-md-9 col-print-12 content"
+                    },
+                    "children": [
+                      {
+                        "tag": "ul",
+                        "attrs": {},
+                        "children": [
+                          "\n  ",
+                          {
+                            "tag": "li",
+                            "attrs": {},
+                            "children": [
+                              {
+                                "tag": "img",
+                                "attrs": {
+                                  "src": "https://img.shields.io/badge/Git-F05032?style=flat-square&logo=Git&logoColor=white",
+                                  "alt": "Git"
+                                },
+                                "children": []
+                              },
+                              "\n",
+                              {
+                                "tag": "img",
+                                "attrs": {
+                                  "src": "https://img.shields.io/badge/Zeplin-F3B724?style=flat-square&logo=zeplin&logoColor=white",
+                                  "alt": "Zeplin"
+                                },
+                                "children": []
+                              },
+                              "\n",
+                              {
+                                "tag": "img",
+                                "attrs": {
+                                  "src": "https://img.shields.io/badge/Figma-F24E1E?style=flat-square&logo=Figma&logoColor=white",
+                                  "alt": "Figma"
+                                },
+                                "children": []
+                              },
+                              "\n",
+                              {
+                                "tag": "br",
+                                "attrs": {},
+                                "children": []
+                              }
+                            ]
+                          },
+                          "\n  ",
+                          {
+                            "tag": "li",
+                            "attrs": {},
+                            "children": [
+                              {
+                                "tag": "img",
+                                "attrs": {
+                                  "src": "https://img.shields.io/badge/C-A8B9CC?style=flat-square&logo=C&logoColor=white",
+                                  "alt": "C"
+                                },
+                                "children": []
+                              },
+                              "\n",
+                              {
+                                "tag": "img",
+                                "attrs": {
+                                  "src": "https://img.shields.io/badge/C++-00599C?style=flat-square&logo=C++&logoColor=white",
+                                  "alt": "C++"
+                                },
+                                "children": []
+                              },
+                              "\n",
+                              {
+                                "tag": "img",
+                                "attrs": {
+                                  "src": "https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=Python&logoColor=white",
+                                  "alt": "Python"
+                                },
+                                "children": []
+                              }
+                            ]
+                          },
+                          "\n"
+                        ]
+                      },
+                      "\n\n    "
+                    ]
+                  },
+                  "\n  "
+                ]
+              },
+              "\n\n\n          "
+            ]
+          },
+          "\n        \n          ",
+          {
+            "tag": "div",
+            "attrs": {
+              "class": "container list-container"
+            },
+            "children": [
+              "\n            ",
+              {
+                "tag": "h3",
+                "attrs": {},
+                "children": [
+                  "Project"
+                ]
+              },
+              "\n            \n  ",
+              {
+                "tag": "div",
+                "attrs": {
+                  "class": "row clearfix layout layout-top-middle"
+                },
+                "children": [
+                  "\n    ",
+                  {
+                    "tag": "div",
+                    "attrs": {
+                      "class": "col-xs-12 col-sm-4 col-md-3 col-print-12 details"
+                    },
+                    "children": [
+                      "\n      ",
+                      {
+                        "tag": "h4",
+                        "attrs": {},
+                        "children": []
+                      },
+                      {
+                        "tag": "p",
+                        "attrs": {
+                          "class": "no-print aditional-links"
+                        },
+                        "children": [
+                          "\n        \n      "
+                        ]
+                      },
+                      "\n    "
+                    ]
+                  },
+                  "\n    ",
+                  {
+                    "tag": "div",
+                    "attrs": {
+                      "class": "col-xs-12 col-sm-8 col-md-9 col-print-12 content"
+                    },
+                    "children": [
+                      {
+                        "tag": "p",
+                        "attrs": {
+                          "class": "quote"
+                        },
+                        "children": [
+                          "주요 프로젝트 내용입니다.\n"
+                        ]
+                      },
+                      "\n\n    "
+                    ]
+                  },
+                  "\n  "
+                ]
+              },
+              "\n\n  ",
+              {
+                "tag": "div",
+                "attrs": {
+                  "class": "row clearfix layout layout-left"
+                },
+                "children": [
+                  "\n    ",
+                  {
+                    "tag": "div",
+                    "attrs": {
+                      "class": "col-xs-12 col-sm-4 col-md-3 col-print-12 details"
+                    },
+                    "children": [
+                      "\n      ",
+                      {
+                        "tag": "h4",
+                        "attrs": {},
+                        "children": []
+                      },
+                      {
+                        "tag": "p",
+                        "attrs": {},
+                        "children": [
+                          {
+                            "tag": "b",
+                            "attrs": {},
+                            "children": [
+                              "FE 모노레포 구축",
+                              {
+                                "tag": "br",
+                                "attrs": {},
+                                "children": []
+                              }
+                            ]
+                          }
+                        ]
+                      },
+                      {
+                        "tag": "p",
+                        "attrs": {},
+                        "children": [
+                          "(주)원더풀플랫폼",
+                          {
+                            "tag": "br",
+                            "attrs": {},
+                            "children": []
+                          },
+                          "2024.12.02 ~ 현재"
+                        ]
+                      },
+                      {
+                        "tag": "p",
+                        "attrs": {
+                          "class": "no-print aditional-links"
+                        },
+                        "children": [
+                          "\n        \n      "
+                        ]
+                      },
+                      "\n    "
+                    ]
+                  },
+                  "\n    ",
+                  {
+                    "tag": "div",
+                    "attrs": {
+                      "class": "col-xs-12 col-sm-8 col-md-9 col-print-12 content"
+                    },
+                    "children": [
+                      {
+                        "tag": "p",
+                        "attrs": {},
+                        "children": [
+                          {
+                            "tag": "strong",
+                            "attrs": {},
+                            "children": [
+                              "❏ 프로젝트 개요"
+                            ]
+                          }
+                        ]
+                      },
+                      "\n",
+                      {
+                        "tag": "ul",
+                        "attrs": {},
+                        "children": [
+                          "\n  ",
+                          {
+                            "tag": "li",
+                            "attrs": {},
+                            "children": [
+                              "개발, 공통 자원 관리, 유지보수 효율성 향상을 위한 FE 프로젝트 모노레포 구축"
+                            ]
+                          },
+                          "\n"
+                        ]
+                      },
+                      "\n\n",
+                      {
+                        "tag": "p",
+                        "attrs": {},
+                        "children": [
+                          {
+                            "tag": "strong",
+                            "attrs": {},
+                            "children": [
+                              "❏ 역할"
+                            ]
+                          }
+                        ]
+                      },
+                      "\n",
+                      {
+                        "tag": "ul",
+                        "attrs": {},
+                        "children": [
+                          "\n  ",
+                          {
+                            "tag": "li",
+                            "attrs": {},
+                            "children": [
+                              "npm workspace를 이용해 모노레포 구축"
+                            ]
+                          },
+                          "\n  ",
+                          {
+                            "tag": "li",
+                            "attrs": {},
+                            "children": [
+                              "FE 프로젝트 코드 이식 및 공통 자원 추출"
+                            ]
+                          },
+                          "\n  ",
+                          {
+                            "tag": "li",
+                            "attrs": {},
+                            "children": [
+                              "프로젝트별 배포 프로세스 설계 및 구축"
+                            ]
+                          },
+                          "\n"
+                        ]
+                      },
+                      "\n\n",
+                      {
+                        "tag": "p",
+                        "attrs": {},
+                        "children": [
+                          {
+                            "tag": "strong",
+                            "attrs": {},
+                            "children": [
+                              "❏ 사용 기술"
+                            ]
+                          }
+                        ]
+                      },
+                      "\n",
+                      {
+                        "tag": "ul",
+                        "attrs": {},
+                        "children": [
+                          "\n  ",
+                          {
+                            "tag": "li",
+                            "attrs": {},
+                            "children": [
+                              {
+                                "tag": "img",
+                                "attrs": {
+                                  "src": "https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=HTML5&logoColor=white",
+                                  "alt": "HTML5"
+                                },
+                                "children": []
+                              },
+                              "\n  ",
+                              {
+                                "tag": "img",
+                                "attrs": {
+                                  "src": "https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=CSS3&logoColor=white",
+                                  "alt": "CSS3"
+                                },
+                                "children": []
+                              },
+                              "\n  ",
+                              {
+                                "tag": "img",
+                                "attrs": {
+                                  "src": "https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=JavaScript&logoColor=black",
+                                  "alt": "JavaScript"
+                                },
+                                "children": []
+                              },
+                              "\n  ",
+                              {
+                                "tag": "img",
+                                "attrs": {
+                                  "src": "https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=TypeScript&logoColor=black",
+                                  "alt": "TypeScript"
+                                },
+                                "children": []
+                              }
+                            ]
+                          },
+                          "\n  ",
+                          {
+                            "tag": "li",
+                            "attrs": {},
+                            "children": [
+                              {
+                                "tag": "img",
+                                "attrs": {
+                                  "src": "https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=React&logoColor=black",
+                                  "alt": "React"
+                                },
+                                "children": []
+                              },
+                              "\n  ",
+                              {
+                                "tag": "img",
+                                "attrs": {
+                                  "src": "https://img.shields.io/badge/Next.js-000000?style=flat-square&logo=Next.js&logoColor=white",
+                                  "alt": "Next.js"
+                                },
+                                "children": []
+                              }
+                            ]
+                          },
+                          "\n  ",
+                          {
+                            "tag": "li",
+                            "attrs": {},
+                            "children": [
+                              {
+                                "tag": "img",
+                                "attrs": {
+                                  "src": "https://img.shields.io/badge/Redux-764ABC?style=flat-square&logo=Redux&logoColor=white",
+                                  "alt": "Redux"
+                                },
+                                "children": []
+                              },
+                              "\n  ",
+                              {
+                                "tag": "img",
+                                "attrs": {
+                                  "src": "https://img.shields.io/badge/Redux--Saga-999999?style=flat-square&logo=Redux-Saga&logoColor=white",
+                                  "alt": "Redux-Saga"
+                                },
+                                "children": []
+                              },
+                              "\n  ",
+                              {
+                                "tag": "img",
+                                "attrs": {
+                                  "src": "https://img.shields.io/badge/Redux--Toolkit-764ABC?style=flat-square&logo=Redux&logoColor=white",
+                                  "alt": "Redux-Toolkit"
+                                },
+                                "children": []
+                              },
+                              "\n  ",
+                              {
+                                "tag": "img",
+                                "attrs": {
+                                  "src": "https://img.shields.io/badge/zustand-ECD53F?style=flat-square&logo=Zustand&logoColor=white",
+                                  "alt": "zustand"
+                                },
+                                "children": []
+                              },
+                              "\n  ",
+                              {
+                                "tag": "img",
+                                "attrs": {
+                                  "src": "https://img.shields.io/badge/React--Query-FF4154?style=flat-square&logo=React-Query&logoColor=white",
+                                  "alt": "React-Query"
+                                },
+                                "children": []
+                              }
+                            ]
+                          },
+                          "\n  ",
+                          {
+                            "tag": "li",
+                            "attrs": {},
+                            "children": [
+                              {
+                                "tag": "img",
+                                "attrs": {
+                                  "src": "https://img.shields.io/badge/styled--components-DB7093?style=flat-square&logo=styled%20components&logoColor=white",
+                                  "alt": "styled-components"
+                                },
+                                "children": []
+                              },
+                              "\n  ",
+                              {
+                                "tag": "img",
+                                "attrs": {
+                                  "src": "https://img.shields.io/badge/ESLint-4B32C3?style=flat-square&logo=ESLint&logoColor=white",
+                                  "alt": "ESLint"
+                                },
+                                "children": []
+                              },
+                              "\n  ",
+                              {
+                                "tag": "img",
+                                "attrs": {
+                                  "src": "https://img.shields.io/badge/Prettier-F7B93E?style=flat-square&logo=Prettier&logoColor=white",
+                                  "alt": "Prettier"
+                                },
+                                "children": []
+                              }
+                            ]
+                          },
+                          "\n  ",
+                          {
+                            "tag": "li",
+                            "attrs": {},
+                            "children": [
+                              {
+                                "tag": "img",
+                                "attrs": {
+                                  "src": "https://img.shields.io/badge/npm-CB3837?style=flat-square&logo=npm&logoColor=white",
+                                  "alt": "npm"
+                                },
+                                "children": []
+                              },
+                              "\n  ",
+                              {
+                                "tag": "img",
+                                "attrs": {
+                                  "src": "https://img.shields.io/badge/npm--workspace-CB3837?style=flat-square&logo=npm&logoColor=white",
+                                  "alt": "npm-workspace"
+                                },
+                                "children": []
+                              },
+                              "\n  ",
+                              {
+                                "tag": "img",
+                                "attrs": {
+                                  "src": "https://img.shields.io/badge/NGINX-009639?style=flat-square&logo=nginx&logoColor=white",
+                                  "alt": "NGINX"
+                                },
+                                "children": []
+                              }
+                            ]
+                          },
+                          "\n"
+                        ]
+                      },
+                      "\n\n    "
+                    ]
+                  },
+                  "\n  "
+                ]
+              },
+              "\n\n  ",
+              {
+                "tag": "div",
+                "attrs": {
+                  "class": "row clearfix layout layout-left"
+                },
+                "children": [
+                  "\n    ",
+                  {
+                    "tag": "div",
+                    "attrs": {
+                      "class": "col-xs-12 col-sm-4 col-md-3 col-print-12 details"
+                    },
+                    "children": [
+                      "\n      ",
+                      {
+                        "tag": "h4",
+                        "attrs": {},
+                        "children": []
+                      },
+                      {
+                        "tag": "p",
+                        "attrs": {},
+                        "children": [
+                          {
+                            "tag": "b",
+                            "attrs": {},
+                            "children": [
+                              "다솜이와의 대화 체험 웹 App 개발",
+                              {
+                                "tag": "br",
+                                "attrs": {},
+                                "children": []
+                              }
+                            ]
+                          }
+                        ]
+                      },
+                      {
+                        "tag": "p",
+                        "attrs": {},
+                        "children": [
+                          "(주)원더풀플랫폼",
+                          {
+                            "tag": "br",
+                            "attrs": {},
+                            "children": []
+                          },
+                          "2023.10.23 ~ 2023.11.10"
+                        ]
+                      },
+                      {
+                        "tag": "p",
+                        "attrs": {
+                          "class": "no-print aditional-links"
+                        },
+                        "children": [
+                          "\n        \n      "
+                        ]
+                      },
+                      "\n    "
+                    ]
+                  },
+                  "\n    ",
+                  {
+                    "tag": "div",
+                    "attrs": {
+                      "class": "col-xs-12 col-sm-8 col-md-9 col-print-12 content"
+                    },
+                    "children": [
+                      {
+                        "tag": "p",
+                        "attrs": {},
+                        "children": [
+                          {
+                            "tag": "strong",
+                            "attrs": {},
+                            "children": [
+                              "❏ 프로젝트 개요"
+                            ]
+                          }
+                        ]
+                      },
+                      "\n",
+                      {
+                        "tag": "ul",
+                        "attrs": {},
+                        "children": [
+                          "\n  ",
+                          {
+                            "tag": "li",
+                            "attrs": {},
+                            "children": [
+                              "Chat GPT가 탑재된 AI 케어 로봇과의 대화를 체험할 수 있는 웹 App"
+                            ]
+                          },
+                          "\n"
+                        ]
+                      },
+                      "\n\n",
+                      {
+                        "tag": "p",
+                        "attrs": {},
+                        "children": [
+                          {
+                            "tag": "strong",
+                            "attrs": {},
+                            "children": [
+                              "❏ 역할"
+                            ]
+                          }
+                        ]
+                      },
+                      "\n",
+                      {
+                        "tag": "ul",
+                        "attrs": {},
+                        "children": [
+                          "\n  ",
+                          {
+                            "tag": "li",
+                            "attrs": {},
+                            "children": [
+                              "AI 케어 로봇과의 대화를 체험할 수 있는 웹 App 개발"
+                            ]
+                          },
+                          "\n  ",
+                          {
+                            "tag": "li",
+                            "attrs": {},
+                            "children": [
+                              "다솜이와의 대화 체험 웹 App Front-End 빌드 및 배포"
+                            ]
+                          },
+                          "\n"
+                        ]
+                      },
+                      "\n\n",
+                      {
+                        "tag": "p",
+                        "attrs": {},
+                        "children": [
+                          {
+                            "tag": "strong",
+                            "attrs": {},
+                            "children": [
+                              "❏ 사용 기술"
+                            ]
+                          }
+                        ]
+                      },
+                      "\n",
+                      {
+                        "tag": "ul",
+                        "attrs": {},
+                        "children": [
+                          "\n  ",
+                          {
+                            "tag": "li",
+                            "attrs": {},
+                            "children": [
+                              {
+                                "tag": "img",
+                                "attrs": {
+                                  "src": "https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=HTML5&logoColor=white",
+                                  "alt": "HTML5"
+                                },
+                                "children": []
+                              },
+                              "\n  ",
+                              {
+                                "tag": "img",
+                                "attrs": {
+                                  "src": "https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=CSS3&logoColor=white",
+                                  "alt": "CSS3"
+                                },
+                                "children": []
+                              },
+                              "\n  ",
+                              {
+                                "tag": "img",
+                                "attrs": {
+                                  "src": "https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=JavaScript&logoColor=black",
+                                  "alt": "JavaScript"
+                                },
+                                "children": []
+                              },
+                              "\n  ",
+                              {
+                                "tag": "img",
+                                "attrs": {
+                                  "src": "https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=TypeScript&logoColor=black",
+                                  "alt": "TypeScript"
+                                },
+                                "children": []
+                              }
+                            ]
+                          },
+                          "\n  ",
+                          {
+                            "tag": "li",
+                            "attrs": {},
+                            "children": [
+                              {
+                                "tag": "img",
+                                "attrs": {
+                                  "src": "https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=React&logoColor=black",
+                                  "alt": "React"
+                                },
+                                "children": []
+                              },
+                              "\n  ",
+                              {
+                                "tag": "img",
+                                "attrs": {
+                                  "src": "https://img.shields.io/badge/Next.js-000000?style=flat-square&logo=Next.js&logoColor=white",
+                                  "alt": "Next.js"
+                                },
+                                "children": []
+                              },
+                              "\n  ",
+                              {
+                                "tag": "img",
+                                "attrs": {
+                                  "src": "https://img.shields.io/badge/Redux-764ABC?style=flat-square&logo=Redux&logoColor=white",
+                                  "alt": "Redux"
+                                },
+                                "children": []
+                              },
+                              "\n  ",
+                              {
+                                "tag": "img",
+                                "attrs": {
+                                  "src": "https://img.shields.io/badge/Redux--Saga-999999?style=flat-square&logo=Redux-Saga&logoColor=white",
+                                  "alt": "Redux-Saga"
+                                },
+                                "children": []
+                              }
+                            ]
+                          },
+                          "\n  ",
+                          {
+                            "tag": "li",
+                            "attrs": {},
+                            "children": [
+                              {
+                                "tag": "img",
+                                "attrs": {
+                                  "src": "https://img.shields.io/badge/styled--components-DB7093?style=flat-square&logo=styled%20components&logoColor=white",
+                                  "alt": "styled-components"
+                                },
+                                "children": []
+                              },
+                              "\n  ",
+                              {
+                                "tag": "img",
+                                "attrs": {
+                                  "src": "https://img.shields.io/badge/ESLint-4B32C3?style=flat-square&logo=ESLint&logoColor=white",
+                                  "alt": "ESLint"
+                                },
+                                "children": []
+                              },
+                              "\n  ",
+                              {
+                                "tag": "img",
+                                "attrs": {
+                                  "src": "https://img.shields.io/badge/Prettier-F7B93E?style=flat-square&logo=Prettier&logoColor=white",
+                                  "alt": "Prettier"
+                                },
+                                "children": []
+                              }
+                            ]
+                          },
+                          "\n  ",
+                          {
+                            "tag": "li",
+                            "attrs": {},
+                            "children": [
+                              {
+                                "tag": "img",
+                                "attrs": {
+                                  "src": "https://img.shields.io/badge/npm-CB3837?style=flat-square&logo=npm&logoColor=white",
+                                  "alt": "npm"
+                                },
+                                "children": []
+                              },
+                              "\n  ",
+                              {
+                                "tag": "img",
+                                "attrs": {
+                                  "src": "https://img.shields.io/badge/NGINX-009639?style=flat-square&logo=nginx&logoColor=white",
+                                  "alt": "NGINX"
+                                },
+                                "children": []
+                              }
+                            ]
+                          },
+                          "\n"
+                        ]
+                      },
+                      "\n\n    "
+                    ]
+                  },
+                  "\n  "
+                ]
+              },
+              "\n\n  ",
+              {
+                "tag": "div",
+                "attrs": {
+                  "class": "row clearfix layout layout-left"
+                },
+                "children": [
+                  "\n    ",
+                  {
+                    "tag": "div",
+                    "attrs": {
+                      "class": "col-xs-12 col-sm-4 col-md-3 col-print-12 details"
+                    },
+                    "children": [
+                      "\n      ",
+                      {
+                        "tag": "h4",
+                        "attrs": {},
+                        "children": []
+                      },
+                      {
+                        "tag": "p",
+                        "attrs": {},
+                        "children": [
+                          {
+                            "tag": "b",
+                            "attrs": {},
+                            "children": [
+                              "관리자 대시보드(산소치료기기 사용자) 개발",
+                              {
+                                "tag": "br",
+                                "attrs": {},
+                                "children": []
+                              }
+                            ]
+                          }
+                        ]
+                      },
+                      {
+                        "tag": "p",
+                        "attrs": {},
+                        "children": [
+                          "(주)원더풀플랫폼",
+                          {
+                            "tag": "br",
+                            "attrs": {},
+                            "children": []
+                          },
+                          "2023.07.26 ~ 2025.04.02"
+                        ]
+                      },
+                      {
+                        "tag": "p",
+                        "attrs": {
+                          "class": "no-print aditional-links"
+                        },
+                        "children": [
+                          "\n        \n      "
+                        ]
+                      },
+                      "\n    "
+                    ]
+                  },
+                  "\n    ",
+                  {
+                    "tag": "div",
+                    "attrs": {
+                      "class": "col-xs-12 col-sm-8 col-md-9 col-print-12 content"
+                    },
+                    "children": [
+                      {
+                        "tag": "p",
+                        "attrs": {},
+                        "children": [
+                          {
+                            "tag": "strong",
+                            "attrs": {},
+                            "children": [
+                              "❏ 프로젝트 개요"
+                            ]
+                          }
+                        ]
+                      },
+                      "\n",
+                      {
+                        "tag": "ul",
+                        "attrs": {},
+                        "children": [
+                          "\n  ",
+                          {
+                            "tag": "li",
+                            "attrs": {},
+                            "children": [
+                              "산소치료기기 사용자 관리 및 데이터 조회를 위한 대시보드  (서비스 종료)"
+                            ]
+                          },
+                          "\n  ",
+                          {
+                            "tag": "li",
+                            "attrs": {},
+                            "children": [
+                              "환자 데이터 조회, 영상통화, 통계 데이터 조회, 공지사항 발송 등 서비스 제공"
+                            ]
+                          },
+                          "\n  ",
+                          {
+                            "tag": "li",
+                            "attrs": {},
+                            "children": [
+                              "환자와 로봇 간 연동 상태 관리"
+                            ]
+                          },
+                          "\n"
+                        ]
+                      },
+                      "\n\n",
+                      {
+                        "tag": "p",
+                        "attrs": {},
+                        "children": [
+                          {
+                            "tag": "strong",
+                            "attrs": {},
+                            "children": [
+                              "❏ 역할"
+                            ]
+                          }
+                        ]
+                      },
+                      "\n",
+                      {
+                        "tag": "ul",
+                        "attrs": {},
+                        "children": [
+                          "\n  ",
+                          {
+                            "tag": "li",
+                            "attrs": {},
+                            "children": [
+                              "환자(AI 케어 로봇 사용)를 관리하고 관련 데이터를 조회할 수 있는 관리자 대시보드 개발"
+                            ]
+                          },
+                          "\n  ",
+                          {
+                            "tag": "li",
+                            "attrs": {},
+                            "children": [
+                              "전용 보호자 App WebView - 홈 탭 개발 : 환자 상세 정보 및 라이프로그 데이터 조회"
+                            ]
+                          },
+                          "\n  ",
+                          {
+                            "tag": "li",
+                            "attrs": {},
+                            "children": [
+                              "전용 보호자 App WebView - 건강관리 탭 개발 : 산소 치료 및 헬스케어 기기 사용 경과 조회"
+                            ]
+                          },
+                          "\n  ",
+                          {
+                            "tag": "li",
+                            "attrs": {},
+                            "children": [
+                              "‘관리자 대시보드(산소치료기기 사용자) & 전용 보호자 App WebView’ Front-End 빌드 및 배포"
+                            ]
+                          },
+                          "\n  ",
+                          {
+                            "tag": "li",
+                            "attrs": {},
+                            "children": [
+                              "Zeplin을 바탕으로 디자이너와의 소통을 통해 UX 디자인 참여"
+                            ]
+                          },
+                          "\n  ",
+                          {
+                            "tag": "li",
+                            "attrs": {},
+                            "children": [
+                              "Figma를 바탕으로 추가 기획 단계에 참여"
+                            ]
+                          },
+                          "\n  ",
+                          {
+                            "tag": "li",
+                            "attrs": {},
+                            "children": [
+                              "전역 상태관리 방식 변경 (Redux > Zustand)"
+                            ]
+                          },
+                          "\n  ",
+                          {
+                            "tag": "li",
+                            "attrs": {},
+                            "children": [
+                              "Redux-Saga 비동기 처리 구조 제거 & React-Query 기반 서버 상태 관리 구조로 마이그레이션"
+                            ]
+                          },
+                          "\n"
+                        ]
+                      },
+                      "\n\n",
+                      {
+                        "tag": "p",
+                        "attrs": {},
+                        "children": [
+                          {
+                            "tag": "strong",
+                            "attrs": {},
+                            "children": [
+                              "❏ 사용 기술"
+                            ]
+                          }
+                        ]
+                      },
+                      "\n",
+                      {
+                        "tag": "ul",
+                        "attrs": {},
+                        "children": [
+                          "\n  ",
+                          {
+                            "tag": "li",
+                            "attrs": {},
+                            "children": [
+                              {
+                                "tag": "img",
+                                "attrs": {
+                                  "src": "https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=HTML5&logoColor=white",
+                                  "alt": "HTML5"
+                                },
+                                "children": []
+                              },
+                              "\n  ",
+                              {
+                                "tag": "img",
+                                "attrs": {
+                                  "src": "https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=CSS3&logoColor=white",
+                                  "alt": "CSS3"
+                                },
+                                "children": []
+                              },
+                              "\n  ",
+                              {
+                                "tag": "img",
+                                "attrs": {
+                                  "src": "https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=JavaScript&logoColor=black",
+                                  "alt": "JavaScript"
+                                },
+                                "children": []
+                              },
+                              "\n  ",
+                              {
+                                "tag": "img",
+                                "attrs": {
+                                  "src": "https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=TypeScript&logoColor=black",
+                                  "alt": "TypeScript"
+                                },
+                                "children": []
+                              }
+                            ]
+                          },
+                          "\n  ",
+                          {
+                            "tag": "li",
+                            "attrs": {},
+                            "children": [
+                              {
+                                "tag": "img",
+                                "attrs": {
+                                  "src": "https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=React&logoColor=black",
+                                  "alt": "React"
+                                },
+                                "children": []
+                              },
+                              "\n  ",
+                              {
+                                "tag": "img",
+                                "attrs": {
+                                  "src": "https://img.shields.io/badge/Next.js-000000?style=flat-square&logo=Next.js&logoColor=white",
+                                  "alt": "Next.js"
+                                },
+                                "children": []
+                              },
+                              "\n  ",
+                              {
+                                "tag": "img",
+                                "attrs": {
+                                  "src": "https://img.shields.io/badge/zustand-ECD53F?style=flat-square&logo=Zustand&logoColor=white",
+                                  "alt": "zustand"
+                                },
+                                "children": []
+                              },
+                              "\n  ",
+                              {
+                                "tag": "img",
+                                "attrs": {
+                                  "src": "https://img.shields.io/badge/React--Query-FF4154?style=flat-square&logo=React-Query&logoColor=white",
+                                  "alt": "React-Query"
+                                },
+                                "children": []
+                              }
+                            ]
+                          },
+                          "\n  ",
+                          {
+                            "tag": "li",
+                            "attrs": {},
+                            "children": [
+                              {
+                                "tag": "img",
+                                "attrs": {
+                                  "src": "https://img.shields.io/badge/styled--components-DB7093?style=flat-square&logo=styled%20components&logoColor=white",
+                                  "alt": "styled-components"
+                                },
+                                "children": []
+                              },
+                              "\n  ",
+                              {
+                                "tag": "img",
+                                "attrs": {
+                                  "src": "https://img.shields.io/badge/Material--UI-0081CB?style=flat-square&logo=mui&logoColor=white",
+                                  "alt": "Material-UI"
+                                },
+                                "children": []
+                              },
+                              "\n  ",
+                              {
+                                "tag": "img",
+                                "attrs": {
+                                  "src": "https://img.shields.io/badge/ESLint-4B32C3?style=flat-square&logo=ESLint&logoColor=white",
+                                  "alt": "ESLint"
+                                },
+                                "children": []
+                              },
+                              "\n  ",
+                              {
+                                "tag": "img",
+                                "attrs": {
+                                  "src": "https://img.shields.io/badge/Prettier-F7B93E?style=flat-square&logo=Prettier&logoColor=white",
+                                  "alt": "Prettier"
+                                },
+                                "children": []
+                              }
+                            ]
+                          },
+                          "\n  ",
+                          {
+                            "tag": "li",
+                            "attrs": {},
+                            "children": [
+                              {
+                                "tag": "img",
+                                "attrs": {
+                                  "src": "https://img.shields.io/badge/npm-CB3837?style=flat-square&logo=npm&logoColor=white",
+                                  "alt": "npm"
+                                },
+                                "children": []
+                              },
+                              "\n  ",
+                              {
+                                "tag": "img",
+                                "attrs": {
+                                  "src": "https://img.shields.io/badge/NGINX-009639?style=flat-square&logo=nginx&logoColor=white",
+                                  "alt": "NGINX"
+                                },
+                                "children": []
+                              }
+                            ]
+                          },
+                          "\n"
+                        ]
+                      },
+                      "\n\n    "
+                    ]
+                  },
+                  "\n  "
+                ]
+              },
+              "\n\n  ",
+              {
+                "tag": "div",
+                "attrs": {
+                  "class": "row clearfix layout layout-left"
+                },
+                "children": [
+                  "\n    ",
+                  {
+                    "tag": "div",
+                    "attrs": {
+                      "class": "col-xs-12 col-sm-4 col-md-3 col-print-12 details"
+                    },
+                    "children": [
+                      "\n      ",
+                      {
+                        "tag": "h4",
+                        "attrs": {},
+                        "children": []
+                      },
+                      {
+                        "tag": "p",
+                        "attrs": {},
+                        "children": [
+                          {
+                            "tag": "b",
+                            "attrs": {},
+                            "children": [
+                              "원더풀플랫폼 홈페이지 개발",
+                              {
+                                "tag": "br",
+                                "attrs": {},
+                                "children": []
+                              }
+                            ]
+                          }
+                        ]
+                      },
+                      {
+                        "tag": "p",
+                        "attrs": {},
+                        "children": [
+                          "(주)원더풀플랫폼",
+                          {
+                            "tag": "br",
+                            "attrs": {},
+                            "children": []
+                          },
+                          "2022.01.04 ~ 현재"
+                        ]
+                      },
+                      {
+                        "tag": "p",
+                        "attrs": {
+                          "class": "no-print aditional-links"
+                        },
+                        "children": [
+                          "\n        \n      "
+                        ]
+                      },
+                      "\n    "
+                    ]
+                  },
+                  "\n    ",
+                  {
+                    "tag": "div",
+                    "attrs": {
+                      "class": "col-xs-12 col-sm-8 col-md-9 col-print-12 content"
+                    },
+                    "children": [
+                      {
+                        "tag": "p",
+                        "attrs": {},
+                        "children": [
+                          {
+                            "tag": "strong",
+                            "attrs": {},
+                            "children": [
+                              "❏ 프로젝트 개요"
+                            ]
+                          }
+                        ]
+                      },
+                      "\n",
+                      {
+                        "tag": "ul",
+                        "attrs": {},
+                        "children": [
+                          "\n  ",
+                          {
+                            "tag": "li",
+                            "attrs": {},
+                            "children": [
+                              "회사 관련 정보 및 새 소식을 전달하고, 상용화 중인 제품과 서비스를 안내하는 홈페이지"
+                            ]
+                          },
+                          "\n"
+                        ]
+                      },
+                      "\n\n",
+                      {
+                        "tag": "p",
+                        "attrs": {},
+                        "children": [
+                          {
+                            "tag": "strong",
+                            "attrs": {},
+                            "children": [
+                              "❏ 역할"
+                            ]
+                          }
+                        ]
+                      },
+                      "\n",
+                      {
+                        "tag": "ul",
+                        "attrs": {},
+                        "children": [
+                          "\n  ",
+                          {
+                            "tag": "li",
+                            "attrs": {},
+                            "children": [
+                              "회사 홈페이지 개발"
+                            ]
+                          },
+                          "\n  ",
+                          {
+                            "tag": "li",
+                            "attrs": {},
+                            "children": [
+                              "커밋 전 유닛 테스트 과정 추가"
+                            ]
+                          },
+                          "\n  ",
+                          {
+                            "tag": "li",
+                            "attrs": {},
+                            "children": [
+                              "홈페이지 Front-End 빌드 및 배포"
+                            ]
+                          },
+                          "\n  ",
+                          {
+                            "tag": "li",
+                            "attrs": {},
+                            "children": [
+                              "Naver SEO 설정"
+                            ]
+                          },
+                          "\n"
+                        ]
+                      },
+                      "\n\n",
+                      {
+                        "tag": "p",
+                        "attrs": {},
+                        "children": [
+                          {
+                            "tag": "strong",
+                            "attrs": {},
+                            "children": [
+                              "❏ 사용 기술"
+                            ]
+                          }
+                        ]
+                      },
+                      "\n",
+                      {
+                        "tag": "ul",
+                        "attrs": {},
+                        "children": [
+                          "\n  ",
+                          {
+                            "tag": "li",
+                            "attrs": {},
+                            "children": [
+                              {
+                                "tag": "img",
+                                "attrs": {
+                                  "src": "https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=HTML5&logoColor=white",
+                                  "alt": "HTML5"
+                                },
+                                "children": []
+                              },
+                              "\n  ",
+                              {
+                                "tag": "img",
+                                "attrs": {
+                                  "src": "https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=CSS3&logoColor=white",
+                                  "alt": "CSS3"
+                                },
+                                "children": []
+                              },
+                              "\n  ",
+                              {
+                                "tag": "img",
+                                "attrs": {
+                                  "src": "https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=JavaScript&logoColor=black",
+                                  "alt": "JavaScript"
+                                },
+                                "children": []
+                              },
+                              "\n  ",
+                              {
+                                "tag": "img",
+                                "attrs": {
+                                  "src": "https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=TypeScript&logoColor=black",
+                                  "alt": "TypeScript"
+                                },
+                                "children": []
+                              }
+                            ]
+                          },
+                          "\n  ",
+                          {
+                            "tag": "li",
+                            "attrs": {},
+                            "children": [
+                              {
+                                "tag": "img",
+                                "attrs": {
+                                  "src": "https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=React&logoColor=black",
+                                  "alt": "React"
+                                },
+                                "children": []
+                              },
+                              "\n  ",
+                              {
+                                "tag": "img",
+                                "attrs": {
+                                  "src": "https://img.shields.io/badge/Next.js-000000?style=flat-square&logo=Next.js&logoColor=white",
+                                  "alt": "Next.js"
+                                },
+                                "children": []
+                              },
+                              "\n  ",
+                              {
+                                "tag": "img",
+                                "attrs": {
+                                  "src": "https://img.shields.io/badge/Redux-764ABC?style=flat-square&logo=Redux&logoColor=white",
+                                  "alt": "Redux"
+                                },
+                                "children": []
+                              },
+                              "\n  ",
+                              {
+                                "tag": "img",
+                                "attrs": {
+                                  "src": "https://img.shields.io/badge/Redux--Saga-999999?style=flat-square&logo=Redux-Saga&logoColor=white",
+                                  "alt": "Redux-Saga"
+                                },
+                                "children": []
+                              }
+                            ]
+                          },
+                          "\n  ",
+                          {
+                            "tag": "li",
+                            "attrs": {},
+                            "children": [
+                              {
+                                "tag": "img",
+                                "attrs": {
+                                  "src": "https://img.shields.io/badge/Jest-C21325?style=flat-square&logo=Jest&logoColor=white",
+                                  "alt": "Jest"
+                                },
+                                "children": []
+                              },
+                              "\n  ",
+                              {
+                                "tag": "img",
+                                "attrs": {
+                                  "src": "https://img.shields.io/badge/Testing%20Library-E33332?style=flat-square&logo=Testing%20Library&logoColor=white",
+                                  "alt": "Testing Library"
+                                },
+                                "children": []
+                              }
+                            ]
+                          },
+                          "\n  ",
+                          {
+                            "tag": "li",
+                            "attrs": {},
+                            "children": [
+                              {
+                                "tag": "img",
+                                "attrs": {
+                                  "src": "https://img.shields.io/badge/styled--components-DB7093?style=flat-square&logo=styled%20components&logoColor=white",
+                                  "alt": "styled-components"
+                                },
+                                "children": []
+                              },
+                              "\n  ",
+                              {
+                                "tag": "img",
+                                "attrs": {
+                                  "src": "https://img.shields.io/badge/Material--UI-0081CB?style=flat-square&logo=mui&logoColor=white",
+                                  "alt": "Material-UI"
+                                },
+                                "children": []
+                              },
+                              "\n  ",
+                              {
+                                "tag": "img",
+                                "attrs": {
+                                  "src": "https://img.shields.io/badge/ESLint-4B32C3?style=flat-square&logo=ESLint&logoColor=white",
+                                  "alt": "ESLint"
+                                },
+                                "children": []
+                              },
+                              "\n  ",
+                              {
+                                "tag": "img",
+                                "attrs": {
+                                  "src": "https://img.shields.io/badge/Prettier-F7B93E?style=flat-square&logo=Prettier&logoColor=white",
+                                  "alt": "Prettier"
+                                },
+                                "children": []
+                              }
+                            ]
+                          },
+                          "\n  ",
+                          {
+                            "tag": "li",
+                            "attrs": {},
+                            "children": [
+                              {
+                                "tag": "img",
+                                "attrs": {
+                                  "src": "https://img.shields.io/badge/npm-CB3837?style=flat-square&logo=npm&logoColor=white",
+                                  "alt": "npm"
+                                },
+                                "children": []
+                              },
+                              "\n  ",
+                              {
+                                "tag": "img",
+                                "attrs": {
+                                  "src": "https://img.shields.io/badge/NGINX-009639?style=flat-square&logo=nginx&logoColor=white",
+                                  "alt": "NGINX"
+                                },
+                                "children": []
+                              }
+                            ]
+                          },
+                          "\n"
+                        ]
+                      },
+                      "\n\n    "
+                    ]
+                  },
+                  "\n  "
+                ]
+              },
+              "\n\n  ",
+              {
+                "tag": "div",
+                "attrs": {
+                  "class": "row clearfix layout layout-left"
+                },
+                "children": [
+                  "\n    ",
+                  {
+                    "tag": "div",
+                    "attrs": {
+                      "class": "col-xs-12 col-sm-4 col-md-3 col-print-12 details"
+                    },
+                    "children": [
+                      "\n      ",
+                      {
+                        "tag": "h4",
+                        "attrs": {},
+                        "children": []
+                      },
+                      {
+                        "tag": "p",
+                        "attrs": {},
+                        "children": [
+                          {
+                            "tag": "b",
+                            "attrs": {},
+                            "children": [
+                              "관리자 대시보드(국내 지자체) 개발",
+                              {
+                                "tag": "br",
+                                "attrs": {},
+                                "children": []
+                              }
+                            ]
+                          }
+                        ]
+                      },
+                      {
+                        "tag": "p",
+                        "attrs": {},
+                        "children": [
+                          "(주)원더풀플랫폼",
+                          {
+                            "tag": "br",
+                            "attrs": {},
+                            "children": []
+                          },
+                          "2021.11.04 ~ 현재"
+                        ]
+                      },
+                      {
+                        "tag": "p",
+                        "attrs": {
+                          "class": "no-print aditional-links"
+                        },
+                        "children": [
+                          "\n        \n      "
+                        ]
+                      },
+                      "\n    "
+                    ]
+                  },
+                  "\n    ",
+                  {
+                    "tag": "div",
+                    "attrs": {
+                      "class": "col-xs-12 col-sm-8 col-md-9 col-print-12 content"
+                    },
+                    "children": [
+                      {
+                        "tag": "p",
+                        "attrs": {},
+                        "children": [
+                          {
+                            "tag": "strong",
+                            "attrs": {},
+                            "children": [
+                              "❏ 프로젝트 개요"
+                            ]
+                          }
+                        ]
+                      },
+                      "\n",
+                      {
+                        "tag": "ul",
+                        "attrs": {},
+                        "children": [
+                          "\n  ",
+                          {
+                            "tag": "li",
+                            "attrs": {},
+                            "children": [
+                              "특정 지자체 내 어르신 관리 및 데이터 조회를 위한 대시보드"
+                            ]
+                          },
+                          "\n  ",
+                          {
+                            "tag": "li",
+                            "attrs": {},
+                            "children": [
+                              "어르신 데이터 조회, 영상통화, 통계 데이터 조회, 공지사항 발송, 긴급상황 모니터링 등 서비스 제공"
+                            ]
+                          },
+                          "\n  ",
+                          {
+                            "tag": "li",
+                            "attrs": {},
+                            "children": [
+                              "스마트경로당 사업을 추진 중인 지자체의 콘텐츠 관리"
+                            ]
+                          },
+                          "\n"
+                        ]
+                      },
+                      "\n\n",
+                      {
+                        "tag": "p",
+                        "attrs": {},
+                        "children": [
+                          {
+                            "tag": "strong",
+                            "attrs": {},
+                            "children": [
+                              "❏ 역할"
+                            ]
+                          }
+                        ]
+                      },
+                      "\n",
+                      {
+                        "tag": "ul",
+                        "attrs": {},
+                        "children": [
+                          "\n  ",
+                          {
+                            "tag": "li",
+                            "attrs": {},
+                            "children": [
+                              "특정 지자체 내 어르신(AI 케어 로봇/케어 App)을 관리하고 관련 데이터를 조회할 수 있는 관리자 대시보드 개발"
+                            ]
+                          },
+                          "\n  ",
+                          {
+                            "tag": "li",
+                            "attrs": {},
+                            "children": [
+                              "관리자 대시보드(국내 지자체) Front-End 빌드 및 배포"
+                            ]
+                          },
+                          "\n  ",
+                          {
+                            "tag": "li",
+                            "attrs": {},
+                            "children": [
+                              "Zeplin을 바탕으로 디자이너와의 소통을 통해 UX 디자인 참여"
+                            ]
+                          },
+                          "\n  ",
+                          {
+                            "tag": "li",
+                            "attrs": {},
+                            "children": [
+                              "Figma를 바탕으로 추가 기획 단계에 참여"
+                            ]
+                          },
+                          "\n"
+                        ]
+                      },
+                      "\n\n",
+                      {
+                        "tag": "p",
+                        "attrs": {},
+                        "children": [
+                          {
+                            "tag": "strong",
+                            "attrs": {},
+                            "children": [
+                              "❏ 사용 기술"
+                            ]
+                          }
+                        ]
+                      },
+                      "\n",
+                      {
+                        "tag": "ul",
+                        "attrs": {},
+                        "children": [
+                          "\n  ",
+                          {
+                            "tag": "li",
+                            "attrs": {},
+                            "children": [
+                              {
+                                "tag": "img",
+                                "attrs": {
+                                  "src": "https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=HTML5&logoColor=white",
+                                  "alt": "HTML5"
+                                },
+                                "children": []
+                              },
+                              "\n  ",
+                              {
+                                "tag": "img",
+                                "attrs": {
+                                  "src": "https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=CSS3&logoColor=white",
+                                  "alt": "CSS3"
+                                },
+                                "children": []
+                              },
+                              "\n  ",
+                              {
+                                "tag": "img",
+                                "attrs": {
+                                  "src": "https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=JavaScript&logoColor=black",
+                                  "alt": "JavaScript"
+                                },
+                                "children": []
+                              },
+                              "\n  ",
+                              {
+                                "tag": "img",
+                                "attrs": {
+                                  "src": "https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=TypeScript&logoColor=black",
+                                  "alt": "TypeScript"
+                                },
+                                "children": []
+                              }
+                            ]
+                          },
+                          "\n  ",
+                          {
+                            "tag": "li",
+                            "attrs": {},
+                            "children": [
+                              {
+                                "tag": "img",
+                                "attrs": {
+                                  "src": "https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=React&logoColor=black",
+                                  "alt": "React"
+                                },
+                                "children": []
+                              },
+                              "\n  ",
+                              {
+                                "tag": "img",
+                                "attrs": {
+                                  "src": "https://img.shields.io/badge/Next.js-000000?style=flat-square&logo=Next.js&logoColor=white",
+                                  "alt": "Next.js"
+                                },
+                                "children": []
+                              },
+                              "\n  ",
+                              {
+                                "tag": "img",
+                                "attrs": {
+                                  "src": "https://img.shields.io/badge/Redux--Toolkit-764ABC?style=flat-square&logo=Redux&logoColor=white",
+                                  "alt": "Redux-Toolkit"
+                                },
+                                "children": []
+                              },
+                              "\n  ",
+                              {
+                                "tag": "img",
+                                "attrs": {
+                                  "src": "https://img.shields.io/badge/Redux--Saga-999999?style=flat-square&logo=Redux-Saga&logoColor=white",
+                                  "alt": "Redux-Saga"
+                                },
+                                "children": []
+                              }
+                            ]
+                          },
+                          "\n  ",
+                          {
+                            "tag": "li",
+                            "attrs": {},
+                            "children": [
+                              {
+                                "tag": "img",
+                                "attrs": {
+                                  "src": "https://img.shields.io/badge/styled--components-DB7093?style=flat-square&logo=styled%20components&logoColor=white",
+                                  "alt": "styled-components"
+                                },
+                                "children": []
+                              },
+                              "\n  ",
+                              {
+                                "tag": "img",
+                                "attrs": {
+                                  "src": "https://img.shields.io/badge/Material--UI-0081CB?style=flat-square&logo=mui&logoColor=white",
+                                  "alt": "Material-UI"
+                                },
+                                "children": []
+                              },
+                              "\n  ",
+                              {
+                                "tag": "img",
+                                "attrs": {
+                                  "src": "https://img.shields.io/badge/ESLint-4B32C3?style=flat-square&logo=ESLint&logoColor=white",
+                                  "alt": "ESLint"
+                                },
+                                "children": []
+                              },
+                              "\n  ",
+                              {
+                                "tag": "img",
+                                "attrs": {
+                                  "src": "https://img.shields.io/badge/Prettier-F7B93E?style=flat-square&logo=Prettier&logoColor=white",
+                                  "alt": "Prettier"
+                                },
+                                "children": []
+                              }
+                            ]
+                          },
+                          "\n  ",
+                          {
+                            "tag": "li",
+                            "attrs": {},
+                            "children": [
+                              {
+                                "tag": "img",
+                                "attrs": {
+                                  "src": "https://img.shields.io/badge/npm-CB3837?style=flat-square&logo=npm&logoColor=white",
+                                  "alt": "npm"
+                                },
+                                "children": []
+                              },
+                              "\n  ",
+                              {
+                                "tag": "img",
+                                "attrs": {
+                                  "src": "https://img.shields.io/badge/NGINX-009639?style=flat-square&logo=nginx&logoColor=white",
+                                  "alt": "NGINX"
+                                },
+                                "children": []
+                              }
+                            ]
+                          },
+                          "\n"
+                        ]
+                      },
+                      "\n\n    "
+                    ]
+                  },
+                  "\n  "
+                ]
+              },
+              "\n\n  ",
+              {
+                "tag": "div",
+                "attrs": {
+                  "class": "row clearfix layout layout-left"
+                },
+                "children": [
+                  "\n    ",
+                  {
+                    "tag": "div",
+                    "attrs": {
+                      "class": "col-xs-12 col-sm-4 col-md-3 col-print-12 details"
+                    },
+                    "children": [
+                      "\n      ",
+                      {
+                        "tag": "h4",
+                        "attrs": {},
+                        "children": []
+                      },
+                      {
+                        "tag": "p",
+                        "attrs": {},
+                        "children": [
+                          {
+                            "tag": "b",
+                            "attrs": {},
+                            "children": [
+                              "다솜 보호자 App WebView 개발",
+                              {
+                                "tag": "br",
+                                "attrs": {},
+                                "children": []
+                              }
+                            ]
+                          }
+                        ]
+                      },
+                      {
+                        "tag": "p",
+                        "attrs": {},
+                        "children": [
+                          "(주)원더풀플랫폼",
+                          {
+                            "tag": "br",
+                            "attrs": {},
+                            "children": []
+                          },
+                          "2021.06.24 ~ 현재"
+                        ]
+                      },
+                      {
+                        "tag": "p",
+                        "attrs": {
+                          "class": "no-print aditional-links"
+                        },
+                        "children": [
+                          "\n        \n      "
+                        ]
+                      },
+                      "\n    "
+                    ]
+                  },
+                  "\n    ",
+                  {
+                    "tag": "div",
+                    "attrs": {
+                      "class": "col-xs-12 col-sm-8 col-md-9 col-print-12 content"
+                    },
+                    "children": [
+                      {
+                        "tag": "p",
+                        "attrs": {},
+                        "children": [
+                          {
+                            "tag": "strong",
+                            "attrs": {},
+                            "children": [
+                              "❏ 프로젝트 개요"
+                            ]
+                          }
+                        ]
+                      },
+                      "\n",
+                      {
+                        "tag": "ul",
+                        "attrs": {},
+                        "children": [
+                          "\n  ",
+                          {
+                            "tag": "li",
+                            "attrs": {},
+                            "children": [
+                              "‘보호자/지자체 내 관리자’에게 피보호자 관리를 위한 다양한 서비스를 제공하는 애플리케이션"
+                            ]
+                          },
+                          "\n  ",
+                          {
+                            "tag": "li",
+                            "attrs": {},
+                            "children": [
+                              "말벗 히스토리 조회, 영상통화, 메신저, 복약/일정 알림 설정, 긴급상황 모니터링 등 서비스 제공"
+                            ]
+                          },
+                          "\n"
+                        ]
+                      },
+                      "\n\n",
+                      {
+                        "tag": "p",
+                        "attrs": {},
+                        "children": [
+                          {
+                            "tag": "strong",
+                            "attrs": {},
+                            "children": [
+                              "❏ 역할"
+                            ]
+                          }
+                        ]
+                      },
+                      "\n",
+                      {
+                        "tag": "ul",
+                        "attrs": {},
+                        "children": [
+                          "\n  ",
+                          {
+                            "tag": "li",
+                            "attrs": {},
+                            "children": [
+                              "홈 탭 개발 : 날짜 별 피보호자의 데이터 조회"
+                            ]
+                          },
+                          "\n  ",
+                          {
+                            "tag": "li",
+                            "attrs": {},
+                            "children": [
+                              "건강관리 탭 개발 : 연동된 여러 기기로 측정된 피보호자의 헬스케어 데이터 조회"
+                            ]
+                          },
+                          "\n  ",
+                          {
+                            "tag": "li",
+                            "attrs": {},
+                            "children": [
+                              "혈당측정자 전용 화면 개발 : 타임라인 별 피보호자의 헬스케어 데이터 조회"
+                            ]
+                          },
+                          "\n  ",
+                          {
+                            "tag": "li",
+                            "attrs": {},
+                            "children": [
+                              "케비 보호자 App WebView Front-End 빌드 및 배포"
+                            ]
+                          },
+                          "\n  ",
+                          {
+                            "tag": "li",
+                            "attrs": {},
+                            "children": [
+                              "Zeplin을 바탕으로 디자이너와의 소통을 통해 UX 디자인 참여"
+                            ]
+                          },
+                          "\n"
+                        ]
+                      },
+                      "\n\n",
+                      {
+                        "tag": "p",
+                        "attrs": {},
+                        "children": [
+                          {
+                            "tag": "strong",
+                            "attrs": {},
+                            "children": [
+                              "❏ 사용 기술"
+                            ]
+                          }
+                        ]
+                      },
+                      "\n",
+                      {
+                        "tag": "ul",
+                        "attrs": {},
+                        "children": [
+                          "\n  ",
+                          {
+                            "tag": "li",
+                            "attrs": {},
+                            "children": [
+                              {
+                                "tag": "img",
+                                "attrs": {
+                                  "src": "https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=HTML5&logoColor=white",
+                                  "alt": "HTML5"
+                                },
+                                "children": []
+                              },
+                              "\n  ",
+                              {
+                                "tag": "img",
+                                "attrs": {
+                                  "src": "https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=CSS3&logoColor=white",
+                                  "alt": "CSS3"
+                                },
+                                "children": []
+                              },
+                              "\n  ",
+                              {
+                                "tag": "img",
+                                "attrs": {
+                                  "src": "https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=JavaScript&logoColor=black",
+                                  "alt": "JavaScript"
+                                },
+                                "children": []
+                              },
+                              "\n  ",
+                              {
+                                "tag": "img",
+                                "attrs": {
+                                  "src": "https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=TypeScript&logoColor=black",
+                                  "alt": "TypeScript"
+                                },
+                                "children": []
+                              }
+                            ]
+                          },
+                          "\n  ",
+                          {
+                            "tag": "li",
+                            "attrs": {},
+                            "children": [
+                              {
+                                "tag": "img",
+                                "attrs": {
+                                  "src": "https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=React&logoColor=black",
+                                  "alt": "React"
+                                },
+                                "children": []
+                              },
+                              "\n  ",
+                              {
+                                "tag": "img",
+                                "attrs": {
+                                  "src": "https://img.shields.io/badge/Next.js-000000?style=flat-square&logo=Next.js&logoColor=white",
+                                  "alt": "Next.js"
+                                },
+                                "children": []
+                              },
+                              "\n  ",
+                              {
+                                "tag": "img",
+                                "attrs": {
+                                  "src": "https://img.shields.io/badge/Redux-764ABC?style=flat-square&logo=Redux&logoColor=white",
+                                  "alt": "Redux"
+                                },
+                                "children": []
+                              },
+                              "\n  ",
+                              {
+                                "tag": "img",
+                                "attrs": {
+                                  "src": "https://img.shields.io/badge/Redux--Saga-999999?style=flat-square&logo=Redux-Saga&logoColor=white",
+                                  "alt": "Redux-Saga"
+                                },
+                                "children": []
+                              }
+                            ]
+                          },
+                          "\n  ",
+                          {
+                            "tag": "li",
+                            "attrs": {},
+                            "children": [
+                              {
+                                "tag": "img",
+                                "attrs": {
+                                  "src": "https://img.shields.io/badge/emotion-DB7093?style=flat-square&logo=emotion&logoColor=white",
+                                  "alt": "emotion"
+                                },
+                                "children": []
+                              },
+                              "\n  ",
+                              {
+                                "tag": "img",
+                                "attrs": {
+                                  "src": "https://img.shields.io/badge/Material--UI-0081CB?style=flat-square&logo=mui&logoColor=white",
+                                  "alt": "Material-UI"
+                                },
+                                "children": []
+                              },
+                              "\n  ",
+                              {
+                                "tag": "img",
+                                "attrs": {
+                                  "src": "https://img.shields.io/badge/ESLint-4B32C3?style=flat-square&logo=ESLint&logoColor=white",
+                                  "alt": "ESLint"
+                                },
+                                "children": []
+                              },
+                              "\n  ",
+                              {
+                                "tag": "img",
+                                "attrs": {
+                                  "src": "https://img.shields.io/badge/Prettier-F7B93E?style=flat-square&logo=Prettier&logoColor=white",
+                                  "alt": "Prettier"
+                                },
+                                "children": []
+                              }
+                            ]
+                          },
+                          "\n  ",
+                          {
+                            "tag": "li",
+                            "attrs": {},
+                            "children": [
+                              {
+                                "tag": "img",
+                                "attrs": {
+                                  "src": "https://img.shields.io/badge/npm-CB3837?style=flat-square&logo=npm&logoColor=white",
+                                  "alt": "npm"
+                                },
+                                "children": []
+                              },
+                              "\n  ",
+                              {
+                                "tag": "img",
+                                "attrs": {
+                                  "src": "https://img.shields.io/badge/NGINX-009639?style=flat-square&logo=nginx&logoColor=white",
+                                  "alt": "NGINX"
+                                },
+                                "children": []
+                              }
+                            ]
+                          },
+                          "\n"
+                        ]
+                      },
+                      "\n\n    "
+                    ]
+                  },
+                  "\n  "
+                ]
+              },
+              "\n\n  ",
+              {
+                "tag": "div",
+                "attrs": {
+                  "class": "row clearfix layout layout-left"
+                },
+                "children": [
+                  "\n    ",
+                  {
+                    "tag": "div",
+                    "attrs": {
+                      "class": "col-xs-12 col-sm-4 col-md-3 col-print-12 details"
+                    },
+                    "children": [
+                      "\n      ",
+                      {
+                        "tag": "h4",
+                        "attrs": {},
+                        "children": []
+                      },
+                      {
+                        "tag": "p",
+                        "attrs": {},
+                        "children": [
+                          {
+                            "tag": "b",
+                            "attrs": {},
+                            "children": [
+                              "관리자 대시보드(해외) 개발",
+                              {
+                                "tag": "br",
+                                "attrs": {},
+                                "children": []
+                              }
+                            ]
+                          }
+                        ]
+                      },
+                      {
+                        "tag": "p",
+                        "attrs": {},
+                        "children": [
+                          "(주)원더풀플랫폼",
+                          {
+                            "tag": "br",
+                            "attrs": {},
+                            "children": []
+                          },
+                          "2021.05.31 ~ 현재"
+                        ]
+                      },
+                      {
+                        "tag": "p",
+                        "attrs": {
+                          "class": "no-print aditional-links"
+                        },
+                        "children": [
+                          "\n        \n      "
+                        ]
+                      },
+                      "\n    "
+                    ]
+                  },
+                  "\n    ",
+                  {
+                    "tag": "div",
+                    "attrs": {
+                      "class": "col-xs-12 col-sm-8 col-md-9 col-print-12 content"
+                    },
+                    "children": [
+                      {
+                        "tag": "p",
+                        "attrs": {},
+                        "children": [
+                          {
+                            "tag": "strong",
+                            "attrs": {},
+                            "children": [
+                              "❏ 프로젝트 개요"
+                            ]
+                          }
+                        ]
+                      },
+                      "\n",
+                      {
+                        "tag": "ul",
+                        "attrs": {},
+                        "children": [
+                          "\n  ",
+                          {
+                            "tag": "li",
+                            "attrs": {},
+                            "children": [
+                              "‘클라이언트(케어서비스 이용) & 케어기버’ 관리 및 데이터 조회를 위한 대시보드"
+                            ]
+                          },
+                          "\n  ",
+                          {
+                            "tag": "li",
+                            "attrs": {},
+                            "children": [
+                              "클라이언트/케어기버 데이터 조회, 영상통화, 통계 데이터 조회, 공지사항 발송, 긴급상황 모니터링 등 서비스 제공"
+                            ]
+                          },
+                          "\n"
+                        ]
+                      },
+                      "\n\n",
+                      {
+                        "tag": "p",
+                        "attrs": {},
+                        "children": [
+                          {
+                            "tag": "strong",
+                            "attrs": {},
+                            "children": [
+                              "❏ 역할"
+                            ]
+                          }
+                        ]
+                      },
+                      "\n",
+                      {
+                        "tag": "ul",
+                        "attrs": {},
+                        "children": [
+                          "\n  ",
+                          {
+                            "tag": "li",
+                            "attrs": {},
+                            "children": [
+                              "클라이언트(AI 케어 로봇/케어 App 사용) - 케어기버(맞춤형 케어서비스 App 사용) - 관리자(대시보드 사용)"
+                            ]
+                          },
+                          "\n  ",
+                          {
+                            "tag": "li",
+                            "attrs": {},
+                            "children": [
+                              "위 구조에서 클라이언트와 케어기버를 관리하고 관련 데이터를 조회할 수 있는 관리자 대시보드 개발"
+                            ]
+                          },
+                          "\n  ",
+                          {
+                            "tag": "li",
+                            "attrs": {},
+                            "children": [
+                              "관리자 대시보드(해외) Front-End 빌드 및 배포"
+                            ]
+                          },
+                          "\n  ",
+                          {
+                            "tag": "li",
+                            "attrs": {},
+                            "children": [
+                              "Zeplin을 바탕으로 디자이너와의 소통을 통해 UX 디자인 참여"
+                            ]
+                          },
+                          "\n  ",
+                          {
+                            "tag": "li",
+                            "attrs": {},
+                            "children": [
+                              "Figma를 바탕으로 추가 기획 단계에 참여"
+                            ]
+                          },
+                          "\n  ",
+                          {
+                            "tag": "li",
+                            "attrs": {},
+                            "children": [
+                              "React > Next.js 마이그레이션"
+                            ]
+                          },
+                          "\n  ",
+                          {
+                            "tag": "li",
+                            "attrs": {},
+                            "children": [
+                              "전역 상태관리 방식 변경 (Props Drilling > Context API > Redux > Redux-Toolkit)"
+                            ]
+                          },
+                          "\n  ",
+                          {
+                            "tag": "li",
+                            "attrs": {},
+                            "children": [
+                              "Javascript > Typescript 마이그레이션"
+                            ]
+                          },
+                          "\n  ",
+                          {
+                            "tag": "li",
+                            "attrs": {},
+                            "children": [
+                              "Google SEO 설정"
+                            ]
+                          },
+                          "\n"
+                        ]
+                      },
+                      "\n\n",
+                      {
+                        "tag": "p",
+                        "attrs": {},
+                        "children": [
+                          {
+                            "tag": "strong",
+                            "attrs": {},
+                            "children": [
+                              "❏ 사용 기술"
+                            ]
+                          }
+                        ]
+                      },
+                      "\n",
+                      {
+                        "tag": "ul",
+                        "attrs": {},
+                        "children": [
+                          "\n  ",
+                          {
+                            "tag": "li",
+                            "attrs": {},
+                            "children": [
+                              {
+                                "tag": "img",
+                                "attrs": {
+                                  "src": "https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=HTML5&logoColor=white",
+                                  "alt": "HTML5"
+                                },
+                                "children": []
+                              },
+                              "\n  ",
+                              {
+                                "tag": "img",
+                                "attrs": {
+                                  "src": "https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=CSS3&logoColor=white",
+                                  "alt": "CSS3"
+                                },
+                                "children": []
+                              },
+                              "\n  ",
+                              {
+                                "tag": "img",
+                                "attrs": {
+                                  "src": "https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=JavaScript&logoColor=black",
+                                  "alt": "JavaScript"
+                                },
+                                "children": []
+                              },
+                              "\n  ",
+                              {
+                                "tag": "img",
+                                "attrs": {
+                                  "src": "https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=TypeScript&logoColor=black",
+                                  "alt": "TypeScript"
+                                },
+                                "children": []
+                              }
+                            ]
+                          },
+                          "\n  ",
+                          {
+                            "tag": "li",
+                            "attrs": {},
+                            "children": [
+                              {
+                                "tag": "img",
+                                "attrs": {
+                                  "src": "https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=React&logoColor=black",
+                                  "alt": "React"
+                                },
+                                "children": []
+                              },
+                              "\n  ",
+                              {
+                                "tag": "img",
+                                "attrs": {
+                                  "src": "https://img.shields.io/badge/Next.js-000000?style=flat-square&logo=Next.js&logoColor=white",
+                                  "alt": "Next.js"
+                                },
+                                "children": []
+                              },
+                              "\n  ",
+                              {
+                                "tag": "img",
+                                "attrs": {
+                                  "src": "https://img.shields.io/badge/Redux--Toolkit-764ABC?style=flat-square&logo=Redux&logoColor=white",
+                                  "alt": "Redux-Toolkit"
+                                },
+                                "children": []
+                              },
+                              "\n  ",
+                              {
+                                "tag": "img",
+                                "attrs": {
+                                  "src": "https://img.shields.io/badge/Redux--Saga-999999?style=flat-square&logo=Redux-Saga&logoColor=white",
+                                  "alt": "Redux-Saga"
+                                },
+                                "children": []
+                              }
+                            ]
+                          },
+                          "\n  ",
+                          {
+                            "tag": "li",
+                            "attrs": {},
+                            "children": [
+                              {
+                                "tag": "img",
+                                "attrs": {
+                                  "src": "https://img.shields.io/badge/styled--components-DB7093?style=flat-square&logo=styled%20components&logoColor=white",
+                                  "alt": "styled-components"
+                                },
+                                "children": []
+                              },
+                              "\n  ",
+                              {
+                                "tag": "img",
+                                "attrs": {
+                                  "src": "https://img.shields.io/badge/Material--UI-0081CB?style=flat-square&logo=mui&logoColor=white",
+                                  "alt": "Material-UI"
+                                },
+                                "children": []
+                              },
+                              "\n  ",
+                              {
+                                "tag": "img",
+                                "attrs": {
+                                  "src": "https://img.shields.io/badge/ESLint-4B32C3?style=flat-square&logo=ESLint&logoColor=white",
+                                  "alt": "ESLint"
+                                },
+                                "children": []
+                              },
+                              "\n  ",
+                              {
+                                "tag": "img",
+                                "attrs": {
+                                  "src": "https://img.shields.io/badge/Prettier-F7B93E?style=flat-square&logo=Prettier&logoColor=white",
+                                  "alt": "Prettier"
+                                },
+                                "children": []
+                              }
+                            ]
+                          },
+                          "\n  ",
+                          {
+                            "tag": "li",
+                            "attrs": {},
+                            "children": [
+                              {
+                                "tag": "img",
+                                "attrs": {
+                                  "src": "https://img.shields.io/badge/npm-CB3837?style=flat-square&logo=npm&logoColor=white",
+                                  "alt": "npm"
+                                },
+                                "children": []
+                              },
+                              "\n  ",
+                              {
+                                "tag": "img",
+                                "attrs": {
+                                  "src": "https://img.shields.io/badge/NGINX-009639?style=flat-square&logo=nginx&logoColor=white",
+                                  "alt": "NGINX"
+                                },
+                                "children": []
+                              }
+                            ]
+                          },
+                          "\n"
+                        ]
+                      },
+                      "\n\n    "
+                    ]
+                  },
+                  "\n  "
+                ]
+              },
+              "\n\n  ",
+              {
+                "tag": "div",
+                "attrs": {
+                  "class": "row clearfix layout layout-left"
+                },
+                "children": [
+                  "\n    ",
+                  {
+                    "tag": "div",
+                    "attrs": {
+                      "class": "col-xs-12 col-sm-4 col-md-3 col-print-12 details"
+                    },
+                    "children": [
+                      "\n      ",
+                      {
+                        "tag": "h4",
+                        "attrs": {},
+                        "children": []
+                      },
+                      {
+                        "tag": "p",
+                        "attrs": {},
+                        "children": [
+                          {
+                            "tag": "b",
+                            "attrs": {},
+                            "children": [
+                              "육아의 신 App WebView 개발",
+                              {
+                                "tag": "br",
+                                "attrs": {},
+                                "children": []
+                              }
+                            ]
+                          }
+                        ]
+                      },
+                      {
+                        "tag": "p",
+                        "attrs": {},
+                        "children": [
+                          "(주)원더풀플랫폼",
+                          {
+                            "tag": "br",
+                            "attrs": {},
+                            "children": []
+                          },
+                          "2020.12.31 ~ 2022.02.01"
+                        ]
+                      },
+                      {
+                        "tag": "p",
+                        "attrs": {
+                          "class": "no-print aditional-links"
+                        },
+                        "children": [
+                          "\n        \n      "
+                        ]
+                      },
+                      "\n    "
+                    ]
+                  },
+                  "\n    ",
+                  {
+                    "tag": "div",
+                    "attrs": {
+                      "class": "col-xs-12 col-sm-8 col-md-9 col-print-12 content"
+                    },
+                    "children": [
+                      {
+                        "tag": "p",
+                        "attrs": {},
+                        "children": [
+                          {
+                            "tag": "strong",
+                            "attrs": {},
+                            "children": [
+                              "❏ 프로젝트 개요"
+                            ]
+                          }
+                        ]
+                      },
+                      "\n",
+                      {
+                        "tag": "ul",
+                        "attrs": {},
+                        "children": [
+                          "\n  ",
+                          {
+                            "tag": "li",
+                            "attrs": {},
+                            "children": [
+                              "AI 기반 육아 상담 서비스를 지원하는 애플리케이션 (서비스 종료)"
+                            ]
+                          },
+                          "\n  ",
+                          {
+                            "tag": "li",
+                            "attrs": {},
+                            "children": [
+                              "발달 심리 전문가 AI 아바타를 통해 부모와의 양방향 소통으로 맞춤형 육아 지식을 제공"
+                            ]
+                          },
+                          "\n"
+                        ]
+                      },
+                      "\n\n",
+                      {
+                        "tag": "p",
+                        "attrs": {},
+                        "children": [
+                          {
+                            "tag": "strong",
+                            "attrs": {},
+                            "children": [
+                              "❏ 역할"
+                            ]
+                          }
+                        ]
+                      },
+                      "\n",
+                      {
+                        "tag": "ul",
+                        "attrs": {},
+                        "children": [
+                          "\n  ",
+                          {
+                            "tag": "li",
+                            "attrs": {},
+                            "children": [
+                              "커뮤니티 탭 개발 : 게시글 및 댓글 작성을 통한 전문가와 부모 간 양방향 소통"
+                            ]
+                          },
+                          "\n  ",
+                          {
+                            "tag": "li",
+                            "attrs": {},
+                            "children": [
+                              "육아의 신 App WebView Front-End 빌드 및 배포"
+                            ]
+                          },
+                          "\n"
+                        ]
+                      },
+                      "\n\n",
+                      {
+                        "tag": "p",
+                        "attrs": {},
+                        "children": [
+                          {
+                            "tag": "strong",
+                            "attrs": {},
+                            "children": [
+                              "❏ 사용 기술"
+                            ]
+                          }
+                        ]
+                      },
+                      "\n",
+                      {
+                        "tag": "ul",
+                        "attrs": {},
+                        "children": [
+                          "\n  ",
+                          {
+                            "tag": "li",
+                            "attrs": {},
+                            "children": [
+                              {
+                                "tag": "img",
+                                "attrs": {
+                                  "src": "https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=HTML5&logoColor=white",
+                                  "alt": "HTML5"
+                                },
+                                "children": []
+                              },
+                              "\n  ",
+                              {
+                                "tag": "img",
+                                "attrs": {
+                                  "src": "https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=CSS3&logoColor=white",
+                                  "alt": "CSS3"
+                                },
+                                "children": []
+                              },
+                              "\n  ",
+                              {
+                                "tag": "img",
+                                "attrs": {
+                                  "src": "https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=JavaScript&logoColor=black",
+                                  "alt": "JavaScript"
+                                },
+                                "children": []
+                              }
+                            ]
+                          },
+                          "\n  ",
+                          {
+                            "tag": "li",
+                            "attrs": {},
+                            "children": [
+                              {
+                                "tag": "img",
+                                "attrs": {
+                                  "src": "https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=React&logoColor=black",
+                                  "alt": "React"
+                                },
+                                "children": []
+                              },
+                              "\n  ",
+                              {
+                                "tag": "img",
+                                "attrs": {
+                                  "src": "https://img.shields.io/badge/React--Router-CA4245?style=flat-square&logo=React%20Router&logoColor=white",
+                                  "alt": "React-Router"
+                                },
+                                "children": []
+                              }
+                            ]
+                          },
+                          "\n  ",
+                          {
+                            "tag": "li",
+                            "attrs": {},
+                            "children": [
+                              {
+                                "tag": "img",
+                                "attrs": {
+                                  "src": "https://img.shields.io/badge/Material--UI-0081CB?style=flat-square&logo=mui&logoColor=white",
+                                  "alt": "Material-UI"
+                                },
+                                "children": []
+                              },
+                              "\n  ",
+                              {
+                                "tag": "img",
+                                "attrs": {
+                                  "src": "https://img.shields.io/badge/ESLint-4B32C3?style=flat-square&logo=ESLint&logoColor=white",
+                                  "alt": "ESLint"
+                                },
+                                "children": []
+                              },
+                              "\n  ",
+                              {
+                                "tag": "img",
+                                "attrs": {
+                                  "src": "https://img.shields.io/badge/Prettier-F7B93E?style=flat-square&logo=Prettier&logoColor=white",
+                                  "alt": "Prettier"
+                                },
+                                "children": []
+                              }
+                            ]
+                          },
+                          "\n  ",
+                          {
+                            "tag": "li",
+                            "attrs": {},
+                            "children": [
+                              {
+                                "tag": "img",
+                                "attrs": {
+                                  "src": "https://img.shields.io/badge/npm-CB3837?style=flat-square&logo=npm&logoColor=white",
+                                  "alt": "npm"
+                                },
+                                "children": []
+                              },
+                              "\n  ",
+                              {
+                                "tag": "img",
+                                "attrs": {
+                                  "src": "https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=Node.js&logoColor=white",
+                                  "alt": "Node.js"
+                                },
+                                "children": []
+                              },
+                              "\n  ",
+                              {
+                                "tag": "img",
+                                "attrs": {
+                                  "src": "https://img.shields.io/badge/Express-000000?style=flat-square&logo=Express&logoColor=white",
+                                  "alt": "Express"
+                                },
+                                "children": []
+                              },
+                              "\n  ",
+                              {
+                                "tag": "img",
+                                "attrs": {
+                                  "src": "https://img.shields.io/badge/NGINX-009639?style=flat-square&logo=nginx&logoColor=white",
+                                  "alt": "NGINX"
+                                },
+                                "children": []
+                              }
+                            ]
+                          },
+                          "\n"
+                        ]
+                      },
+                      "\n\n    "
+                    ]
+                  },
+                  "\n  "
+                ]
+              },
+              "\n\n  ",
+              {
+                "tag": "div",
+                "attrs": {
+                  "class": "row clearfix layout layout-left"
+                },
+                "children": [
+                  "\n    ",
+                  {
+                    "tag": "div",
+                    "attrs": {
+                      "class": "col-xs-12 col-sm-4 col-md-3 col-print-12 details"
+                    },
+                    "children": [
+                      "\n      ",
+                      {
+                        "tag": "h4",
+                        "attrs": {},
+                        "children": []
+                      },
+                      {
+                        "tag": "p",
+                        "attrs": {},
+                        "children": [
+                          {
+                            "tag": "b",
+                            "attrs": {},
+                            "children": [
+                              "Avadin Works App WebView 개발",
+                              {
+                                "tag": "br",
+                                "attrs": {},
+                                "children": []
+                              }
+                            ]
+                          }
+                        ]
+                      },
+                      {
+                        "tag": "p",
+                        "attrs": {},
+                        "children": [
+                          "(주)원더풀플랫폼",
+                          {
+                            "tag": "br",
+                            "attrs": {},
+                            "children": []
+                          },
+                          "2020.12.14 ~ 2021.05.31"
+                        ]
+                      },
+                      {
+                        "tag": "p",
+                        "attrs": {
+                          "class": "no-print aditional-links"
+                        },
+                        "children": [
+                          "\n        \n      "
+                        ]
+                      },
+                      "\n    "
+                    ]
+                  },
+                  "\n    ",
+                  {
+                    "tag": "div",
+                    "attrs": {
+                      "class": "col-xs-12 col-sm-8 col-md-9 col-print-12 content"
+                    },
+                    "children": [
+                      {
+                        "tag": "p",
+                        "attrs": {},
+                        "children": [
+                          {
+                            "tag": "strong",
+                            "attrs": {},
+                            "children": [
+                              "❏ 프로젝트 개요"
+                            ]
+                          }
+                        ]
+                      },
+                      "\n",
+                      {
+                        "tag": "ul",
+                        "attrs": {},
+                        "children": [
+                          "\n  ",
+                          {
+                            "tag": "li",
+                            "attrs": {},
+                            "children": [
+                              "비대면 재택 근무 환경에서 기업 내 임직원들의 출퇴근 관리 및 업무 효율 증진을 위한 애플리케이션"
+                            ]
+                          },
+                          "\n  ",
+                          {
+                            "tag": "li",
+                            "attrs": {},
+                            "children": [
+                              "얼굴 인식을 통한 트래킹, 자리이탈 감지 기능 제공"
+                            ]
+                          },
+                          "\n  ",
+                          {
+                            "tag": "li",
+                            "attrs": {},
+                            "children": [
+                              "업무 보고 간소화(직원) & 효율적인 근태 기록(관리자) 서비스 제공"
+                            ]
+                          },
+                          "\n"
+                        ]
+                      },
+                      "\n\n",
+                      {
+                        "tag": "p",
+                        "attrs": {},
+                        "children": [
+                          {
+                            "tag": "strong",
+                            "attrs": {},
+                            "children": [
+                              "❏ 역할"
+                            ]
+                          }
+                        ]
+                      },
+                      "\n",
+                      {
+                        "tag": "ul",
+                        "attrs": {},
+                        "children": [
+                          "\n  ",
+                          {
+                            "tag": "li",
+                            "attrs": {},
+                            "children": [
+                              "회사 관리자 뷰 개발 : 전체 팀 근태 현황 및 통계 확인"
+                            ]
+                          },
+                          "\n  ",
+                          {
+                            "tag": "li",
+                            "attrs": {},
+                            "children": [
+                              "팀 세부 뷰 개발 : 소속 팀 및 팀원 조회, 메인 팀 설정, 팀원 관리"
+                            ]
+                          },
+                          "\n  ",
+                          {
+                            "tag": "li",
+                            "attrs": {},
+                            "children": [
+                              "근무카드 작성 뷰 개발 : 근무카드 작성 및 수정"
+                            ]
+                          },
+                          "\n  ",
+                          {
+                            "tag": "li",
+                            "attrs": {},
+                            "children": [
+                              "Avadin Works App WebView Front-End 빌드 및 배포"
+                            ]
+                          },
+                          "\n"
+                        ]
+                      },
+                      "\n\n",
+                      {
+                        "tag": "p",
+                        "attrs": {},
+                        "children": [
+                          {
+                            "tag": "strong",
+                            "attrs": {},
+                            "children": [
+                              "❏ 사용 기술"
+                            ]
+                          }
+                        ]
+                      },
+                      "\n",
+                      {
+                        "tag": "ul",
+                        "attrs": {},
+                        "children": [
+                          "\n  ",
+                          {
+                            "tag": "li",
+                            "attrs": {},
+                            "children": [
+                              {
+                                "tag": "img",
+                                "attrs": {
+                                  "src": "https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=HTML5&logoColor=white",
+                                  "alt": "HTML5"
+                                },
+                                "children": []
+                              },
+                              "\n  ",
+                              {
+                                "tag": "img",
+                                "attrs": {
+                                  "src": "https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=CSS3&logoColor=white",
+                                  "alt": "CSS3"
+                                },
+                                "children": []
+                              },
+                              "\n  ",
+                              {
+                                "tag": "img",
+                                "attrs": {
+                                  "src": "https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=JavaScript&logoColor=black",
+                                  "alt": "JavaScript"
+                                },
+                                "children": []
+                              }
+                            ]
+                          },
+                          "\n  ",
+                          {
+                            "tag": "li",
+                            "attrs": {},
+                            "children": [
+                              {
+                                "tag": "img",
+                                "attrs": {
+                                  "src": "https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=React&logoColor=black",
+                                  "alt": "React"
+                                },
+                                "children": []
+                              },
+                              "\n  ",
+                              {
+                                "tag": "img",
+                                "attrs": {
+                                  "src": "https://img.shields.io/badge/React--Router-CA4245?style=flat-square&logo=React%20Router&logoColor=white",
+                                  "alt": "React-Router"
+                                },
+                                "children": []
+                              }
+                            ]
+                          },
+                          "\n  ",
+                          {
+                            "tag": "li",
+                            "attrs": {},
+                            "children": [
+                              {
+                                "tag": "img",
+                                "attrs": {
+                                  "src": "https://img.shields.io/badge/Material--UI-0081CB?style=flat-square&logo=mui&logoColor=white",
+                                  "alt": "Material-UI"
+                                },
+                                "children": []
+                              },
+                              "\n  ",
+                              {
+                                "tag": "img",
+                                "attrs": {
+                                  "src": "https://img.shields.io/badge/ESLint-4B32C3?style=flat-square&logo=ESLint&logoColor=white",
+                                  "alt": "ESLint"
+                                },
+                                "children": []
+                              },
+                              "\n  ",
+                              {
+                                "tag": "img",
+                                "attrs": {
+                                  "src": "https://img.shields.io/badge/Prettier-F7B93E?style=flat-square&logo=Prettier&logoColor=white",
+                                  "alt": "Prettier"
+                                },
+                                "children": []
+                              }
+                            ]
+                          },
+                          "\n  ",
+                          {
+                            "tag": "li",
+                            "attrs": {},
+                            "children": [
+                              {
+                                "tag": "img",
+                                "attrs": {
+                                  "src": "https://img.shields.io/badge/npm-CB3837?style=flat-square&logo=npm&logoColor=white",
+                                  "alt": "npm"
+                                },
+                                "children": []
+                              },
+                              "\n  ",
+                              {
+                                "tag": "img",
+                                "attrs": {
+                                  "src": "https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=Node.js&logoColor=white",
+                                  "alt": "Node.js"
+                                },
+                                "children": []
+                              },
+                              "\n  ",
+                              {
+                                "tag": "img",
+                                "attrs": {
+                                  "src": "https://img.shields.io/badge/Express-000000?style=flat-square&logo=Express&logoColor=white",
+                                  "alt": "Express"
+                                },
+                                "children": []
+                              },
+                              "\n  ",
+                              {
+                                "tag": "img",
+                                "attrs": {
+                                  "src": "https://img.shields.io/badge/NGINX-009639?style=flat-square&logo=nginx&logoColor=white",
+                                  "alt": "NGINX"
+                                },
+                                "children": []
+                              }
+                            ]
+                          },
+                          "\n"
+                        ]
+                      },
+                      "\n\n    "
+                    ]
+                  },
+                  "\n  "
+                ]
+              },
+              "\n\n\n          "
+            ]
+          },
+          "\n        \n          ",
+          {
+            "tag": "div",
+            "attrs": {
+              "class": "container list-container"
+            },
+            "children": [
+              "\n            ",
+              {
+                "tag": "h3",
+                "attrs": {},
+                "children": [
+                  "Experience"
+                ]
+              },
+              "\n            \n  ",
+              {
+                "tag": "div",
+                "attrs": {
+                  "class": "row clearfix layout layout-left"
+                },
+                "children": [
+                  "\n    ",
+                  {
+                    "tag": "div",
+                    "attrs": {
+                      "class": "col-xs-12 col-sm-4 col-md-3 col-print-12 details"
+                    },
+                    "children": [
+                      "\n      ",
+                      {
+                        "tag": "h4",
+                        "attrs": {},
+                        "children": []
+                      },
+                      {
+                        "tag": "p",
+                        "attrs": {},
+                        "children": [
+                          {
+                            "tag": "b",
+                            "attrs": {},
+                            "children": [
+                              "(주)원더풀플랫폼"
+                            ]
+                          }
+                        ]
+                      },
+                      {
+                        "tag": "p",
+                        "attrs": {},
+                        "children": [
+                          "데이터팀",
+                          {
+                            "tag": "br",
+                            "attrs": {},
+                            "children": []
+                          },
+                          "2021.06.11 ~ 현재"
+                        ]
+                      },
+                      {
+                        "tag": "p",
+                        "attrs": {
+                          "class": "no-print aditional-links"
+                        },
+                        "children": [
+                          "\n        \n      "
+                        ]
+                      },
+                      "\n    "
+                    ]
+                  },
+                  "\n    ",
+                  {
+                    "tag": "div",
+                    "attrs": {
+                      "class": "col-xs-12 col-sm-8 col-md-9 col-print-12 content"
+                    },
+                    "children": [
+                      {
+                        "tag": "ul",
+                        "attrs": {},
+                        "children": [
+                          "\n  ",
+                          {
+                            "tag": "li",
+                            "attrs": {},
+                            "children": [
+                              "FE 모노레포 구축"
+                            ]
+                          },
+                          "\n  ",
+                          {
+                            "tag": "li",
+                            "attrs": {},
+                            "children": [
+                              "다솜이와의 대화 체험 웹 App 개발 및 유지보수"
+                            ]
+                          },
+                          "\n  ",
+                          {
+                            "tag": "li",
+                            "attrs": {},
+                            "children": [
+                              "관리자 대시보드(산소치료기기 사용자) 개발 및 유지보수"
+                            ]
+                          },
+                          "\n  ",
+                          {
+                            "tag": "li",
+                            "attrs": {},
+                            "children": [
+                              "원더풀플랫폼 홈페이지 개발 및 유지보수"
+                            ]
+                          },
+                          "\n  ",
+                          {
+                            "tag": "li",
+                            "attrs": {},
+                            "children": [
+                              "관리자 대시보드(국내 지자체) 개발 및 유지보수"
+                            ]
+                          },
+                          "\n  ",
+                          {
+                            "tag": "li",
+                            "attrs": {},
+                            "children": [
+                              "케비 보호자 App WebView 개발 및 유지보수"
+                            ]
+                          },
+                          "\n  ",
+                          {
+                            "tag": "li",
+                            "attrs": {},
+                            "children": [
+                              "관리자 대시보드(해외) 개발 및 유지보수"
+                            ]
+                          },
+                          "\n  ",
+                          {
+                            "tag": "li",
+                            "attrs": {},
+                            "children": [
+                              "육아의 신 App WebView 개발 및 유지보수"
+                            ]
+                          },
+                          "\n"
+                        ]
+                      },
+                      "\n\n    "
+                    ]
+                  },
+                  "\n  "
+                ]
+              },
+              "\n\n  ",
+              {
+                "tag": "div",
+                "attrs": {
+                  "class": "row clearfix layout layout-left"
+                },
+                "children": [
+                  "\n    ",
+                  {
+                    "tag": "div",
+                    "attrs": {
+                      "class": "col-xs-12 col-sm-4 col-md-3 col-print-12 details"
+                    },
+                    "children": [
+                      "\n      ",
+                      {
+                        "tag": "h4",
+                        "attrs": {},
+                        "children": []
+                      },
+                      {
+                        "tag": "p",
+                        "attrs": {},
+                        "children": [
+                          {
+                            "tag": "b",
+                            "attrs": {},
+                            "children": [
+                              "(주)원더풀플랫폼"
+                            ]
+                          }
+                        ]
+                      },
+                      {
+                        "tag": "p",
+                        "attrs": {},
+                        "children": [
+                          "인턴",
+                          {
+                            "tag": "br",
+                            "attrs": {},
+                            "children": []
+                          },
+                          "2020.12.11 ~ 2021.06.10"
+                        ]
+                      },
+                      {
+                        "tag": "p",
+                        "attrs": {
+                          "class": "no-print aditional-links"
+                        },
+                        "children": [
+                          "\n        \n      "
+                        ]
+                      },
+                      "\n    "
+                    ]
+                  },
+                  "\n    ",
+                  {
+                    "tag": "div",
+                    "attrs": {
+                      "class": "col-xs-12 col-sm-8 col-md-9 col-print-12 content"
+                    },
+                    "children": [
+                      {
+                        "tag": "ul",
+                        "attrs": {},
+                        "children": [
+                          "\n  ",
+                          {
+                            "tag": "li",
+                            "attrs": {},
+                            "children": [
+                              "관리자 대시보드(해외) 구조 설계"
+                            ]
+                          },
+                          "\n  ",
+                          {
+                            "tag": "li",
+                            "attrs": {},
+                            "children": [
+                              "Avadin Works App WebView 개발 및 유지보수"
+                            ]
+                          },
+                          "\n  ",
+                          {
+                            "tag": "li",
+                            "attrs": {},
+                            "children": [
+                              "육아의 신 App WebView 개발 및 유지보수"
+                            ]
+                          },
+                          "\n"
+                        ]
+                      },
+                      "\n\n    "
+                    ]
+                  },
+                  "\n  "
+                ]
+              },
+              "\n\n  ",
+              {
+                "tag": "div",
+                "attrs": {
+                  "class": "row clearfix layout layout-left"
+                },
+                "children": [
+                  "\n    ",
+                  {
+                    "tag": "div",
+                    "attrs": {
+                      "class": "col-xs-12 col-sm-4 col-md-3 col-print-12 details"
+                    },
+                    "children": [
+                      "\n      ",
+                      {
+                        "tag": "h4",
+                        "attrs": {},
+                        "children": []
+                      },
+                      {
+                        "tag": "p",
+                        "attrs": {},
+                        "children": [
+                          {
+                            "tag": "b",
+                            "attrs": {},
+                            "children": [
+                              "솔데스크 IT 아카데미"
+                            ]
+                          }
+                        ]
+                      },
+                      {
+                        "tag": "p",
+                        "attrs": {},
+                        "children": [
+                          "2018.10.16 ~ 2019.04.11"
+                        ]
+                      },
+                      {
+                        "tag": "p",
+                        "attrs": {
+                          "class": "no-print aditional-links"
+                        },
+                        "children": [
+                          "\n        \n      "
+                        ]
+                      },
+                      "\n    "
+                    ]
+                  },
+                  "\n    ",
+                  {
+                    "tag": "div",
+                    "attrs": {
+                      "class": "col-xs-12 col-sm-8 col-md-9 col-print-12 content"
+                    },
+                    "children": [
+                      {
+                        "tag": "ul",
+                        "attrs": {},
+                        "children": [
+                          "\n  ",
+                          {
+                            "tag": "li",
+                            "attrs": {},
+                            "children": [
+                              "자바 보안코딩 기반 빅데이터 개발자 양성 과정 수료"
+                            ]
+                          },
+                          "\n  ",
+                          {
+                            "tag": "li",
+                            "attrs": {},
+                            "children": [
+                              "여행 계획을 세우는 과정에서 숙박, 음식점 등을 선택하는데 불편함을 해소하기 위한 웹 App 개발"
+                            ]
+                          },
+                          "\n"
+                        ]
+                      },
+                      "\n\n    "
+                    ]
+                  },
+                  "\n  "
+                ]
+              },
+              "\n\n\n          "
+            ]
+          },
+          "\n        \n      "
+        ]
+      },
+      "\n  "
+    ]
+  },
+  {
+    "tag": "div",
+    "attrs": {
+      "class": "container footer-container"
+    },
+    "children": [
+      {
+        "tag": "p",
+        "attrs": {},
+        "children": [
+          "\n    하  현 -\n    ",
+          {
+            "tag": "a",
+            "attrs": {
+              "href": "mailto:gkgusgkgus@gmail.com",
+              "target": "_blank"
+            },
+            "children": [
+              "gkgusgkgus@gmail.com"
+            ]
+          },
+          " - References on request"
+        ]
+      },
+      "\n"
+    ]
+  },
+  "\n"
+]
